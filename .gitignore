@@ -1,2 +1,4 @@
-app/__paycache__/
-__paycache__/ 
+app/__pycache__/
+__pycache__/ 
+instance
+flask_env
