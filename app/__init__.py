@@ -1,6 +1,7 @@
 import os
 
 from flask import Flask
+from app import views
 
 
 def create_app(test_config=None):
@@ -32,5 +33,9 @@ def create_app(test_config=None):
     from . import db
 
     db.init_app(app)
+    from . import views
 
+    # app.register_blueprint(auth.bp)
+    app.add_url_rule("/", view_func=views.home)
+    app.add_url_rule("/result", view_func=views.result, methods=["GET", "POST"])
     return app
