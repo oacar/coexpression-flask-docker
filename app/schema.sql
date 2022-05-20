@@ -1,17 +1,121 @@
-DROP TABLE IF EXISTS user;
-DROP TABLE IF EXISTS post;
-
-CREATE TABLE user (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  username TEXT UNIQUE NOT NULL,
-  password TEXT NOT NULL
+DROP TABLE IF EXISTS coexpression;
+DROP TABLE IF EXISTS orf;
+DROP TABLE IF EXISTS coexpression_network;
+DROP TABLE IF EXISTS go_orfs;
+DROP TABLE IF EXISTS coexpression_cluster;
+DROP TABLE IF EXISTS gene_ontology;
+CREATE TABLE orf (
+  orf_id INTEGER PRIMARY KEY,
+  orf_name VARCHAR(255) NOT NULL,
+  -- 
+  orf_sequence TEXT NOT NULL,
+  orf_start INTEGER NOT NULL,
+  orf_end INTEGER NOT NULL,
+  orf_strand CHAR(1) NOT NULL,
+  orf_length INTEGER NOT NULL,
+  orf_gc_content FLOAT NOT NULL,
+  orf_riboseq_qvalue FLOAT NOT NULL,
+  orf_riboseq_reads INTEGER NOT NULL,
+  orf_upstream_neighbor VARCHAR(255) NOT NULL,
+  orf_downstream_neighbor VARCHAR(255) NOT NULL,
+  orf_upstream_neighbor_distance INTEGER NOT NULL,
+  orf_downstream_neighbor_distance INTEGER NOT NULL,
+  orf_upstream_neighbor_strand CHAR(1) NOT NULL,
+  orf_downstream_neighbor_strand CHAR(1) NOT NULL,
+  orf_upstream_neighbor_length INTEGER NOT NULL,
+  orf_downstream_neighbor_length INTEGER NOT NULL
 );
-
-CREATE TABLE post (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  author_id INTEGER NOT NULL,
-  created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  title TEXT NOT NULL,
-  body TEXT NOT NULL,
-  FOREIGN KEY (author_id) REFERENCES user (id)
+CREATE TABLE coexpression (
+  orf_id INTEGER,
+  coexpression_id INTEGER,
+  coexpressed_orf_id INTEGER,
+  rho FLOAT,
+  pairwise_observations INTEGER,
+  pearson_r FLOAT,
+  spearman_r FLOAT,
+  PRIMARY KEY(orf_id, coexpressed_orf_id),
+  FOREIGN KEY(coexpressed_orf_id) REFERENCES orf(orf_id),
+  FOREIGN KEY(orf_id) REFERENCES orf(orf_id)
 );
+CREATE TABLE coexpression_network (
+  orf_id INTEGER,
+  cluster_id INTEGER,
+  degree INTEGER,
+  FOREIGN KEY(orf_id) REFERENCES orf(orf_id),
+  FOREIGN KEY(cluster_id) REFERENCES coexpression_cluster(cluster_id),
+  PRIMARY KEY(orf_id, cluster_id)
+);
+CREATE TABLE go_orfs (
+  go_orfs_id INTEGER PRIMARY KEY,
+  orf_id INTEGER NOT NULL,
+  FOREIGN KEY(orf_id) REFERENCES orf(orf_id)
+);
+CREATE TABLE coexpression_cluster (
+  cluster_id INTEGER PRIMARY KEY,
+  cluster_name VARCHAR(255) NOT NULL,
+  cluster_size INTEGER NOT NULL,
+  transient_ratio FLOAT NOT NULL,
+  conserved_ratio FLOAT NOT NULL,
+  nei_ratio FLOAT NOT NULL,
+  transient_count INTEGER NOT NULL,
+  conserved_count INTEGER NOT NULL,
+  nei_count INTEGER NOT NULL,
+  bp_count INTEGER NOT NULL,
+  mf_count INTEGER NOT NULL,
+  cc_count INTEGER NOT NULL,
+  tf_count INTEGER NOT NULL
+);
+CREATE TABLE gene_ontology (
+  gene_ontology_table_id INTEGER PRIMARY KEY,
+  go_name VARCHAR(255) NOT NULL,
+  go_id VARCHAR(255) NOT NULL,
+  go_definition VARCHAR(255) NOT NULL,
+  study_count INTEGER NOT NULL,
+  study_ratio FLOAT NOT NULL,
+  population_count INTEGER NOT NULL,
+  population_ratio FLOAT NOT NULL,
+  cluster_id INTEGER NOT NULL,
+  study_orfs_id INTEGER NOT NULL,
+  FOREIGN KEY(cluster_id) REFERENCES coexpression_cluster(cluster_id),
+  FOREIGN KEY(study_orfs_id) REFERENCES go_orfs(go_orfs_id)
+);
+INSERT INTO orf (
+    orf_id,
+    orf_name,
+    orf_sequence,
+    orf_start,
+    orf_end,
+    orf_strand,
+    orf_length,
+    orf_gc_content,
+    orf_riboseq_qvalue,
+    orf_riboseq_reads,
+    orf_upstream_neighbor,
+    orf_downstream_neighbor,
+    orf_upstream_neighbor_distance,
+    orf_downstream_neighbor_distance,
+    orf_upstream_neighbor_strand,
+    orf_downstream_neighbor_strand,
+    orf_upstream_neighbor_length,
+    orf_downstream_neighbor_length
+  )
+VALUES (
+    1,
+    'YAL066W',
+    "ATG",
+    1,
+    3,
+    '+',
+    3,
+    0.5,
+    0.5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  );
