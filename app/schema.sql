@@ -118,4 +118,94 @@ VALUES (
     0,
     0,
     0
+  ),
+  (
+    2,
+    'YBR196C-A',
+    "ATG",
+    1,
+    3,
+    '+',
+    3,
+    0.5,
+    0.5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
   );
+INSERT INTO go_orfs (go_orfs_id, orf_id)
+VALUES (1, 1);
+INSERT INTO gene_ontology(
+    gene_ontology_table_id,
+    go_name,
+    go_id,
+    go_definition,
+    study_count,
+    study_ratio,
+    population_count,
+    population_ratio,
+    cluster_id,
+    study_orfs_id
+  )
+VALUES (
+    1,
+    'GO:0003674',
+    'GO:0003674',
+    'cellular_component',
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  );
+INSERT INTO coexpression_network (orf_id, cluster_id, degree)
+VALUES (1, 1, 1);
+INSERT INTO coexpression (
+    orf_id,
+    coexpressed_orf_id,
+    rho,
+    pairwise_observations,
+    pearson_r,
+    spearman_r
+  )
+VALUES (1, 2, 1, 1, 1, 1);
+INSERT INTO coexpression_cluster (
+    cluster_id,
+    cluster_name,
+    cluster_size,
+    transient_ratio,
+    conserved_ratio,
+    nei_ratio,
+    transient_count,
+    conserved_count,
+    nei_count,
+    bp_count,
+    mf_count,
+    cc_count,
+    tf_count
+  )
+VALUES (
+    1,
+    'cluster_1',
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  );
+SELECT *
+FROM coexpression_network
+  INNER JOIN orf on coexpression_network.orf_id = orf.orf_id;
