@@ -4,7 +4,7 @@ import os
 from flask import Flask, jsonify
 from flask_restful import Resource, Api
 from flask_cors import CORS
-from app.results import orf
+from app.results import orf, Results
 
 
 def create_app(test_config=None):
@@ -31,6 +31,7 @@ def create_app(test_config=None):
     except OSError:
         pass
 
+    api.add_resource(Results, "/results")
     api.add_resource(orf, "/orf_name/<string:orf_name>")
     from . import db
 
