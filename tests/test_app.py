@@ -4,22 +4,19 @@ import tempfile
 
 import pytest
 
-from app import create_app
+from app import create_app, db
+import os, sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+basedir = os.path.abspath(os.path.dirname(__file__))
 
 
 @pytest.fixture()
 def app():
     app = create_app()
-    app.config.update(
-        {
-            "TESTING": True,
-        }
-    )
 
     # other setup can go here
-
     yield app
-
     # clean up / reset resources here
 
 
@@ -31,25 +28,3 @@ def client(app):
 @pytest.fixture()
 def runner(app):
     return app.test_cli_runner()
-
-
-def test_orf_not_exists(client):
-    """test there is no orf table in empty db"""
-
-    # with pytest.raises(sqlite3.OperationalError):
-    rv = client.get("/orf_name/foo")
-    assert rv.get_json() == {"error": "Incorrect orf name or ORF doesn't exists."}
-
-
-def test_orf_exists(client):
-    """test successful orf lookup"""
-
-    # with pytest.raises(sqlite3.OperationalError):
-    rv = client.get("/orf_name/YBR196C-A")
-    assert "2" in rv.text
-
-
-def test_database_exists(app):
-    """test database exists"""
-
-    assert os.path.exists(app.config["DATABASE"])

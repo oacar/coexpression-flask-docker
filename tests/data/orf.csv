@@ -1,0 +1,1001 @@
+orf_id,orf_name,orf_sequence,orf_start,orf_end,orf_strand,orf_length,orf_gc_content,orf_riboseq_qvalue,orf_riboseq_reads,orf_upstream_neighbor,orf_downstream_neighbor,orf_upstream_neighbor_distance,orf_downstream_neighbor_distance,orf_upstream_neighbor_strand,orf_downstream_neighbor_strand,orf_upstream_neighbor_length,orf_downstream_neighbor_length
+1,Claire,162LcuJgsKe3BazctPSb3fkprNAM2A6Fy9,19,167,F,15,0.979,0.8477681,569,"Duiker, gray","Salmon, sockeye",510,846,M,F,781,621
+2,Gale,16Ja7BydeUtx4UW3ovzQear7fE49iRgTyu,15,172,M,39,0.893,0.7081268,144,Galapagos dove,"Kingfisher, malachite",297,5,M,M,170,393
+3,Glynda,15AnKovgeoqZ8vbSDBTHZxnz5gXAZshr7F,3,166,M,22,0.284,0.1678012,178,"Bandicoot, southern brown","Echidna, short-beaked",66,698,F,F,111,119
+4,Delmor,14Q9ubJYr5MpekWaJCtmCPf6MRYMoA1aSF,29,197,M,65,0.647,0.0122927,237,"Gonolek, burchell's",Columbian rainbow boa,462,29,F,M,56,435
+5,Daisi,1PWN7qJauSfQTS1ZAXSPjYLyDesYc7KAft,43,132,F,16,0.238,0.2505979,773,Giant armadillo,"Squirrel, malabar",648,5,M,F,413,932
+6,Marci,17ZBHKQKeGuA6mbr68puenhUrzhtK9SdQv,9,188,M,36,0.774,0.19901,424,Blue and yellow macaw,African wild dog,169,62,M,F,461,979
+7,Freddie,16sAXzg3GvFnXBZuWbqLUQtHfwDcmrHsNx,92,160,M,37,0.587,0.8538371,829,"Turtle, long-necked",Argalis,908,438,M,F,601,680
+8,Agatha,1M8a54w4zmQWxopTBj1esnWJ4YvthZJPs7,71,198,F,52,0.302,0.7801259,316,Sally lightfoot crab,"Tortoise, desert",858,699,M,F,367,814
+9,Wilfrid,1A5opX1mXC1eyZWfyCdTRxsAyon1XpDaQM,14,173,M,31,0.188,0.0142344,359,Pine squirrel,Gulls (unidentified),522,927,F,M,625,277
+10,Wilton,1BvkTkBxdW8wczXYnZSsaT69h4LH3uLN6u,5,124,F,41,0.177,0.3924476,832,"Buffalo, african","Albatross, galapagos",381,597,F,M,419,245
+11,Leesa,14qvzdqm2ANffEGsysWhqoViowKhREhT4b,42,158,M,55,0.297,0.5696106,351,Brazilian otter,"Gull, silver",911,457,F,F,671,407
+12,Barnaby,1LwAyctPk1rxNY59WtWgsjDKhLec6z95FK,89,175,M,95,0.912,0.452168,846,Bare-faced go away bird,Asian false vampire bat,301,631,F,M,151,789
+13,Melloney,1MXvQB3xbMwyKtubPtDjn4y7gEYCn16xz4,86,198,F,86,0.996,0.3247187,616,"Whale, killer",Flying fox (unidentified),626,452,F,F,362,618
+14,Maighdiln,1JS5XtQrgKfnf7EFbSQcqBxiTwERwL6vmP,55,182,F,39,0.734,0.3267862,618,"Glider, squirrel",Sociable weaver,260,632,F,F,148,3
+15,Fanechka,1AeF6DCLPDfC2TmVKWK9AQmm6qDX2QKph6,42,182,M,83,0.264,0.1149397,575,"Cat, african wild","Wallaby, bennett's",882,104,F,F,331,789
+16,Victoir,15FtzwfGfZEcJr44CftVPw8Hf6yHRh9dR4,86,175,M,55,0.924,0.7852015,296,"Hawk-eagle, crowned",Common grenadier,480,249,M,M,215,327
+17,Brandtr,1BFtMDVU33pUqoJHnGrFaamm4r6JqdB7d9,52,198,M,1,0.517,0.0585687,645,"Kite, black",Harbor seal,247,484,F,M,920,375
+18,Friedrich,139R8aR9TWHd7YNBfULd1MKy147KxK6hMf,72,111,M,2,0.464,0.6015058,826,White-fronted bee-eater,Crested porcupine,333,783,F,M,567,265
+19,Freddie,1MSAkQS2C6AG4bMwhnGbNP9thErMgMw2D1,18,156,M,96,0.188,0.6623405,672,Southern elephant seal,Neotropic cormorant,97,733,F,M,293,36
+20,Kim,19V1BzpsZjFfcN1rmQFE8gUbeFTqyqhzof,52,121,M,23,0.127,0.1478655,195,Laughing dove,Toddy cat,145,596,M,F,851,348
+21,Barron,14KWjrdniQktGABQjsbUikxfPfN2YPyctb,69,106,M,17,0.277,0.7180582,768,Bird (unidentified),"Wallaroo, common",875,685,F,M,750,698
+22,Birch,14tYsG5LVb5KiAjN5kz1gm9JQBGBjaQh9Z,68,103,F,31,0.168,0.0150853,54,Asian foreset tortoise,"Hornbill, leadbeateri's ground",63,60,M,M,711,631
+23,Dev,17bkjpUukMkXjDytHLtP9YojdT2wHsqwZK,69,191,M,29,0.954,0.0025868,217,Collared peccary,"Otter, giant",461,295,F,M,316,661
+24,Say,1Hqv2vQp8Mw8iJeaHA5bp3uoZMKQPZLDUt,15,195,F,41,0.603,0.1300053,774,"Dragon, asian water","Langur, gray",948,127,F,M,586,20
+25,Janos,1MkmKJiFNcAzWTH8HsqSzbuUHQwcPM7tAJ,21,124,M,59,0.299,0.9588765,390,"Anteater, australian spiny","Buffalo, african",919,852,F,M,65,578
+26,Brynna,1KYJeL8H8FVRm6nUE5cNSqYQfb71WzKYbH,79,197,F,53,0.847,0.5389913,244,"Glider, squirrel",Tawny eagle,539,834,F,F,73,10
+27,Flori,115KcU7DjowYBiff6gqmU2GQmSeKgML7KS,96,171,M,31,0.495,0.9359616,985,Nile crocodile,"Lapwing, southern",296,440,M,F,584,413
+28,Mayer,17f7M9DWWrCV1hhKEud7umvSh7Dg3eJbq3,53,191,F,22,0.947,0.1932376,721,Fairy penguin,"Starfish, crown of thorns",714,757,F,M,339,970
+29,Lucian,1K56Mm9eewuZXNQX6tKqQTZNjdsbnFB7tr,75,142,F,90,0.244,0.4390276,449,Kirk's dik dik,Orca,758,544,F,M,444,529
+30,Hally,1KhK57kNeFjDLbkRuE8RmQJULMNdJvds6e,66,195,M,72,0.183,0.8343827,8,Southern lapwing,"Cockatoo, sulfur-crested",45,629,M,F,806,339
+31,Gus,1ZmsCeRRxK7gLnacWARB67d1VcqcYBwqw,62,135,M,6,0.629,0.6319726,414,"Armadillo, seven-banded",Baleen whale,666,873,F,M,169,654
+32,Guillemette,1NUdmmz752EZEBJ7PMYbdZFNpGZhcvpEro,16,158,M,90,0.822,0.1349748,935,"Goose, spur-winged",Common genet,597,329,M,F,860,187
+33,Oren,13YxcatuV5v2tQXtQAD3BUwE9kBzYeE2Ar,92,145,M,96,0.634,0.088018,973,Spotted wood sandpiper,"Pelican, brown",247,916,F,M,771,812
+34,Nichole,1A9sqpnUqytT6CiMifWXyayok9c9TJD1Aw,67,130,M,46,0.717,0.0713192,473,Ring-tailed possum,Blue duck,805,198,F,M,883,459
+35,Rory,1BhikfDnh2vedEGLXxa1Qh1xJt1nC8UmeM,79,129,M,86,0.773,0.3826772,220,Two-banded monitor,"Wallaroo, common",996,702,F,F,833,227
+36,Mayer,1K98PbUViwh5yZmYZcxgBbj6QM64sAcbdi,100,192,F,95,0.244,0.4819983,549,Oribi,"Kangaroo, red",32,79,M,M,874,141
+37,Francisca,1AnQNCSUkKN4dgXSpnbPbziWBebrPK8djY,44,138,F,65,0.787,0.9783832,443,Tayra,Red-knobbed coot,763,283,F,F,865,654
+38,Sergio,175eQ98Dz7ZsHse2kFCF5yUM3rhE9R11wW,44,117,F,60,0.66,0.9931852,341,Hummingbird (unidentified),"Sunbird, lesser double-collared",948,771,F,M,613,721
+39,Guss,1BSVskf7cWYPAegp4feXrPtdDYmyo9qKXV,97,103,F,47,0.41,0.7433388,454,"Bird, magnificent frigate",Paca,490,730,M,M,521,790
+40,Klara,1GwQe3MmjKVBgKDa9oywTqxGPpx1yp5Pre,87,163,F,94,0.346,0.6610512,567,"Kangaroo, brush-tailed rat",Bontebok,744,496,M,F,418,690
+41,Guillermo,1GDau9a4L4vi2nvtv2t8RXnAQ546JdHuGt,49,118,F,90,0.807,0.0442244,147,"Deer, savannah","Eagle, long-crested hawk",186,701,M,M,664,424
+42,Bastian,1Jnu1VRhdtPsXVRggBFaFXXHFCydJzHkQW,33,154,M,38,0.325,0.392759,494,Ring-tailed coatimundi,Bald eagle,67,792,F,M,208,416
+43,Marion,1P6fAMXNaE2jnBnrYP87R9B7o4WQa9FHyA,12,147,F,78,0.948,0.6636604,332,Red-billed buffalo weaver,White-throated kingfisher,948,838,M,M,630,665
+44,Maurise,1N9w66j2ra7dF6AH2gRn5Qhvm6zNSL2s3K,96,105,F,5,0.457,0.1913456,343,Ring dove,Black-eyed bulbul,557,72,M,M,345,816
+45,Kermit,1LWzW853uomNgFVqST1P4tRd9qyG57dD5n,41,119,M,45,0.524,0.3232363,127,Woylie,"Lemur, lesser mouse",312,691,M,M,372,535
+46,Augustine,1hxtbBTjKCaTb6tGpxHHxSfrj8pXTSJ5i,96,126,F,42,0.597,0.1441795,585,Indian porcupine,"Rhea, common",770,403,M,M,295,39
+47,Catherin,1AXKRokmcM3uy6YM3bxioe94vJoGKNDfLd,62,185,F,33,0.958,0.7969935,392,Two-banded monitor,Spotted wood sandpiper,236,37,F,F,15,723
+48,Wandie,125FfgdP6Ch9zKZQdCFkmUu6PruwGCJker,8,127,F,88,0.888,0.943623,24,Red brocket,"Puffin, horned",845,810,F,F,732,914
+49,Shelley,1FJgfWZ7PJPR8AyJaNkKodJZKnYkd3Kcwd,83,140,M,74,0.263,0.9114844,914,Marabou stork,"Possum, western pygmy",942,300,M,F,78,6
+50,Marcile,17swYk9ybC67aFUC7uhAsNY6SPM6hEjvbD,63,105,F,92,0.288,0.0470122,670,"Goat, mountain",Bushpig,275,922,F,F,952,363
+51,Clarence,18PWSyP3sHxqDHeaMNzYjTMgt2sCpqfSbN,100,138,F,16,0.684,0.5760487,651,Mexican boa,"Alligator, mississippi",250,555,F,M,396,970
+52,Oliy,167QwL6DF3MU3JEctu4vPyZ6V6sQ4bjLTE,50,101,F,55,0.186,0.0896094,513,"Bulbul, black-fronted","Cat, long-tailed spotted",381,49,F,F,892,173
+53,Joellyn,1He8MujCAVqB3X21RvLnbJSSEF7jgJFemM,48,187,M,84,0.572,0.8855145,596,"Goose, egyptian",European shelduck,809,265,F,F,28,624
+54,Aguistin,1HvFVUcFtcBFmo2NKXc9AhtnUwJJhxBSqF,39,191,M,39,0.212,0.5760308,49,Black-throated butcher bird,Fork-tailed drongo,67,834,F,M,921,538
+55,Regan,1QEZZPoASahSthFGyTaXfeoFPQMkfhULGM,64,160,M,77,0.507,0.4152453,76,Barrows goldeneye,"Quail, gambel's",884,416,F,F,357,184
+56,Ricky,1Ecxevvqqn6smAstL5RzVZjeNFyyQG5wiP,33,190,M,51,0.301,0.0095086,154,Kinkajou,Great egret,290,843,M,F,292,504
+57,Lucio,1HG1k23HqaFEE7xyZv7Q319KVcpQyQHCi5,9,112,M,94,0.864,0.8657322,504,"Jackrabbit, white-tailed",White-bellied sea eagle,646,833,F,M,542,96
+58,Killie,1CyKvUWCmUEf1jTuGYeaiRTMrei2jFBH1P,59,172,F,35,0.345,0.9812009,370,"Bustard, stanley","Pintail, bahama",69,529,F,M,259,413
+59,Austin,1N1XmjB7yasqaqFXzk65Wbfki9FFDk3GC2,55,130,F,91,0.343,0.6375508,871,"Eagle, african fish",Chameleon (unidentified),807,781,F,M,921,924
+60,Matthew,16cBceQRBVMBqQMkMwuvJ3TFHNBGU3m5Vi,4,181,F,39,0.357,0.6217497,642,Cereopsis goose,Mouflon,579,677,F,M,308,873
+61,Munmro,13u8VBdrmeyW5NtMWfPySur7wJ8HJhPd92,93,154,M,58,0.482,0.5864803,266,Impala,"Lemur, brown",219,223,M,M,519,673
+62,Ario,15LwbYkXFmnbNmzXKYQArz6Cw5sPWbxY7M,56,198,F,12,0.2,0.6749499,25,"Wapiti, elk,","Capuchin, weeper",799,26,F,M,424,935
+63,Nike,1Let3LfgemqfajBuA2oTHHaVRAMZ97wr7o,82,117,M,9,0.816,0.7350527,950,"Capuchin, white-fronted",White-lipped peccary,961,706,M,F,546,941
+64,Helli,16RQhj2BkZnGgUJA2ZQkiqFhqWptptrRSN,27,138,F,71,0.944,0.541407,95,"Macaw, blue and gold","Opossum, american virginia",100,608,F,F,749,2
+65,Wyn,13AvBre1U9n3f7QcswsNVW8CKNSMbGzZ4Z,12,127,M,38,0.796,0.7168164,757,"Cormorant, great","Civet, common palm",287,85,F,M,267,82
+66,Heindrick,1yyEBAaq46YeVzsKwsYSLgWY5iqcSGuGb,80,179,F,4,0.967,0.1562523,844,Wild turkey,"Rhinoceros, square-lipped",74,510,M,M,493,329
+67,Grannie,178ZXEg8FEUcSr7v4gjriG5bSb5JVFwfYC,21,177,M,37,0.984,0.0682999,476,"Starling, cape",African jacana,590,616,F,M,797,774
+68,Jdavie,1PokkraAvjwtwcC9mMg31nVGW7AgU3o2ZF,33,102,F,36,0.835,0.2664999,983,Dabchick,"Tarantula, salmon pink bird eater",846,386,M,M,12,146
+69,Avery,1HRgQ9D5qFvgRshzZtSvjTmGAiryfDeKBr,12,172,M,79,0.952,0.9038402,116,"Cat, tiger",Hummingbird (unidentified),551,692,F,M,17,103
+70,Casar,12QnhDYN5C5sNZUJbeDUH12UVML3mXrVAM,66,118,F,64,0.161,0.1244158,10,"Bustard, stanley","Rhea, gray",230,126,M,M,923,903
+71,Giavani,1NeoXJqw8e5AoJGcFCCoMvzk1YXDweRP8o,60,107,M,67,0.481,0.5120865,620,"Crane, wattled","Mongoose, yellow",743,546,F,M,915,509
+72,Jannelle,1GMxGrEvEi21fNUS6tqnbbb6JPA1Ao5fp6,64,184,F,96,0.254,0.4758136,197,"Goose, andean","Snake, eastern indigo",838,347,F,F,743,744
+73,Sophey,18tDbKuRFvLqBmM2Cs6Q4ShfrNai6cS3zb,23,113,M,84,0.726,0.8998783,66,"Grenadier, purple",Brown capuchin,445,528,M,F,128,981
+74,Leila,1FvS3cFQNNE2KFH6jXeZYmaGL65D5cX5St,92,157,M,63,0.553,0.2368578,47,"Cardinal, red-capped",Eastern grey kangaroo,949,567,M,F,449,997
+75,Lyndel,1LHUsA9mjLw2svvqigeU551u3q5AUV4kPv,32,154,M,45,0.429,0.3782324,300,Cape starling,Common wolf,49,605,M,F,356,470
+76,Athene,19BmbmDCopFhaLqSwhVvhaZFztDU9QKhWD,21,167,M,63,0.279,0.9118442,904,"Fox, silver-backed",Black-faced kangaroo,415,51,F,F,188,982
+77,Arty,19ckCwSvp8RiDx96PurfebqG4mDGWyP5MN,27,168,M,9,0.523,0.5307706,137,Four-horned antelope,Butterfly (unidentified),981,4,M,M,243,384
+78,Arty,1JPmdPmoB5hBs8KPodck16GqhpRLP1yL9c,97,193,F,68,0.819,0.9760562,862,Arctic hare,Monitor lizard (unidentified),377,415,F,M,798,537
+79,Michel,1Cuk4TzSQhXF38qfD4vNdyQwHpQe3u7GVg,5,197,F,18,0.862,0.3823122,556,"Weaver, white-browed sparrow","Wallaby, bennett's",947,985,F,M,546,761
+80,Thorndike,185ccfPL7d7e7TMabj6zYGrLAcXk82LRUJ,9,161,F,19,0.479,0.8698299,382,African skink,"Peccary, collared",200,51,F,M,630,91
+81,Maye,1DrbHmf6AGbapHXP8bBtGLgLfNfBgDke3b,45,159,F,35,0.797,0.0779409,227,"Macaque, bonnet","Wolf, mexican",146,869,M,F,612,184
+82,Terrance,1Pz6tu75YykPDGVyv2g4GcBRh3qY97t7So,95,101,M,28,0.369,0.9037351,590,Yellow-brown sungazer,"Bunting, crested",382,712,M,M,11,695
+83,Rivy,1KoWtG4sHpA8ZiJXoXVtcNSvmUdSYKZdeb,8,167,M,23,0.948,0.4716213,543,Arctic lemming,"Racer, blue",177,811,F,F,785,339
+84,Yancey,19Mf8bbc3tUhnZherLNqkqfqy2X1c8wwFi,51,112,M,93,0.593,0.1854588,172,"Colobus, white-mantled","Skink, african",448,455,M,M,22,21
+85,Flinn,1dsC6auNaY52BqK8vdsHS8VJ33C4J8Zio,77,108,F,46,0.912,0.6803222,790,Fairy penguin,"Boubou, southern",86,988,M,M,333,484
+86,Yuri,1K5ZRWtnQp9oT583ZFwraKpYGembd2sxnC,40,198,F,93,0.355,0.6191153,709,"Anteater, giant","Wildebeest, blue",587,43,M,M,921,621
+87,Isadora,1CP84eHbK6UmFkj4o4ry3s6yAVQdKUR7k6,71,162,F,47,0.179,0.9036012,40,Giant otter,Carpet snake,204,49,M,F,466,658
+88,Brander,12GtzEqkecYhp6Tv2Gep2XpFCKrA4cBZXU,56,112,F,90,0.514,0.006419,567,Wood pigeon,Toddy cat,276,887,F,M,428,917
+89,Jacques,1Jc6mYSgFyxoE5gAvKCrokJuwz1Tmr2Rpt,97,105,F,3,0.833,0.2943455,49,"Squirrel, european red",Galapagos sea lion,265,714,M,M,259,268
+90,Carlye,1AGR4MmnwDLAR4smBVBES5WCEmZjEza2cK,11,163,F,23,0.869,0.6225642,788,Giant heron,"Squirrel, golden-mantled ground",885,289,M,F,211,595
+91,Manda,1GgXMYvaRntc3vbC1NYXBsKxm3bAnnRH4g,35,119,F,64,0.707,0.6975296,812,"Turkey, common",Southern hairy-nosed wombat,510,429,M,F,404,728
+92,Erhart,1CZqp6ig5fcQhrjDMb3FQXDZXAivmdhDk2,88,166,M,81,0.25,0.075678,34,Cape raven,"Squirrel, uinta ground",398,976,M,M,585,774
+93,Cinda,1NpT9LW3P484foyYTYbYpsBqPGvukkM2rL,66,170,F,47,0.395,0.8045308,381,European spoonbill,Gray duiker,238,96,F,F,100,201
+94,Gretal,1AXmLPupQJZkgBnrA8vbLyjQckZMhzw3Xw,14,135,M,19,0.727,0.9197366,928,"Bunting, crested","Fox, asian red",127,502,F,F,399,645
+95,Augustin,1Dr4yo5G57aXgD3dyJdfjKJmEDrAGogseP,15,132,M,65,0.138,0.3300751,896,"Cockatoo, sulfur-crested","Grenadier, common",157,207,M,M,959,179
+96,Lorie,1GKcnFqnRDisEFNc3xvzqGTLSfMFidzrS4,67,192,F,94,0.727,0.8899995,848,Andean goose,"Deer, red",609,127,M,F,383,338
+97,Halette,12Tp4ecgLSHPHhTtm3PQtYyeUhiNuVNSpq,22,104,M,65,0.872,0.0416656,186,Red phalarope,"Bee-eater, nubian",919,140,F,F,382,301
+98,Lamond,1BfyseMSh9bWpVGYpSLpyvUmdGoGMhr3bF,14,163,F,78,0.987,0.1738968,747,"Pie, indian tree",White-winged tern,854,394,F,M,576,333
+99,Stanislas,1AUs8JAwjeZTdXJ2SduX1KXuS5zhRe9Kfd,97,164,F,67,0.31,0.70677,318,"Raven, cape","Fox, asian red",55,400,M,M,953,114
+100,Bekki,1BBj4YjhwFxc9k5hExwQS2hxacrbqRMxvu,88,156,M,97,0.679,0.6652521,954,"Shrike, southern white-crowned",Verreaux's sifaka,217,359,M,F,237,863
+101,Ikey,143PssWGDSPTN5yx1i8Zs2ibiLXMEFnkQJ,38,118,M,67,0.136,0.8738982,764,"Crane, wattled",Malleefowl,211,568,F,M,74,148
+102,Marlene,1F4Q8JZ67FviN2jVtekLRbAcXLYwYKv79R,80,143,M,26,0.114,0.4465958,646,"Cat, jungle","Falcon, prairie",923,903,F,F,585,914
+103,Dalia,1PwcYzpRiNyxBXhAFoC5hUravvBqCxVjke,20,151,F,59,0.926,0.4576456,100,Crab-eating fox,"Hyena, striped",22,649,M,F,274,992
+104,Honoria,1Q3hmcdGbRZ9sh25eXsPBH3KMPLQFKRJGU,33,106,F,100,0.471,0.983276,585,Frilled dragon,Blue peacock,140,404,M,F,44,689
+105,Griffin,1F6KDCJJ9Lgk2V1G7mZr5saj3VRbKXvTUj,38,169,M,58,0.911,0.4882859,500,Little cormorant,"Flicker, field",681,482,F,M,573,257
+106,Normie,14RmcVjkPYjf5iTYhbg2ExPh5sfDw2UGfy,64,188,M,100,0.938,0.2986101,111,"Tamandua, southern",Banded mongoose,161,737,M,M,94,83
+107,Amerigo,1JLNDyzjAT62bRJTa6k8DGYm1KeD7YSA8P,65,182,M,8,0.933,0.5874931,474,"Penguin, little blue","Woodpecker, red-headed",197,84,F,M,81,445
+108,Taryn,1AJSFpWMRUpggYVwseCC8TDMfyo7qgcJPy,97,151,M,98,0.239,0.2539408,149,Weeper capuchin,Oriental short-clawed otter,537,939,F,F,584,565
+109,Juan,1MvgVZnee7VbewM7LRtG4YebeBanm7da4n,53,150,F,72,0.772,0.970541,452,"Rat, arboral spiny","Bear, grizzly",832,446,M,M,246,520
+110,Deborah,1FJXX3mwAdgqUC3c7z2Gzzw7yxaNi4bHkV,91,145,F,12,0.41,0.5236655,865,Pampa gray fox,"Dove, ring",88,160,F,F,11,469
+111,Rickey,191MSCVAuToBtpBE5WWxTVg5HJPKPCUoyQ,40,120,F,13,0.466,0.8168256,34,"Kudu, greater",American buffalo,760,4,F,M,405,105
+112,Kaitlin,1Mk2HEm5pZ1xJf9rgscKAGRCt73CWLjMp7,82,157,M,90,0.29,0.1008787,771,Canadian river otter,"Glider, sugar",293,424,M,F,890,584
+113,Laurella,12SY8grLA3NgFJkM1Ebx32ZzmdqtM3kSBs,39,187,F,58,0.437,0.9386941,454,"Opossum, american virginia","Kangaroo, western grey",257,764,M,F,541,689
+114,Jami,1NiPMaUP6yvhpFHz5ytzyStf2xw7E8um3U,54,196,F,23,0.104,0.1685363,466,"Wildebeest, blue","Possum, western pygmy",556,729,F,F,757,62
+115,Andy,1FN1EmG6ds7YqA47ZyH5zKvNt62R2XjeDB,68,140,F,4,0.158,0.7194745,278,"Weaver, lesser masked","Squirrel, malabar",111,127,F,M,203,346
+116,Abbe,12xkkGfnR1RQFuY6TB5D7Vfm7tQ9HRwM7C,68,127,M,17,0.865,0.1233142,725,Emerald green tree boa,Rock dove,422,33,F,M,574,330
+117,Gael,1MssSox6bGh1HUemu79NTwFrHd9KmbnABt,91,197,M,59,0.886,0.7544614,945,Southern white-crowned shrike,Polar bear,512,420,F,M,51,674
+118,Marijn,1H299AbnqDHyeGQTpDG3VwsLAQ4CtegPDz,54,198,F,40,0.27,0.9554976,840,"Cat, african wild","Blackbird, red-winged",569,141,F,M,625,399
+119,Matilde,12w7huukmWnRS8k9JLXrZ5UYSctZpc8ic8,52,186,F,59,0.757,0.4277449,563,Rose-ringed parakeet,Giant armadillo,610,322,M,F,196,349
+120,Mariana,1cjwdKnydJM4B2ddp7cXmEZ7mZS4g59Zn,43,117,M,24,0.864,0.4645312,330,Nile crocodile,"Chipmunk, least",991,421,M,F,841,533
+121,Stacee,1GTSCR6WNnHhgj2frGqnmiThpAgWpCJPvt,21,174,M,87,0.163,0.7663162,983,"Eagle, african fish",Swamp deer,860,188,M,M,926,410
+122,Jasmin,1oHSp8kswkYorDr3bK9BWk23mvr73aS4e,82,186,M,3,0.265,0.033005,382,"Armadillo, common long-nosed","Baboon, gelada",557,134,M,F,469,882
+123,Willi,1AfTXxVc1eKr8DeSoQ9m3wtuWzRofHQUeQ,65,149,M,26,0.601,0.8661783,750,Arctic lemming,"Rhea, common",597,301,M,M,344,948
+124,Rubie,1Af8KWudvnov1MiTZ9V6efNeijJ1CUpmtp,61,179,F,77,0.37,0.0673395,882,"Ferret, black-footed",American bighorn sheep,37,115,F,F,741,337
+125,Evyn,1Diab3V6GQjMJyXVR8BgdrUMtp4BsSTE47,43,118,F,18,0.384,0.0480389,886,Madagascar fruit bat,Small-toothed palm civet,566,115,M,M,494,796
+126,Lamar,1PUBdNZB8R1DWCYzGBFm5G8KqBcvEKCWpp,64,191,F,97,0.332,0.0930911,141,"Alligator, mississippi","Cat, long-tailed spotted",862,808,F,M,748,990
+127,Percival,192v6ZoTKKfsFBAg8BAGD3JbgdahcSbpyu,44,196,M,28,0.816,0.8718541,953,Black-necked stork,"Rhinoceros, square-lipped",691,16,M,M,222,555
+128,Julee,1G7AGNjBtGohkpka9i1k3EgDT4G7h9um5W,49,196,F,88,0.524,0.9103509,471,"Fox, silver-backed",Woodrat (unidentified),184,354,F,F,356,498
+129,Sybyl,1NFGutD7gA4Gp5xR2ncvmYJW6U7F938HvC,3,102,M,10,0.689,0.4360676,122,"Pintail, white-cheeked",White-fronted bee-eater,93,897,M,F,211,870
+130,Coletta,1BYPTkppLTZ8haT4cLmFS5AUB4UJYD67iT,12,191,F,91,0.981,0.8843733,32,"Cockatoo, long-billed",Tiger cat,103,495,M,F,646,959
+131,Allayne,1J56jknFcgNegfPAGwmXAzecK7d4WicmfE,86,171,M,25,0.275,0.4182835,556,Caracal,"Flamingo, chilean",267,805,M,M,881,594
+132,Johnnie,17i3EfvHrbatkmDXRcdmhm5eLCGoXTVMBY,27,176,F,94,0.728,0.9948624,146,Red-breasted nuthatch,"Pigeon, feral rock",169,56,M,M,13,983
+133,Arlan,17Pk4NUN7a6EhVjurj48ytURXwpsR8xuwB,77,163,M,24,0.909,0.734055,843,"Capuchin, brown","Armadillo, giant",684,917,M,M,76,786
+134,Rayshell,1GN6Wm1RZhTkJhYmvFQM6j8joXV6yxgk84,58,143,F,22,0.624,0.4190755,730,"Capuchin, white-fronted","Gull, kelp",803,266,M,F,562,670
+135,Cristobal,1M9UJkGhBdfiNBF4QMjR53oYmjeQ7Lw1LH,6,162,M,70,0.707,0.8863044,699,Sportive lemur,Openbill stork,5,473,F,M,638,43
+136,Lorrayne,1DsF5ducbbySVyQg83EKLQ2oR5evkaU1Sr,76,143,M,84,0.744,0.4323593,662,"Cormorant, flightless","Porcupine, african",48,446,M,F,498,378
+137,Yelena,1FHFvd4r3iAVGnBtyJx1JopJBFUNUX1UA1,81,121,M,48,0.651,0.9905054,297,Red-legged pademelon,Tammar wallaby,494,896,F,F,872,140
+138,Oona,1HnQwcfbc6uJJJmrcCKGp46Gn57qaTxgp9,60,113,M,26,0.371,0.2229274,662,Malay squirrel (unidentified),Worm snake (unidentified),95,17,M,F,468,311
+139,May,1JNVMYcu1PhufRNWeYtqDuz782fxCRC56f,85,121,F,72,0.995,0.0371778,280,Mexican beaded lizard,"Peacock, indian",643,893,F,F,340,240
+140,Stanford,1K4nuT6Hunbh9f7LAmNTBtH65PWMXwaApx,99,145,M,83,0.397,0.1791415,837,Tiger cat,Eurasian badger,17,547,M,M,311,899
+141,Sargent,16CueCNBFFK4S7fDsws9jvLrEPz7EFVFj7,68,136,M,16,0.468,0.0674212,948,"Dragon, western bearded",Galapagos tortoise,69,265,M,M,159,903
+142,Lilli,14j6m95jYoV9xuYVM28iEX6H9WoGf4DQAD,52,118,M,94,0.932,0.7328475,511,Denham's bustard,"Teal, hottentot",335,683,F,F,984,41
+143,Uri,1LT9VBcRvH1GvkRkK8WCfjAU6BZGoTqTti,41,187,M,58,0.21,0.9423991,574,"Gazelle, thomson's",Grey phalarope,441,17,M,M,83,873
+144,Elton,1CZbXL9Bxc4RdvX7PuXS1tu9d7Ybp9KLMQ,69,148,F,65,0.719,0.0082643,614,Great horned owl,Collared peccary,258,354,F,M,433,333
+145,Eimile,1DqAPxL2a7CuJyoAWPEynEByFCrQqmo34Z,29,186,F,58,0.738,0.0149507,156,"Marten, american","Chipmunk, least",699,276,M,F,433,711
+146,Weston,12NfC78a5p6UQj4mZAUC2d9yPeeVtTnzS1,82,130,M,31,0.792,0.4472869,785,Mallard,Thirteen-lined squirrel,848,927,F,M,257,143
+147,Norbert,1C2XvjPmednTwHzmN8C2MjuCMPvD3K1afw,3,199,M,25,0.456,0.4362638,517,Asian red fox,"Crab, red lava",548,281,M,M,244,9
+148,Marisa,1NA6PyXSRHCh1MPBUDpctXDFQUerfKf8mn,99,134,F,96,0.662,0.1162571,549,Woodchuck,"Grouse, sage",848,31,M,F,464,311
+149,Garner,14tqWd8EWTFbyrpx2fDcM35dMvEk3MmYsL,40,124,F,62,0.347,0.7195907,826,Nine-banded armadillo,Sarus crane,283,19,M,M,667,326
+150,Valentine,1EQxsXkrUTp5JLc2bxhisxuVp7YfoxWBrk,34,180,M,13,0.168,0.1625419,968,"Puma, south american",Magnificent frigate bird,167,844,M,M,249,9
+151,Bridgette,1DzCGh1UDfxUL1cpGb97pqwjhDvG6hNeC7,80,166,F,86,0.225,0.7828496,380,White rhinoceros,"Loris, slender",377,470,M,F,127,397
+152,Jammie,1Fg3zhFbxuNjme6xRgE16hqLeJ4rjrJJQA,49,163,M,74,0.659,0.6478769,664,"Tortoise, indian star","Stork, painted",941,341,M,F,287,73
+153,Forster,1GTfsXiCLqcv5MkHt9wh8itsJVSQKQA46g,82,174,M,82,0.485,0.2467155,863,White-winged dove,Galapagos penguin,106,124,F,M,882,535
+154,Emmalee,1L36KUAwPRcH28TCGsTagG9tz2hsrR2XSB,42,178,M,33,0.277,0.4062995,30,"Jackal, golden",Nubian bee-eater,353,972,M,F,327,75
+155,Ethan,17q1uQHSXf2WazxLqdejrv5bd536aPyBdt,15,181,M,13,0.492,0.834832,58,Numbat,Ring-tailed gecko,318,862,M,M,693,164
+156,Niccolo,1E4rs5eQqVKKcHoUtBe8C6R4gKQSSLR4Pp,79,175,M,37,0.163,0.5378497,553,Cereopsis goose,Lesser masked weaver,269,971,M,M,706,831
+157,Dietrich,13Nm92aSLD1nBkQn8NzZSPAnnRR91TetYX,1,191,M,36,0.326,0.2335741,446,Oribi,"Goose, canada",451,763,F,M,244,165
+158,Katleen,1Bi5t192djHf8bf4PrgbeFXJie5SzSphdG,100,181,F,19,0.782,0.5134224,600,"Woodcock, american","Sparrow, house",365,420,F,F,678,539
+159,Ole,1ESYRAF8wqRsxWvBfhE8tEJA1FaCR4HYhL,60,124,M,4,0.682,0.5745892,856,"Sheep, stone",Prairie falcon,704,669,F,M,449,643
+160,Alix,1Kiutsip6rpPh9pYTLZAerMjuySQStCX7C,97,149,M,60,0.251,0.1415814,760,"Francolin, swainson's",Adouri (unidentified),858,798,M,F,22,93
+161,Justen,1H5HYENNLcgLfsKQMMJD1nEdbmVRstBJt4,14,123,F,5,0.439,0.4951573,557,Black-necked stork,Jabiru stork,792,331,M,M,421,599
+162,Homer,17DdXp29u7XqcJcedysA129W8MKq5iYK8g,91,150,M,20,0.395,0.4836861,877,"Cardinal, black-throated","Waxbill, blue",312,578,F,M,613,118
+163,Nikoletta,1NsnqrP58Y2MP4Nc4AYjEvjNxmWuFFsQfV,32,108,M,40,0.258,0.9228213,997,"Mongoose, javan gold-spotted","Hoopoe, eurasian",709,22,F,F,970,224
+164,Dimitri,1Q8D2BHvG24j2Uhmmwhtazm93QdUTQw4Ee,4,181,M,46,0.734,0.1446789,371,"Falcon, prairie",Tawny eagle,792,885,F,M,545,775
+165,Rena,1KdMCDDdpWJwQbEcvE5cRRLkpRNvMnVJvW,46,151,M,19,0.271,0.5562152,118,Yellow-headed caracara,"Wombat, southern hairy-nosed",301,278,F,F,167,672
+166,Coralyn,1HnUtf5QQNLsNSvF8o2pkuRM5qiC99vzSL,88,188,M,37,0.873,0.8008508,968,"Grenadier, purple","Kangaroo, brush-tailed rat",851,240,F,F,203,874
+167,Hildagard,1HgAZE9ktPSmoyWdieG3zYrGGLgVZnZwM6,82,198,M,86,0.723,0.521938,247,"Reedbuck, bohor","Duck, blue",198,22,F,F,783,260
+168,Burnard,1Ba96mGYsYrucwnkwW2KRM7QjySCBy6Gpt,95,105,F,15,0.727,0.8003423,992,Bahama pintail,Great cormorant,29,841,M,M,900,645
+169,Ciel,1DKBPajXpMJuMbdy2Qsb2nNyED5CPd2xvx,41,113,F,58,0.201,0.4290566,342,"Cow, scottish highland","Cockatoo, red-tailed",207,571,F,F,680,672
+170,Lawton,1MANAHGEVQugGveYVvpJtAViN5qKkHH9vN,26,174,F,36,0.56,0.0307433,893,Golden eagle,"Ibis, puna",206,654,F,M,443,114
+171,Barclay,1KSxTdzT26uxgg1zRW9eVoodNcbosuuctL,60,153,F,83,0.632,0.3412159,274,"Cormorant, little",African jacana,387,145,F,M,729,179
+172,Edgard,15YcjKjfUohNcnLBtb8FEqU38S5uGTzpTr,73,171,F,31,0.134,0.4424885,834,White-winged black tern,"Possum, common brushtail",872,181,M,M,451,803
+173,Karine,1QGhGcowcTEjyzY7nyKgWWDKMXbQYkSvLa,52,159,F,49,0.799,0.5933656,991,"Armadillo, giant",Painted stork,469,782,M,F,797,382
+174,Grover,1L9Rm4bGNFBSpyjkw1CMahNMFqSczLrqtY,26,161,M,5,0.694,0.4520724,6,"Phalarope, northern","Fox, grey",994,687,F,M,317,810
+175,Eldridge,1CcNsdBigZ1Ydxs1Ef42KqdePJUGsACmGV,45,178,F,8,0.613,0.6179937,51,Black rhinoceros,"Cockatoo, slender-billed",800,333,M,M,297,754
+176,Deni,1L9JLKpv5U3SfTsv44kk8iNF9w23H979Zn,59,128,M,80,0.522,0.5445165,500,"Mongoose, javan gold-spotted",Fisher,135,747,F,F,672,412
+177,Brodie,1AUtAeyF69crC836QwYf4LempRmuhVEwxL,26,191,M,42,0.48,0.0713659,498,"Crane, sandhill",Vine snake (unidentified),911,60,M,M,474,946
+178,Gray,1KYD3f6nNh2Gp9AnWuSMXwudfwhicsKy6B,34,142,M,30,0.418,0.3051255,491,"Macaque, pig-tailed","Caracara, yellow-headed",410,190,F,F,74,364
+179,Petunia,1FFJG6V1WFLMZMozwF3j7ZJb4R3ueiFP9X,5,113,F,83,0.251,0.5651859,144,"Bustard, denham's","Siskin, pine",330,446,F,F,623,997
+180,Gilbert,1Jnu6gF9BEUTPQn14ZTT3wZqJXBbPJK3pN,44,151,F,17,0.115,0.6784024,624,"Flamingo, greater","Sungazer, yellow-brown",647,672,M,M,617,615
+181,Agnes,16W5Z7R5jzxaUvzd8pWkEzUmDF6KaDn4cp,44,175,M,87,0.654,0.4875124,776,"Python, carpet","Eagle, bald",470,250,F,F,791,529
+182,Hoebart,17zf28GN922mHyv8E28133hnvHiGbM2LUv,54,103,M,1,0.549,0.8195061,847,"Hawk, red-tailed",Asiatic jackal,388,463,F,M,423,117
+183,Maxine,1HnvC4QCL7rqM77WLkXC7PVHBYYdJpusJA,75,171,F,90,0.918,0.9975791,101,Jungle cat,Magellanic penguin,979,780,F,F,56,386
+184,Kenny,19ZnBRCR8w4v89JJH36JFMhWZWirwFk48W,95,168,M,70,0.289,0.0811968,792,Red brocket,Southern black-backed gull,216,51,F,M,880,206
+185,Miof mela,1Na9zSYgXGzXszReBHsaRzNognTyvQdF67,61,171,M,15,0.832,0.8241187,849,Sociable weaver,"Dog, black-tailed prairie",905,350,F,F,913,904
+186,Vic,1M5rRvnozTFBLyRRMBubDpAJMpwgVavvDx,99,152,F,17,0.316,0.8196919,25,American alligator,African elephant,710,181,F,M,734,847
+187,Angelo,133R88SempQCp7FJKEVwMrSZ4ZjAeMcLXL,29,112,M,59,0.918,0.6810443,341,Common zebra,Barking gecko,133,72,M,M,13,416
+188,Godfrey,1BYsEssCR15GKjX2Gj9WiEgGt6MPkZ7BeH,39,116,F,68,0.904,0.354807,246,Urial,Coqui francolin,790,112,M,M,667,584
+189,Aldous,1ETxq7KHRMGDJ6n3kAhYECA7gQp2CUSw55,42,172,F,99,0.712,0.3913638,422,Giant heron,"Bird, black-throated butcher",850,38,M,M,889,951
+190,Kevon,14BUMsZvCSkHxNhBGubiqvQpqM7uBx96st,47,161,M,39,0.586,0.1358247,247,"Porcupine, african","Legaan, Monitor (unidentified)",950,839,F,M,405,465
+191,Waldemar,134mvHSkJSjtroXjqzQCdED2W3yPRmJ7kK,69,110,M,29,0.969,0.6906686,453,"Wambenger, red-tailed",Four-striped grass mouse,112,162,F,M,377,272
+192,Krystyna,16oAHL4o7AUkjugML4Z8dVjYouGEFTNr1Q,45,161,M,56,0.274,0.4960793,250,"Anteater, australian spiny","Kangaroo, red",708,768,F,F,998,573
+193,Rourke,12pDhShCDW2FmyhcQoU9cbLEQDC5amcwXH,77,140,F,80,0.774,0.0166094,225,Squirrel glider,"Deer, red",172,631,M,M,231,137
+194,Randie,1Ao8M68StTKouXKncoPYmiyDvstPzF3WRU,58,147,F,64,0.646,0.1075255,542,Common duiker,Red-tailed wambenger,400,901,F,M,100,49
+195,Kendell,1PiHbq3AiQEzuEgVwq4atFRdQANjcYwKjb,11,147,M,42,0.602,0.9774911,597,"Dove, white-winged",Comb duck,753,843,F,M,277,682
+196,Grazia,14emyKXqaanecX4UQhGJhH7FXQHmBcF18v,7,165,M,74,0.98,0.9228413,767,"Heron, little","Boa, cook's tree",312,987,F,F,344,451
+197,Redd,13XSZnnw6pJEfgR6nbxG9Awrec7KtCwZWX,3,160,F,76,0.77,0.0392652,320,"Stork, woolly-necked",Mocking cliffchat,980,689,F,M,841,694
+198,Herminia,1PZzpqc8DMB5DkqnqFsbHHisDayTsQhvmZ,80,115,F,30,0.907,0.9519147,904,"Bettong, brush-tailed",Malay squirrel (unidentified),641,299,F,F,721,793
+199,Leighton,1Kksa49XFshzB9NE8UZ53TSY3AFXYKKfLE,63,196,M,8,0.338,0.4313176,483,"Salmon, sockeye",African polecat,242,641,F,M,860,539
+200,Tana,1M8zsvcJqBdDsHkuBSC5H9scVpQQfvVDDS,73,183,M,83,0.471,0.1844051,13,Gecko (unidentified),"Nighthawk, common",20,876,M,F,636,76
+201,Gus,1JNSpRDt9rgQQoAkTNP9XkC1MuS8JP8vnH,89,149,M,21,0.308,0.5816442,879,Impala,"Porcupine, african",114,409,F,M,410,958
+202,Goldia,1CyB3tA3HGhWJHZSQWzm1BzcXJLc33JUcp,79,133,F,45,0.951,0.7856465,581,Frilled dragon,"Squirrel, richardson's ground",291,601,M,F,180,409
+203,Ashil,16KvRtcEsEEsbmCBT9SkcYdcEd9VEUTDZU,54,128,F,15,0.146,0.9529799,786,House sparrow,Red-necked wallaby,748,442,M,F,270,494
+204,Theo,1DiTLtViUsV1e4RhAyzsFaqW7YaSwgy7y3,1,121,F,52,0.192,0.385754,835,Prehensile-tailed porcupine,Swainson's francolin,622,392,F,M,212,927
+205,Henri,1AvUajAWAJC9CbhSYmixQBQi8FYiQRjQRz,66,145,F,51,0.186,0.6466338,152,Black-cheeked waxbill,Arctic lemming,774,65,M,M,639,852
+206,Sydney,1NVRAS6HwozLjU1PA9UMBTjVWzjeBszeWN,62,131,M,52,0.998,0.7037329,469,"Barbet, black-collared","Caracara, yellow-headed",247,472,F,M,132,719
+207,Carlynne,1K8Z1hjkeL8zh65np4riSq69stXo3o1Ssv,31,113,M,84,0.324,0.8339066,790,"Dolphin, bottle-nose",King vulture,769,795,M,F,75,850
+208,Prentice,1EyfwkyyAQ1iLmsRQWnYWSY8J1D2fwXwnV,66,167,M,1,0.951,0.9594282,843,Magistrate black colobus,Leopard,89,152,F,M,558,515
+209,Grethel,18FHwn5KmjUPt9wYggGTkhhFnVksT2FKYr,99,183,F,98,1.0,0.2086732,67,Dingo,"Lion, steller's sea",482,430,M,F,596,800
+210,Shauna,148tV27ZafhBgLkE1jM1yA5cfdQT5GPPus,87,125,M,82,0.341,0.4280274,52,Australian sea lion,Burmese brown mountain tortoise,246,978,F,F,867,771
+211,Chancey,1H4VjMWj5n9SJNHxbrY4dsMvrV4W9kSjqM,7,169,F,32,0.847,0.2432782,973,Woodrat (unidentified),Greater blue-eared starling,98,309,M,M,474,610
+212,Cinderella,1NnzeQpESQyV6hvXhmuw4J37Z3pTNu1hTW,88,190,M,71,0.776,0.4745468,289,Springbuck,"Cat, cape wild",960,441,F,F,495,247
+213,Donna,1KzmgCmMJywUFdtng2L1yBPijCfuNofSnW,1,177,F,71,0.872,0.4954929,25,"Rat, white-faced tree","Polecat, african",404,521,F,F,638,563
+214,Ozzy,15QcxuiANpb6qxttUdnPXoPKCTYzheLyrp,30,199,M,98,0.9,0.8576028,346,Bird (unidentified),Black-cheeked waxbill,256,865,M,M,251,84
+215,Dugald,1APW4H3kcR28kKdvoVq8GVuU9PCmkcfQKh,23,192,F,72,0.747,0.9279433,817,"Squirrel, richardson's ground","Sungazer, yellow-brown",630,608,M,M,476,828
+216,Martin,1NyDM2naqBnrbr5gJ3eqfiVniJHZ6PAHCE,83,125,F,96,0.296,0.4908832,384,"Oystercatcher, blackish","Grebe, little",915,911,M,M,546,192
+217,Laurence,1DV1SWXNmppMr1Gkmoj8NUPjCrRhZyQKg1,21,109,F,33,0.571,0.2303304,876,Hummingbird (unidentified),"Butterfly, tropical buckeye",56,14,F,M,385,54
+218,Lyn,1LYBEspKzoatAyfAQ7tjNFP49wc2dEdMf7,41,128,F,17,0.398,0.8903714,33,"Monster, gila",Southern elephant seal,588,309,M,M,631,311
+219,Grenville,1Lm8mP3z4AXdysn1DtHqhqaMwDsEJm8h76,55,120,F,62,0.11,0.7859797,789,Crested bunting,Swainson's francolin,235,115,M,M,123,888
+220,Carri,15QZ6w43QhBjGwitSkS69c2y7frvUXsCPA,67,151,F,31,0.841,0.8926835,340,"Lapwing, southern","Parrot, hawk-headed",765,274,F,F,518,920
+221,Stefanie,1MibqHg4uE8wteaMcK8Bgpjh862a4vGb9y,7,193,M,39,0.541,0.5020128,921,South American puma,Purple grenadier,886,212,F,F,486,228
+222,Aguste,13NrcW5hEzNndGFVL5pyhsgRb2t84YnCtB,88,115,F,89,0.412,0.2836449,101,"Squirrel, golden-mantled ground",Toddy cat,593,222,F,M,28,629
+223,Wilburt,1AvqncARTY9yCsZDnzmA9wq2TZMVsC4a55,69,107,M,80,0.914,0.6319234,854,"Bat, little brown",Jaguar,192,801,F,M,316,201
+224,Puff,1j2raxGAMKLFzZhu1ZwumVEHuojqqp3x7,99,131,M,36,0.67,0.715885,488,Pig-tailed macaque,"Cockatoo, red-tailed",544,514,M,M,837,196
+225,Gerri,1JUJdzVv5mwJSquSPXjX2szEQNZtzgUrLN,55,195,M,95,0.302,0.4030021,571,Little brown dove,"Elk, Wapiti",43,648,F,F,588,269
+226,Sydel,1MFp9XNGVUsnZzTfMCRbGSD9i7pD9kuTPU,57,124,F,56,0.148,0.7403015,59,Crab-eating fox,Bottle-nose dolphin,461,903,F,F,534,144
+227,Claus,1Gah7sPE9M43PJRg2TgwyQafbU6sFw124K,62,189,M,71,0.355,0.3280614,819,Adouri (unidentified),Spotted deer,596,13,M,M,625,420
+228,Carlene,1hPdWqg3H7z12g6BQfhNp48hkVbFWD4YZ,64,116,M,14,0.191,0.4085117,721,Eastern fox squirrel,Indian star tortoise,716,782,M,F,624,216
+229,Othello,1DEvFZZTN9QttesFrMuiztue6N9DxKdCUa,85,189,M,46,0.468,0.6417412,526,Burchell's gonolek,Adouri (unidentified),241,135,M,M,74,726
+230,Fae,14fz4BnKQ21JUJHMvNC1vw1X4Zsh6bF41S,34,184,F,35,0.399,0.0154473,330,Asian lion,Southern brown bandicoot,244,705,M,F,618,376
+231,Enrique,17UDfarAh1U1kDdaPNiXW163Fs2AYgnVWD,89,142,F,67,0.624,0.4167033,147,Bahama pintail,"Wolf, mexican",395,886,F,M,382,587
+232,Morey,1xDW84jyq51QiKdRqXboiYAecS5JoEvQi,26,184,F,18,0.403,0.2731677,460,"Beaver, eurasian","Shark, blue",449,925,M,M,598,103
+233,Zorah,1AU3EAR4jqjfg7pwkACotCCHrfUd4zgjj3,38,104,F,34,0.183,0.8748168,902,Snake-necked turtle,Stone sheep,289,574,M,F,647,278
+234,Zita,1N7hai1W2tUKg265rvxmTqk3mEJ7694kqK,66,168,M,42,0.495,0.7447233,236,Long-billed cockatoo,Yellow-billed stork,262,773,M,F,14,620
+235,Philomena,1LCMNJafHQYRD8xGo8XP4vRQjbhS8bnZwj,5,133,F,19,0.716,0.1381954,647,"Heron, grey",Downy woodpecker,512,770,M,F,244,219
+236,Damien,14RgSktXi4TerwbsPj9aUzYziE31nGFkWz,16,168,F,87,0.231,0.7543314,216,"Jackal, golden",Sidewinder,135,679,M,M,599,857
+237,Abner,12rnzKpn5XAT4j12bqe426AQprHWZbGVNV,28,174,F,75,0.39,0.0436025,655,"Bustard, stanley","Sparrow, house",514,319,M,M,903,814
+238,Bern,1Mvf6LuMSoiRvq447wYScoRLz2bbNf2Wpm,17,170,F,31,0.828,0.8804651,732,"Gonolek, burchell's","Cat, kaffir",896,863,M,M,404,471
+239,Mattie,14B7YmRQkYtrQhpKNJ19rmnSSJtqPLdzsi,83,121,M,96,0.617,0.4690976,195,Chital,Mallard,227,779,F,F,25,920
+240,Ellie,15UGvZck55BJgPhTvnFyHKHSL5W8SVfZRP,2,163,F,98,0.105,0.7154789,684,"Glider, feathertail",Southern lapwing,573,908,F,F,390,517
+241,Hughie,1LcACRdXqtMoNJs98vcgSgWcxQZKEQXThY,19,183,F,87,0.387,0.905825,269,"Penguin, fairy","Rabbit, eastern cottontail",961,302,M,M,980,735
+242,Kimmy,1DN118tisGXzzBnSzAdm9WnWLfMcumRXCL,68,149,F,29,0.948,0.858894,909,"Crane, black-crowned",Purple moorhen,338,114,F,F,709,68
+243,Shalne,12qfokAp7UBJavX9y5wouQEcLXt2Gge6Qe,63,196,M,66,0.588,0.751154,253,"Meerkat, red",Black-faced kangaroo,596,363,F,F,639,802
+244,Jyoti,1DEmZ6TWTbti2FeTb4w7WLcMiRWgvG6XkT,98,198,F,8,0.439,0.3678201,246,"Kudu, greater","Pintail, bahama",942,933,F,F,8,690
+245,Evelin,174CsdtEmdpMqvD3N3DYwB2YaqjqfdoSQP,26,126,F,84,0.257,0.858024,675,"Boa, cook's tree",Striped hyena,513,103,M,M,531,839
+246,Fax,1NVJ591qHV3uwUpidSpv7hGb3knDgv28dn,35,132,M,88,0.41,0.216747,903,Black-tailed deer,Baleen whale,346,933,M,M,68,152
+247,Alameda,12Ha7TLHVrB7DJsoTgvnVDNbn7ar6r26EB,60,199,F,85,0.983,0.6424137,453,Blackbuck,Indian giant squirrel,677,158,F,F,907,782
+248,Zaneta,1PGW766PmmFcoZtosT6X6R6N8rQga9cEDU,47,106,M,76,0.754,0.5508576,628,Common zebra,Small-clawed otter,752,80,F,F,418,982
+249,Erick,1Cbib67zrHgZQcsPSHZBmpQYSxHijZibnu,89,196,M,52,0.832,0.0132814,97,"Hawk, galapagos","Turtle, long-necked",266,298,F,M,721,972
+250,Jeanie,12rk5XsdR3t8WMYS1LbCpwfj6jFrb3nJjn,37,178,F,41,0.903,0.6255675,526,Crimson-breasted shrike,"Iguana, common green",982,252,F,F,947,470
+251,Arnaldo,14DChv5BN9YbzC7CqrdCsbtGcVLeLHVgus,29,145,M,91,0.854,0.9545438,339,"Seal, northern elephant","Kingfisher, malachite",637,949,M,M,997,342
+252,Werner,1KEo27caZ29Q87BmDkjeMZtWvRPzcBXkwk,69,182,M,5,0.289,0.5697982,740,"Antelope, four-horned","Dragon, frilled",604,279,M,M,735,222
+253,Maryjo,1CmmAhVmQRAQEmub9UvEYviNGvsv8ZWiJe,68,187,M,19,0.904,0.1792853,623,Klipspringer,Western spotted skunk,217,182,F,F,282,839
+254,Berkley,1BbeTLdTcFqXYCSsDH1uiNvUHg9NGVsXbg,85,131,M,66,0.769,0.069502,806,Striped hyena,Asian false vampire bat,958,614,M,M,274,550
+255,Tami,1Cyot1hZiVJ7YEyQ9aDGXhJkw2enUcEafk,36,124,M,98,0.821,0.4633039,593,Netted rock dragon,Black-tailed prairie dog,472,667,M,F,475,846
+256,Goraud,1MotGEhiEZJtPq8h7FsM6SDPHD9Bjz33Ck,3,114,M,46,0.717,0.8490279,86,Ground monitor (unidentified),"Albatross, waved",991,814,M,M,613,47
+257,Phineas,1MbiNWQAVhTeRobbiyFgi67sQrnGxmwotw,43,168,M,19,0.967,0.795336,319,Silver-backed jackal,"Goose, knob-nosed",917,106,F,M,959,48
+258,Prudy,1JQVQVQAjBP3DXSXrzN7emr7KJAs25fFLd,100,172,F,51,0.913,0.6902494,491,Common langur,Dromedary camel,521,7,F,F,345,336
+259,Emmye,1MCPwCQF4uy7yvsP6yX7NiXmaQcsYAdgZK,90,186,M,33,0.186,0.3186774,584,"Fox, savanna","Gazer, sun",522,332,F,F,618,750
+260,Berri,1BRods4usYZUYEEAkCeK2QNkDTpkQqPj1k,57,154,F,91,0.247,0.9790487,448,"Stork, yellow-billed","Deer, mule",130,115,M,F,243,167
+261,Julio,16DiDi5F7YiNVkVx8ctyRZro47wg1siHtT,41,111,M,64,0.883,0.4622951,12,Monitor lizard (unidentified),"Mouse, four-striped grass",974,121,F,M,677,218
+262,Alfons,1PTQkb7339p5SznvcAyby34ZkLodh8aDGa,96,146,F,73,0.171,0.6353295,405,"Snake, eastern indigo","Frogmouth, tawny",479,824,F,M,531,12
+263,Chiquita,1J9dWV1X7bLieFskFv6XcFUn5MMC14ZGEp,36,114,F,32,0.209,0.4197802,762,Blue catfish,South African hedgehog,34,490,F,F,220,883
+264,Blaire,12T18FXt9bQxGdQKmzboHvmskBiSP9QZ3z,1,178,F,5,0.251,0.829826,824,"Eagle, white-bellied sea",Common langur,404,560,M,F,411,641
+265,Denice,1D64KzfqZtT3s1kVZ7hPY2c6HiNKwPGeKn,40,140,M,57,0.51,0.800519,690,Crab-eating fox,Common seal,687,88,F,F,976,671
+266,Dolli,1J4vFicz6Vb7oSRcvxGG4ME5tkxXv72YVo,93,124,F,24,0.617,0.4834654,900,"Heron, giant",Amazon parrot (unidentified),275,945,F,F,808,195
+267,Rudolf,17KZvsvCDuTPqD3euTYB4GssxS2ZE22rwd,45,119,F,29,0.558,0.5439828,853,Savannah deer (unidentified),"Grouse, greater sage",601,654,M,M,305,219
+268,Ives,177pR9F3bdZoxjzRjnVLk2vqJFvAScHqnY,69,121,F,15,0.13,0.1959894,149,Black-tailed deer,Sambar,845,326,M,M,277,898
+269,Christophe,17e6juL1VGVoVN21x6kzRHeUftJfinFUDk,76,182,F,65,0.858,0.7389653,305,Great kiskadee,Ground legaan,754,944,M,M,756,588
+270,Hershel,1Me69UZkr2CKY8RytcPjKeeBNDwm2NfCHV,58,131,F,99,0.741,0.2129803,165,"Jackal, black-backed","Nighthawk, common",675,585,F,M,214,759
+271,Gabie,17wYpfHricSVAyMzeraqH5ohrAL71a5WBc,63,156,M,23,0.988,0.0951913,267,Sage hen,Small-toothed palm civet,227,159,M,M,468,775
+272,Kira,14jsRMsFkG6Na7eBvDkh2JBsdiQZpu3LNZ,47,131,F,91,0.926,0.3385387,603,"Lemur, grey mouse",Blue wildebeest,345,595,F,F,486,931
+273,Freeland,1PyCmCT3N2ihFpER5haqdU55vqCd7qVDd7,34,183,F,2,0.797,0.4735824,605,Common brushtail possum,Gaur,330,402,M,M,566,472
+274,Saraann,1Gxxiq3vSCjFBB3QD9FZuJjJWmj9xvmHkG,32,197,F,46,0.864,0.0720506,679,"Whale, southern right",Nyala,870,521,F,F,312,419
+275,Roderic,1F7N9DFC1e3f4Y2toBkJKiU3UpTabQrtbM,81,130,F,80,0.455,0.0835726,58,Tropical buckeye butterfly,"Raccoon, common",149,718,M,M,881,996
+276,Gerry,1BgU4sCXm7FtGHvPFjEYP8Br9EtCFok29C,6,168,M,63,0.582,0.3743865,41,"Falcon, prairie","Lynx, african",536,479,M,F,647,41
+277,Victor,1upFrW96WWniLdbPpcn9K9PTHE5UuYpSN,77,159,F,40,0.9,0.9518238,548,Giant armadillo,Common nighthawk,833,729,M,M,72,924
+278,Carleen,1ACoJHxhmEuxd2MaLALaKmgRD14qwcGKis,73,143,F,99,0.397,0.5713504,398,Lilac-breasted roller,"Goose, egyptian",371,943,F,F,194,507
+279,Manfred,15KAyb88mufKMjhKgK2Yum2NUQnjHVmEft,57,134,M,16,0.902,0.591021,553,Coyote,"Lion, south american sea",864,29,F,M,759,844
+280,Justinian,1BNurHsqak12nsDtJcGV5MTVq6JQMpVb4V,50,159,F,73,0.764,0.4939184,447,"Squirrel, red",Black-backed jackal,314,955,M,M,812,926
+281,Cheryl,17Hg3TMotcdgwfKWPDiWmy2SLaDJoKN9GY,16,155,F,93,0.771,0.0423729,295,"Fox, bat-eared","Lemming, arctic",294,57,M,F,170,177
+282,Cassey,1P4QYfDex9QF3ECVjYUJRE7wDtRiNs7MDJ,72,147,M,86,0.94,0.7985233,657,African red-eyed bulbul,"Racer, american",306,641,F,F,265,428
+283,Junette,15oQkN1Mz4CVubKiMYH85nZjWitrHDjPyZ,85,110,F,88,0.454,0.4260103,728,Common raccoon,Four-horned antelope,954,548,F,F,107,863
+284,Corey,1LhpSJR9iS72JGZ6dYS2cvhySbTmK55u3P,95,149,M,33,0.126,0.7292391,795,Dassie,"Beaver, north american",126,201,M,F,258,192
+285,Charis,1Q1hFGEeuNaYqrFF6yCL5jHgU464Ujc9Hz,85,199,F,20,0.93,0.3511034,672,Knob-nosed goose,"Fox, silver-backed",485,940,M,F,877,11
+286,Parrnell,1AiXDzhVMWReQR8immDxrkTnbMVAgoprEG,72,188,F,52,0.783,0.9116979,292,Ornate rock dragon,"Spider, wolf",586,249,F,M,479,291
+287,Fredrika,1FWkR4QnJYcafBBYCv5fkLgbnSnQ5vghu9,4,130,M,69,0.225,0.1014045,794,"Roller, lilac-breasted","Waxbill, black-cheeked",603,36,M,F,304,911
+288,Molli,1D7JBqxmiT6oZe2PJKJcFwt13sgAbez2sn,37,164,F,61,0.304,0.0556824,549,Andean goose,"Elephant, asian",425,196,F,F,11,232
+289,Layne,19KvSh8S3dhzWNSdSfgZ6LMQTSfoM7hkF7,26,182,F,59,0.285,0.4523531,328,Red howler monkey,"Wagtail, african pied",945,469,M,F,140,285
+290,Maure,1KmBD5pN3HRxShjq9F6EHjxv4WadUZu7gG,42,134,M,29,0.309,0.9218943,742,Rufous tree pie,Black rhinoceros,474,681,F,F,689,603
+291,Lonnie,15URET6Kvd1keSZ3e9RpAUngw1eyGxKYRv,45,140,F,75,0.929,0.7496484,180,Bee-eater (unidentified),Ibex,367,391,M,M,471,246
+292,Kalila,13mngdcrVzjqvx2ofuBWgxDBjWHApjEWq8,64,175,M,74,0.593,0.6269315,636,"Skua, great",White-necked raven,502,517,M,F,335,272
+293,Bordy,18383KZ3jeLGHWo7cF1qowT3ixgP7YoATR,37,185,F,70,0.692,0.2701651,291,"Zorro, azara's",Black-necked stork,152,334,F,M,909,208
+294,Jilleen,1ER7km52cm6PTk2uvsttrPH66BM84ovFVv,96,105,F,70,0.794,0.2306531,672,"Tarantula, salmon pink bird eater",Steenbok,355,140,M,F,245,589
+295,Randolph,1Niyza7SsYukjFvrSHZJcDG7VhBZmFXQHR,44,183,F,78,0.801,0.7954318,555,"Bee-eater, nubian",Andean goose,162,119,M,M,241,172
+296,Curry,18DtDCP758UxTbPZm22quyifzKqjosFqhm,25,140,F,30,0.701,0.4401445,307,"Gull, southern black-backed","Deer, red",773,192,F,M,954,298
+297,Abram,1EUk1TQoiJ4Z5gcv9RMz8KnCaucRA6zp3z,18,145,F,63,0.515,0.3133847,570,Eurasian beaver,"Dunnart, fat-tailed",810,157,M,M,131,960
+298,Lavena,1Ep27xFkR24nbiYBHXZrJ4Ft1zqM8u5EYQ,8,106,M,27,0.994,0.3293762,194,Bahama pintail,"Fowl, helmeted guinea",26,798,F,F,95,351
+299,Dwain,1AAPTsYWCYY1uxpzyNP6Ye1ba687xb4RW7,63,196,F,39,0.954,0.4019809,524,Northern fur seal,King vulture,433,852,M,M,387,136
+300,Dorey,1JHewz53B6CJSYXxCvQMo9ztV1ywuksz9P,57,126,F,99,0.181,0.6727577,735,"Mongoose, small indian","Kangaroo, brush-tailed rat",8,508,F,M,600,48
+301,Pooh,1E3GbgkyfNrHk6R1dmkrPB7sx8gftHu4oW,97,113,M,37,0.788,0.97413,851,"Mongoose, yellow","Bulbul, african red-eyed",331,931,M,M,711,881
+302,Salli,1Fvajq7X34do4jG1x9GiwJdfUuHUExnCXr,62,186,F,65,0.628,0.582167,374,"Rat, arboral spiny",Black curlew,14,786,M,F,90,850
+303,Rebbecca,134W6uttGUgKEQC8YTuq1yrLfyhrtmhBh1,30,195,M,61,0.399,0.0396088,583,Hudsonian godwit,White-throated kingfisher,592,10,F,F,615,363
+304,Matthiew,16MRdq4FesdEfdDdiCc5LMeCvKERuMLXzN,34,102,F,50,0.856,0.0539541,96,"Gecko, barking",Woolly-necked stork,603,982,F,M,58,184
+305,Dorette,1MWpywzuktkLQZQuXTU8gaf1KEP3mRAFjx,80,155,M,24,0.785,0.389746,838,"Crow, pied","Gull, herring",473,371,F,F,497,553
+306,Alida,17gQgVHTbQdwtQuwCVkFBUFrAMFr1wopNB,43,149,F,84,0.878,0.9526966,214,Long-tailed jaeger,"Wallaby, euro",14,680,M,F,22,258
+307,Erskine,15meRsqt7E8QrhbeE7MTtw3fqQCAmHaTCA,28,122,F,4,0.548,0.1508486,187,Eurasian beaver,"Bird, bare-faced go away",433,179,F,M,85,34
+308,Xymenes,1PLnaWzXZBiXkPLPRi1ReARMmmX9ug9a4z,94,145,F,69,0.376,0.5958697,705,Cormorant (unidentified),Eastern box turtle,948,335,F,M,730,444
+309,Brigham,1EtYywbp2eCzyT5yAgTbQUwtW3u9SFXdSB,80,197,M,63,0.119,0.321771,673,"Turkey, wild",Golden eagle,742,310,F,M,524,715
+310,Silvanus,1EfViX1u96fp9xTtjeqeFkiC5Eao9N5dyG,7,165,M,81,0.886,0.4188874,241,Impala,"Darter, african",487,17,F,M,476,954
+311,Gwendolin,1DZdds8sUSoxSUskz9HQDJvDu9vToDwMHT,80,165,F,2,0.519,0.5119645,689,Egyptian vulture,"Elk, Wapiti",803,355,M,F,256,953
+312,Prescott,13Qm8h4p47VjNUEmZbsKEmEkab9RYbGEh1,11,122,F,5,0.922,0.9148925,569,Dark-winged trumpeter,American Virginia opossum,877,559,F,M,841,453
+313,Greggory,1EKbxeTqS3V54XdgB6Pn997bQds8tyWxdW,87,162,F,36,0.655,0.8028929,516,Black-throated butcher bird,Nine-banded armadillo,254,232,F,M,176,274
+314,Julissa,1F9dvRX5ZbRB4wfMgu1YanEMnHKgCCXD8b,40,152,F,95,0.572,0.4307801,158,"Vulture, king","Porcupine, north american",904,218,M,F,829,397
+315,Waverly,1PauKg9YVbBRK62HxYza3iBKHxKUkEhMb9,87,178,F,10,0.57,0.4750653,606,Silver-backed jackal,Black vulture,591,101,F,M,942,603
+316,Brennen,1G6i3cC5Kfm6cDANyx5xYpT13ffv12rcuN,64,120,M,30,0.239,0.6394315,639,"Hyena, striped",Komodo dragon,665,2,F,M,592,541
+317,Gillie,12eLnjoLFXgXVPRuQcBjyKAwbaoXPKfUke,11,191,M,11,0.509,0.289397,961,"Hare, arctic",Guerza,126,42,F,F,697,151
+318,Aldous,1BKrmWJQWZHBRg8xYUAAWY1DBkHfdSJcpH,68,163,M,26,0.999,0.6355898,959,"Ringtail, common","Phascogale, brush-tailed",453,275,F,M,643,516
+319,Clyde,1FigJozG42V4dAEUzgkMnRSGFPxpPyT7tD,100,194,F,79,0.406,0.1907463,813,"Kangaroo, red","Squirrel, indian giant",137,377,M,M,937,238
+320,Conrad,1H7xfb1Vh6xLKGDiuBmakR7NPirHzriXHv,61,187,F,19,0.109,0.3191373,908,Blue-footed booby,South American sea lion,425,186,M,M,15,872
+321,Agatha,1FrN4fb4kyPT2eTXzAtieKCChDDUQPfkqj,74,199,M,47,0.303,0.4024982,457,Rhesus monkey,"Crake, african black",783,415,F,F,452,970
+322,Kellen,1EoYruTiPpVLcKZUCyyznyDg44PRv4L3ti,16,179,F,19,0.965,0.6471732,876,Northern phalarope,Sage grouse,38,157,F,M,569,51
+323,Nester,1KUJwF6jpcPyq3TFi8iExpxwgwkVF6bPYu,46,160,F,50,0.744,0.443352,454,Greater sage grouse,"Iguana, marine",234,354,M,M,988,817
+324,Vivyan,12EcuZrKR12GRH9jFqo1GdpThSUDhWA2ih,71,185,M,24,0.742,0.3044782,394,"Tarantula, salmon pink bird eater",Brazilian otter,784,570,M,F,183,448
+325,Gordan,1a3ycuGPvhbFut7b6vmJ6kaeSqt2SuZuh,41,168,M,54,0.87,0.8486243,617,Lily trotter,"Stork, yellow-billed",830,172,F,M,107,440
+326,Karie,1sveFsQz27pmorAkNjru8D4UnNeWRmR2P,66,188,F,41,0.705,0.2502805,985,Golden eagle,European red squirrel,178,679,F,F,65,698
+327,Rori,18FWsfV4Sgwwf5GAvTxGtgheFookPLp3AB,52,104,F,85,0.883,0.1663407,776,Common genet,Galah,401,766,M,F,805,222
+328,Austina,1BDjeqCbgnuwZuDpa5ZzVDSsqAEYLEe1TR,42,180,F,63,0.745,0.2946589,941,Yellow-crowned night heron,"Leopard, indian",959,330,F,F,319,146
+329,Stavro,151DTyDUc8vZZxhZaojX2dW8AGkLiTqrtA,59,173,F,8,0.417,0.3340289,552,"Gull, silver","Jackal, asiatic",300,993,F,M,273,274
+330,Brewster,1LxH2yPia2RVsbJoXa16o5uKL9HzibLAcV,43,126,M,39,0.348,0.3127856,432,Brown hyena,Common seal,692,3,M,M,177,283
+331,Demetrius,1Lb8GvVw43oQi6NZWoMo3UHCDwwzCLcuzX,15,175,M,86,0.243,0.3174324,683,Steller's sea lion,Asian red fox,457,800,M,M,202,180
+332,Gui,12Li73bLcUhPMMe2pbq3eDVeX6murLtLhg,56,143,M,36,0.437,0.6637357,237,Indian star tortoise,"Wallaby, dama",414,574,M,F,115,899
+333,Brnaby,1JHiVfRpHccKDudNnzFYX9qk3bg6FX3oeR,55,105,M,11,0.943,0.1741876,857,"Peacock, indian","Deer, spotted",427,717,M,M,627,29
+334,Anthea,1BT7Nmtw6ohmTkFKFZisxmPcyByQY1SYqz,57,160,F,86,0.57,0.1160478,609,"Vulture, egyptian",Yellow-crowned night heron,162,50,F,F,854,395
+335,Teodor,1DtGeJ4C7CBnYztr8n21st6WaQiM1wtco2,63,159,F,79,0.834,0.7743144,297,Hyrax,"Parrot, hawk-headed",575,302,M,M,566,239
+336,Jacquenetta,1PA5p8rfsCGUzjTmnxBgnjbdvJ4cnGrce6,60,111,M,56,0.805,0.8154625,328,Golden jackal,"Snake, western patch-nosed",698,427,F,F,145,34
+337,Yasmeen,1HFTtbgv3kdAE7EP7JYY4AyGVB7fAXXp8v,53,150,M,17,0.637,0.9926111,323,Zorilla,"Possum, ring-tailed",9,382,M,F,113,829
+338,Vlad,1D14wXfhkrc7qanvLgBfgvXLVsEwesDai3,41,115,M,91,0.652,0.2140369,998,Jungle cat,Plains zebra,754,80,F,M,327,533
+339,Huberto,162B5M4UCYnbymL5AAB6cs7EWJUWwu5e3q,13,158,M,3,0.638,0.0245464,682,Eastern boa constrictor,Ocelot,914,637,M,M,603,46
+340,Vernice,12esXLE5KbUbQ22UyVYetjWFZQG6eHYjaz,21,167,F,27,0.686,0.5922206,558,Civet cat,"Cow, scottish highland",543,935,F,F,107,501
+341,Mozelle,1LbLcLg3hPiGhMn6X9xV2M2yRqTQGT1xc9,71,118,F,13,0.608,0.7438156,602,"Bleu, blue-breasted cordon",Indian giant squirrel,789,290,M,F,473,165
+342,Stacy,1CUNnR3ySALmdX9jmDveWs5GeKgo1277nY,81,134,F,47,0.749,0.1724762,256,Galapagos dove,"Penguin, little blue",263,153,M,M,998,174
+343,Herbert,17iN2J4bTGhbixsowsixJZd9xavCt4KtRV,42,183,F,19,0.98,0.5319931,956,"Gull, swallow-tail",Vicuna,728,883,F,M,792,914
+344,Bethanne,16aAD1fskrbgb5JNebRXsE1VwVg7qZr9xz,10,174,M,34,0.629,0.5668231,784,Red-billed toucan,"Heron, goliath",273,282,M,F,614,626
+345,Field,1ziZDJV2wbXTfQpyjdCyjc2ZGebNECUnq,45,143,F,81,0.704,0.2861356,49,Springbuck,Slender loris,614,662,M,M,69,172
+346,Arabella,1LQmCn6r94MiFPCBss1gziDa8Gbcuq791T,81,168,F,87,0.474,0.2532439,961,Southern elephant seal,Dabchick,560,324,F,F,51,745
+347,Jolee,1DhuzKr7cZXBwVCuAHHaWbBiVe66TnKUTZ,19,156,M,19,0.571,0.9307957,476,"Rhea, common","Tamandua, southern",392,199,M,F,794,558
+348,Mommy,1G19ER3uUGsfMBbQdAapfPNg9j78jHjcyN,36,138,M,76,0.17,0.2815743,901,White-necked stork,"Squirrel, malabar",964,408,M,F,536,46
+349,Cassi,1F61KzWu4zGxzNbgdt7dyx1WSub6s1RH3U,27,182,M,37,0.531,0.2535223,103,Common langur,"Bear, sloth",714,910,M,F,14,170
+350,Pavlov,1FRvSBAxwG4gLDjt8LeKRbdTgLHZPNfxwR,7,133,M,48,0.286,0.1165767,12,"Starling, greater blue-eared",Striped hyena,107,648,M,M,689,233
+351,Valdemar,1CS6hCiZrvraWkq8rXq525LV77D6xjb3UH,26,126,F,10,0.98,0.2578276,535,"Porcupine, tree",Blue-faced booby,543,486,M,M,722,375
+352,Clevie,1BCJijbaX5CdL7PtLZShGQcinwr6PUi7wE,30,180,M,38,0.453,0.975887,554,Bengal vulture,"Eland, common",753,341,M,M,666,863
+353,Adiana,197xPL5AY7oC3fVxQGPRJshYAimGKfRBxF,45,167,M,29,0.501,0.7274409,705,"Goose, knob-nosed","Cat, ringtail",611,596,F,F,616,673
+354,Ennis,19pygEWg8mYvFU15UDztM3EZ71cUfdfpKT,4,127,M,98,0.933,0.8784391,325,"Kudu, greater","Anteater, giant",316,954,F,M,657,390
+355,Amitie,1JU2PSzWhFrimnjPTd1DnMAWrpHqzAH2Mc,13,185,M,19,0.487,0.4076607,821,Goliath heron,"Woodpecker, red-headed",517,748,F,F,890,435
+356,Stillman,1Ptha86GA1rGPPTLtL2g7ZpFvJ2SKeZWVv,12,192,M,41,0.417,0.3203192,290,"Buffalo, wild water",Giant heron,22,316,M,M,541,662
+357,Case,1JHGiDM5bKFk7NSvoX7o4aLemgYjq4aKru,27,160,F,29,0.773,0.5282117,494,Mocking cliffchat,Black-backed magpie,985,746,M,M,576,414
+358,Lucie,13HnFgNKt1SbrSKWpmbmefWUXhzckyNZLM,49,198,F,64,0.566,0.1470443,294,"Deer, savannah",Slender-billed cockatoo,329,983,M,F,26,243
+359,Isa,19gYjQ22kaVVLygLY4YNJ91KtT9biLzJes,88,182,M,7,0.448,0.2609642,416,"Bunting, crested",Japanese macaque,903,430,M,F,632,109
+360,Merrielle,1BsARUXxAPzZXWsdcMSHtFeE71jjb9hJ6h,92,199,F,15,0.647,0.8835467,990,Pied butcher bird,"Antelope, roan",343,286,M,F,975,294
+361,Marcos,1LJyQ3nHGqQnuc5xArtzChqnbSmsLRXb9H,16,188,F,16,0.903,0.7835941,611,Flying fox (unidentified),"Thrasher, curve-billed",219,453,M,M,634,139
+362,Gallard,1BRXAcYcqzWvhyi3cVTgikjPj18wSU64nn,14,112,F,98,0.653,0.1861613,445,"Crane, stanley",Slender loris,680,400,F,M,364,760
+363,Nikolas,1GVAJ981KdoLHDLJCGjf7gQ5ZyV5uCabfh,76,109,F,8,0.774,0.8375579,57,"Parrot, hawk-headed","Buffalo, asian water",878,483,F,M,175,551
+364,Nicol,1F42mYcsgKKN3mABPB6mUvTqLjqKELEqLB,17,106,F,14,0.528,0.6491305,337,Polar bear,Yellow-brown sungazer,564,219,F,M,847,334
+365,Nerta,1DbSb3o9JMcjzRdLE8sKwEsYAX6bP4BNsG,11,161,F,78,0.526,0.1705982,627,Greater roadrunner,"Wolf, timber",835,905,M,F,591,197
+366,Major,1AcvmeGLPoJ9LC9ttw6GTb5Q9KW3xgMr2c,39,160,F,12,0.546,0.5670531,88,"Capuchin, brown",Red kangaroo,703,756,M,M,526,144
+367,Jens,16XXZSr7C8ErCcAbj7cbW6Zgt9ZvPGfKZT,31,171,F,31,0.609,0.4328407,391,Osprey,Manatee,782,376,M,M,864,178
+368,Millisent,1PttAQWwaixLsBvXQxSdM3etwzJ322qHfa,46,157,F,90,0.228,0.0879325,399,King vulture,Black-backed jackal,542,716,M,F,708,837
+369,Sonja,15SAGSYUAGjZYy3gD1WnSskSyJKs6qimh3,63,151,M,81,0.682,0.3005387,3,Desert kangaroo rat,African polecat,501,904,F,F,475,5
+370,Victoria,1EUPtApitwFUnGed189qPeMeYEwpkx9NLF,88,191,F,90,0.678,0.33641,722,Giant girdled lizard,Chameleon (unidentified),142,535,M,F,346,563
+371,Skell,1Enwgc7mbaw7PVXgDh89imXAq6wCBTYM7E,9,118,M,50,0.719,0.0153262,740,"Snake, eastern indigo",Miner's cat,613,236,M,M,466,335
+372,Lombard,1C1BZbJB4HVzmmoUz4swKePQJqZAfKFWmD,88,158,F,84,0.826,0.4918709,924,"Goldeneye, barrows",Brolga crane,549,592,M,M,550,650
+373,Barnabe,1Bsy9Qf5Wr274F6sc1gvAJHQ21c3WzCjRP,53,106,F,91,0.334,0.8356214,420,"Rhea, gray",Jaguar,859,721,F,M,981,679
+374,Rowe,1J85eofwFzucY93NV66LQYTSJkFmWTaZsb,29,112,F,38,0.351,0.3550505,49,Barasingha deer,Sally lightfoot crab,682,628,F,F,135,886
+375,Kyla,1MCMUonKHdAADbzhs9qQkviN1skgzDXVrw,30,180,F,7,0.831,0.367746,674,"Creeper, black-tailed tree",Savannah deer (unidentified),796,400,M,F,495,708
+376,Ryon,1A4LcZAK2dLxeeSFHqobdYhZ8F9aovd91x,19,107,M,45,0.687,0.5593524,19,White-headed vulture,Small-clawed otter,991,554,M,M,443,444
+377,Stillman,1GCBFrUZTThD8LjDY3SmgiHVEr29vco4xL,10,180,M,72,0.35,0.6964743,139,"Corella, long-billed",Pine siskin,474,114,M,M,527,792
+378,Hilary,1PSXPcJd3KAsJGS1RF4xtTXCuwGWDGKie7,64,196,M,87,0.38,0.2979692,158,Southern lapwing,"Lizard, collared",852,239,F,M,108,627
+379,Liuka,1ANv2TBcSpcYSmKhbj7xJZUxkqauW4A2W7,4,124,M,64,0.841,0.2479509,382,Stick insect,"Oryx, fringe-eared",848,586,M,F,21,813
+380,Wes,141hzuEXrzJz56HNEbxbERZdhm3TBJdiMc,25,140,M,71,0.968,0.9602819,613,"Fox, asian red",Blue-tongued lizard,778,251,F,M,698,350
+381,Michele,1LthHzL5Zmh3HZEwqbs6oXAzGhfDvEJuck,13,161,M,11,0.767,0.86513,70,"Caiman, spectacled","Falcon, peregrine",342,604,F,F,583,736
+382,Marquita,1LTM1AFvzZWtPGZ2inok48oL8MiZAzT2td,32,194,F,98,0.217,0.0287974,652,Chimpanzee,"Monitor, two-banded",584,121,M,F,936,270
+383,Elissa,18EFVwCdXgNpcs98iDouh2zhxaHUPzstBA,79,149,M,69,0.603,0.7052878,351,"Armadillo, common long-nosed",Rock dove,909,373,M,F,360,713
+384,Nils,18Sw51nvVARBDFnejExkdSMJZcSv8pZW2k,40,114,F,28,0.801,0.9398787,401,Swallow-tail gull,Asian elephant,676,201,M,M,34,75
+385,Lolita,19yetDMJPaUAtHXypXWutRdwRUYn23GWJH,46,120,F,61,0.693,0.9013955,32,Northern phalarope,"Penguin, fairy",746,438,F,F,27,822
+386,Denys,13gr9eQDQxyQ7R77p8Vz9eoXMY9mjNSJky,43,159,M,83,0.444,0.9085573,567,Olive baboon,Whip-tailed wallaby,629,255,M,F,838,633
+387,Brendin,1Dc99QBfrCYT3KdAWSuzADEFu6tTanetTY,83,111,M,89,0.184,0.690393,252,"Bear, american black","Grouse, greater sage",263,596,F,M,310,936
+388,Bartolemo,18rhzUJN58pY4XfyLCsah7HYk2TrU5axGJ,55,165,F,6,0.145,0.6449879,171,"Mouse, four-striped grass",Netted rock dragon,815,593,M,M,191,478
+389,Renault,1BdWSCgcYUrQ9PGEeMqZ8UbADdaVVwdBCu,2,107,M,53,0.109,0.4523396,157,Tiger snake,"Hyena, spotted",161,55,F,M,324,757
+390,Perice,1JZUg6H2fjqAHPCGiXhFrDwjaSBFwhk1WQ,75,140,M,18,0.129,0.4368619,501,Hippopotamus,White-cheeked pintail,922,444,M,M,923,990
+391,Jean,17iVwcCNEwWuQC6K171bi115Y3FsVZMudN,74,148,F,45,0.783,0.2041548,625,Common eland,Crested screamer,846,711,F,F,193,143
+392,Lara,1Fmtfj6zyYsuY5LHmU1FApmruXakyw9VKR,72,171,F,28,0.152,0.4158088,69,"Wallaroo, common",Rhesus monkey,779,298,M,F,768,530
+393,Margie,1NJ8usfDDC9GpUxdYBPykQVB1GA7wvngC8,80,123,M,12,0.3,0.0207632,78,"Lapwing, southern",South American meadowlark (unidentified),106,215,F,F,599,67
+394,Mattheus,12LLdpYNYQAEkRzhPEsFmh8bKj6te6Rxh9,23,106,F,94,0.754,0.9682248,376,Klipspringer,"Thrasher, curve-billed",963,805,F,M,324,71
+395,Keenan,18ZU6xwmoQKiWRHGyJXNqPjqoZsExLVtxx,12,124,M,57,0.956,0.9041363,672,"Penguin, galapagos","Macaw, red and blue",138,315,F,M,510,479
+396,Delila,1G9Be9GQwbo9f2wU3M6QJRRTRx6GPLyMhP,40,151,M,1,0.927,0.5413411,345,European badger,Yellow-billed hornbill,127,547,F,F,335,297
+397,Kristoforo,15R6qZZNUuvA4E4pSKS66NXesTFxftp69h,37,155,F,99,0.931,0.4866236,497,"Penguin, galapagos",Cook's tree boa,516,268,F,M,311,987
+398,Karl,172739QMYk5dr7iFXP4fNVNMCpNvFdWTeU,64,181,M,29,0.198,0.9390851,334,Common palm civet,Dark-winged trumpeter,686,94,F,M,306,953
+399,Mead,16Qc7wejYUkfevqUN1mRKEN8U7t8ki75Mk,93,193,F,15,0.401,0.1958402,421,Cook's tree boa,Chilean flamingo,199,276,M,F,294,193
+400,Tobiah,16rMcyusJa5ppYtp682JM9xZiApuSTJUFp,9,164,F,72,0.782,0.1455915,832,"Sandgrouse, yellow-throated",Collared lemming,271,154,M,M,249,148
+401,Alia,1MNU2NKMSHTt2WdKnQmipF72j8FP6vgmz2,12,189,F,58,0.63,0.1174046,57,Mexican beaded lizard,"Squirrel, antelope ground",901,605,M,F,1000,557
+402,Koenraad,113WNWFzRjRLKu7uYTcuMf2vuXVwuCfLwf,52,128,F,26,0.192,0.090768,860,Giant anteater,American badger,77,547,M,M,324,392
+403,Axel,14Dv34fbRGRLeQvqDTatudKtRgWcKibnza,44,174,F,99,0.785,0.2704779,531,Dusky rattlesnake,"Eagle, golden",956,741,M,M,762,873
+404,Thomasina,1AAwdqx3GkAMZ4un2X3WhF2jBVuy4un1My,13,184,F,91,0.757,0.1323777,637,Grison,Great cormorant,776,614,M,F,119,286
+405,Hiram,1LjfVwECSq3dvqRTyvWT7tzd7ZBJq4WCdP,26,128,F,11,0.22,0.9810932,701,Red lava crab,Aardwolf,689,933,M,M,571,948
+406,Major,18SzKWuuFoeJi4Pfee2gvZvMX5TWj8QUn,70,179,F,76,0.543,0.6027973,537,Sugar glider,Striped dolphin,183,666,M,M,41,174
+407,Avis,1E9Af7e1epS3kZEvNyenQ9RBbQoXmr4ehP,21,150,M,85,0.973,0.9400961,857,Frilled dragon,"Waxbill, blue",550,608,M,F,337,315
+408,Berkie,1L2YA15m86U9wYQaqRGL5fRztLQnxcUajc,1,106,M,64,0.685,0.0400268,724,"Magpie, black-backed",Tyrant flycatcher,78,682,M,M,207,11
+409,Erek,1MYEkD7EuEjWipdQ2HNXdE6t8AAXjDywdV,46,139,M,94,0.918,0.0288311,532,Galapagos tortoise,Eastern cottontail rabbit,386,704,M,M,162,188
+410,Nalani,1GdXyNav4GffK9MXoKsFV2rFeYbv9R8poq,83,186,F,69,0.883,0.463828,604,"Cardinal, red-capped",Tarantula,415,985,M,F,203,260
+411,Avigdor,1LsPpK1yAYqMgyaxEEQb1F39kEP3ERyusb,91,131,F,33,0.371,0.5642978,200,South American puma,"Puffin, horned",449,210,M,M,672,49
+412,Joli,1GWLSxtdrcRSLMbJv81vvTXf3GMdfeT1Ba,78,113,F,54,0.877,0.7812046,824,White-cheeked pintail,"Bat, madagascar fruit",298,271,F,F,306,822
+413,Nollie,15nTnmunEEiS3mewgfwtJvWNfEvoZNea5B,77,114,F,97,0.643,0.0185517,688,Galapagos penguin,"Squirrel, antelope ground",168,307,M,F,69,253
+414,Dylan,1HDjJTXv3eBJ4eAhK7opcaQqwkUPPtxq6X,92,189,F,11,0.474,0.0900191,184,"Brocket, brown","Rattlesnake, eastern diamondback",995,877,F,M,226,252
+415,Khalil,1GM5QqgLQ9nGq1Dh9gpzukpWcHKJYCV8S9,6,164,F,76,0.519,0.6529163,998,"Monkey, vervet","Raccoon, common",844,838,F,M,205,284
+416,Kent,1GMc44p8FyCAHjfxizTHHYvNasNPD7DfLh,87,155,F,19,0.717,0.1510328,5,White-throated monitor,Eurasian badger,299,466,M,M,935,726
+417,Bette-ann,1B9RDtsAyZf2mZDx2iWtV9JGYtkHH3AHSy,100,136,F,10,0.592,0.6201436,337,Ocelot,Red deer,670,794,F,F,300,424
+418,Binni,12JwAET2yrwou3EmhJQ7xUcN2xiWiu1CXu,41,176,M,13,0.781,0.292166,241,"Booby, masked",Kinkajou,377,126,M,F,466,45
+419,Cyndy,14keaU5MTN5v6j4KisNdQKiFS8XyZmGMgw,58,166,F,3,0.681,0.4963164,590,Brown hyena,"Deer, barasingha",406,52,F,F,63,42
+420,Lilla,1NDiZtsChgjkMNiUrH1dcSBvxGjhedhgy4,81,111,F,15,0.216,0.4287276,61,"Mongoose, eastern dwarf","Snake, buttermilk",573,76,F,F,199,722
+421,Keith,1MUNDUQ2EVja2FLTozfVJrSgLW364eqPer,49,147,F,54,0.834,0.5395478,807,Greater sage grouse,"Squirrel, malabar",559,102,M,M,546,920
+422,Maridel,13JckieDwkArZFE9uwttxxAYhxuz3Neee6,5,164,M,76,0.962,0.2004091,393,South American sea lion,"Sloth, pale-throated three-toed",335,487,M,F,126,640
+423,Tomlin,1JVR7r1Sr3aJHEjaqPGKgsyFaWXzPnzFyW,45,148,M,99,0.855,0.5021936,800,"Eagle, white-bellied sea",Water monitor,541,206,F,M,933,348
+424,Halley,199j3ph8pEr3j7dQwEmUCy3EMMuWgbcdJj,30,151,M,82,0.54,0.7200883,982,Marabou stork,"Fox, crab-eating",203,783,F,F,626,412
+425,Cliff,197ENJAwhV68Zt9pvNFY5qcm2nCCpM49Br,18,119,M,64,0.351,0.1773423,706,"Rhea, greater",Potoroo,740,587,F,M,906,882
+426,Paule,17zbgHL6y3iJ5pNWE8tgHwnARK57CR9Nzi,74,145,M,22,0.431,0.1285989,249,"White-eye, pale","Tortoise, radiated",468,482,M,F,143,884
+427,Samuele,1NyjRufrh13sRZmKRPA8tFYpNGvW892UWq,58,182,M,80,0.483,0.4642713,692,Bent-toed gecko,"Siskin, pine",728,862,F,M,365,979
+428,Dorey,1EiA7wTUyN6CPPat663LkRir3AeNXbGDKF,29,106,M,95,0.744,0.4207791,614,"Insect, stick","Buffalo, wild water",663,970,F,F,228,174
+429,Trueman,1JJQJGZnEApsUuo2UtFykx7a8H1NqVLAiR,40,144,M,68,0.58,0.2570925,354,Black-eyed bulbul,Red-winged hawk (unidentified),604,323,M,M,51,224
+430,Alika,1HTvyk15HWFzfS31KSPWfqUhBUxpCcp6i,99,134,M,81,0.329,0.8944517,912,"Possum, common brushtail","Francolin, swainson's",856,235,F,F,732,84
+431,Dov,17rJFmooC6Xh7bG3NcTyHa1Wz5kqo7XyPs,13,189,F,1,0.635,0.7774788,987,"Wombat, southern hairy-nosed","Tamandua, southern",233,853,M,M,233,618
+432,Jamima,16PwqYNWaUyLUjKAQqkxJgTBCLFuNDUo9X,69,132,M,36,0.336,0.6252181,854,Water legaan,Crested barbet,796,949,M,F,515,926
+433,Billy,1A5sx8gtMNu7n4it6opGiC4fd9bTiTonDU,23,163,F,66,0.77,0.6643948,378,Buttermilk snake,"Lion, african",238,22,M,F,903,366
+434,Gabriel,1NekCdDV1c7MGxKvst4wFBX7h2hyEhZ3tU,42,102,M,28,0.949,0.2633641,572,Southern hairy-nosed wombat,Common green iguana,306,453,M,F,198,648
+435,Fletch,124ghzLP12RHA4Tq35vb19GdjP6Q57C3Qk,83,185,F,85,0.836,0.7771408,653,"Raven, cape",Hoary marmot,802,379,M,M,795,985
+436,Lorianne,1MMJXCPyrQeGSdsd99tz55DQ62Q8uKHh9m,18,137,M,86,0.302,0.3318884,2,Green-winged macaw,Greater blue-eared starling,121,483,M,F,827,94
+437,Jud,1CYgiqhFUK4gMYv8Do2Xv6Bo9ytq8TjkbA,93,146,F,40,0.647,0.535071,980,Eastern diamondback rattlesnake,Red-legged pademelon,544,124,F,M,449,930
+438,Tybie,1FFkzRGbJ1xcQSHCv54ruwujn8dpg5bDnr,40,152,M,54,0.988,0.1851767,570,"Jackal, asiatic",Egyptian vulture,449,453,F,F,396,81
+439,Clary,17ZFPsCNzJHy7sJefxDYAMk9muCPP2i5Lt,15,126,F,18,0.143,0.8119535,161,Western pygmy possum,Golden eagle,705,738,M,F,534,495
+440,Kenneth,1AQ7SUqiSnsN921V9Uk6qQf9ESMSvm634J,100,102,F,44,0.555,0.9044633,26,Yellow-bellied marmot,Common long-nosed armadillo,777,660,M,M,719,314
+441,Fran,1N1AEYGUYZ9X1XD7Xahetp7DZHLrijXFKC,49,172,F,43,0.378,0.6457766,984,Tiger,Magnificent frigate bird,600,342,F,F,525,809
+442,Prentiss,1EaGXhCDRZdQASNLu5HqKxG95yZgTPZPhk,36,139,M,88,0.411,0.719007,457,"Shelduck, common",Flying fox (unidentified),674,321,F,M,37,42
+443,Ellynn,1DvhpFKezpBfVkmz5CGBWGuuNAMWqEoYsJ,8,162,M,95,0.767,0.0630626,839,"Goldeneye, common",Woolly-necked stork,829,224,F,F,996,639
+444,Terrie,129xqoczA91ubBGipewAuY7ZP5cYc1RH25,44,143,F,37,0.893,0.2269048,655,Bennett's wallaby,Salmon pink bird eater tarantula,264,313,F,F,44,725
+445,Piper,1Ncn8hyMJLKpYcQbzKaubeLacGANbXBMWB,10,110,M,48,0.533,0.6066186,664,"Lion, asian","Tortoise, radiated",726,633,F,F,808,494
+446,Gerrilee,1JCe69kWnKJbv5ZGN224t6CqrzrsVX4GGN,45,110,M,74,0.218,0.1425835,513,Common eland,Red-billed toucan,381,429,M,F,203,355
+447,Elvis,1Fo41BnyLp1wEw3iHjemGFzTCFEH9G9bfP,51,136,M,87,0.288,0.5230588,588,"Swan, trumpeter",African bush squirrel,202,95,M,M,111,966
+448,Anatole,1BhUetmyMiZJpcGgaQVMQ3F2m2Ry6NXHzB,19,192,M,39,0.398,0.5742901,68,Lizard (unidentified),"Gecko, barking",443,819,M,M,233,857
+449,Darbee,1JuqmuyBaywSiujiMbWDd6eHmwWaQa5WFP,35,113,M,11,0.182,0.6561199,325,"Possum, common brushtail","Racer, american",912,83,M,M,7,395
+450,Kerrill,1K4dGbFr35m6aZVoVdDGNY2idQ4jaLC1JQ,92,169,M,98,0.761,0.6590477,93,African buffalo,Kafue flats lechwe,267,739,M,F,9,598
+451,Dominica,1MpubSM45G8FTu3Ka26cr4Wijgrb8xG6D4,59,182,M,74,0.636,0.5205707,840,Kinkajou,"Antechinus, brown",6,444,M,F,559,560
+452,Forrest,1DRniDSyXr6jGnH1V4oYxexAuRjcETJYuA,87,198,M,75,0.301,0.921526,927,"Lion, asian","Partridge, coqui",110,882,M,M,273,759
+453,Dilly,1JZbxX5LRXHE91SUz3LRM7u7uj5jJL8zCX,70,189,F,61,0.489,0.7409791,543,"Gull, lava",Steller sea lion,405,998,M,M,835,115
+454,Sonnnie,1KRQSgbqp22UBbZFDrTc8ByydijU74dBgo,70,190,M,95,0.277,0.2411042,70,"Marten, american",Tawny frogmouth,834,619,F,F,39,593
+455,Dede,12F6Yo3VsuajxGLGzibsrfz3ghhzocEJJB,42,173,F,83,0.353,0.1080634,32,"Dog, black-tailed prairie","Pheasant, ring-necked",660,308,M,F,852,760
+456,Lita,1JiP1nXadjDUTfEiJJfNsjqSvZUN3V5Qkv,61,106,M,52,0.136,0.9023643,759,Canadian river otter,Great kiskadee,466,958,F,F,466,115
+457,Evelyn,1cntoEzZD7zku3BishHN1PGGwr4J2QVvj,64,129,F,98,0.224,0.9955583,239,"Duck, white-faced whistling",Goanna lizard,782,62,F,F,992,898
+458,Gerry,1G5zAY9Gj8mcD3ai4aKAjhpb6fWtHL9kXc,59,137,F,61,0.123,0.5306752,877,"Butterfly, canadian tiger swallowtail",Fairy penguin,265,91,F,M,528,976
+459,Arnuad,17xdZDMojxu85VZaEhjoEk6Ver7hnVhbJn,7,197,F,35,0.467,0.9960522,516,"Hedgehog, south african",Red meerkat,550,557,F,M,240,983
+460,Ray,13LpGwj4wNDygVtmyocTqVLAmmnCdH9Suc,63,146,F,4,0.987,0.5830178,392,Hummingbird (unidentified),White-headed vulture,335,642,F,M,780,144
+461,Benjie,1E4i7jg6GddBV1BoDJW3faPdYi5WgqbAU3,41,198,M,13,0.184,0.3108051,821,Bent-toed gecko,Tarantula,725,22,M,M,90,831
+462,Bennie,17p1oJ2nvwN4hTKX9ppaLz5xKV2dZmHzhv,12,189,M,13,0.254,0.5947631,864,"Duiker, common",Pied avocet,190,844,M,M,122,632
+463,Florrie,15pPNRPRxVEC9TYoSv4Fe1DRp23kxnSwiv,4,162,F,79,0.705,0.111069,724,"Coatimundi, ring-tailed","Lemur, lesser mouse",214,500,F,F,486,426
+464,Franzen,1EYHjtD82z1efQ41M1gt14E1HSm1duogUo,33,148,M,19,0.315,0.8661028,2,"Duiker, gray",Madagascar fruit bat,703,451,M,M,768,581
+465,Andria,1HG8nhLvY98XTAgLofftDs1AqNSRCR6Grm,8,184,M,74,0.915,0.274814,8,"Quoll, spotted-tailed","Darter, african",769,737,F,F,305,102
+466,Oswell,1MreJPAwDVFxyHLDn5SRG4VP4AMSbVRcFU,52,151,M,58,0.954,0.4800795,779,"Nighthawk, common",White-tailed jackrabbit,600,69,M,M,15,317
+467,Lanie,1Bcy5vodM7kEnNc6U99b2urpU2Dma3FJwr,77,168,M,49,0.459,0.7597317,711,Hawk-headed parrot,Openbill stork,747,463,M,M,148,649
+468,Fonz,186UCFh9Qwda3oRZgXirn2bGavvdE6qpqs,13,175,M,68,0.835,0.2314366,651,Pied butcher bird,Southern boubou,836,392,F,M,846,322
+469,Stavro,18223rad2S1yubScPxb2mvnZmwoZTj3BWv,72,130,F,89,0.725,0.1208701,471,Pygmy possum,"Sloth, two-toed",665,479,F,M,786,417
+470,Ely,14wogJFAh8piyuX4qXrigVfoepYe51pDFg,85,183,F,100,0.924,0.7298741,963,"Buffalo, wild water","Lorikeet, scaly-breasted",556,438,M,M,500,601
+471,Ami,1Dqu8BAQ4YsaKvkudpqSwyywjMobBTJQmW,51,151,M,88,0.76,0.5961882,264,Cape starling,"Mockingbird, galapagos",391,796,M,F,195,369
+472,Ashlie,1GHMtRLs58b74rwfNDDrawXGrYgL63pphP,8,181,M,42,0.388,0.9434942,421,"Kangaroo, red","Flicker, field",810,851,F,F,997,873
+473,Viv,12pXpxY8Y45Ar5NBAWcGMezLoQMoZ9XFfA,36,197,F,63,0.27,0.2854126,876,Ring-tailed gecko,Miner's cat,63,68,F,F,474,532
+474,Koren,17D2pWGGj6yhWbxzrJKz4A4RTpndqQJsAc,4,180,M,60,0.571,0.0359044,620,Crowned hawk-eagle,Russian dragonfly,254,799,M,F,786,360
+475,Dylan,138fsEmoMM14XAXRwMdz9AG31H5WpYquc6,9,127,F,78,0.943,0.6115923,246,Flying fox (unidentified),North American river otter,215,797,F,M,811,757
+476,Cindee,1ANLCDSK1tGE8bVMAQgUyLLmqaMRMEQfGZ,67,190,F,95,0.673,0.7710928,317,"Macaque, rhesus","Cormorant, pied",86,862,M,F,333,4
+477,Powell,1B48Uh7CdBWRvBhfe7YTppK9wDTL2AjQQr,30,138,M,56,0.345,0.9977487,837,Red-breasted nuthatch,"Gull, dusky",72,461,F,M,300,637
+478,Royce,1JWEXy2KTxXECozbeRnw7t1Bi4apeFiTWh,40,104,F,39,0.436,0.856539,582,Blue and yellow macaw,Two-toed sloth,884,607,F,M,869,334
+479,Casey,1CyuFrx9vroEYWhZ98ejvM8EYtWNPaq7bF,7,104,F,94,0.219,0.3423372,570,"Ox, musk",Desert spiny lizard,598,236,F,M,640,858
+480,Zandra,1CBbc7m14xtrxGpbE55YpQQ9FurpUF3Jb4,41,155,F,73,0.216,0.5828152,912,Australian spiny anteater,Bush dog,468,347,M,F,471,412
+481,Marga,12nBz8uBcPxdJxdqbhR7Rr3fP9K27CYuE1,49,119,F,31,0.618,0.0743364,45,"Iguana, marine","Gull, lava",487,504,F,F,168,769
+482,Den,197D1PsAZVaEarcmHqxxyGUJY7o5SmFhyq,9,111,M,7,0.76,0.8694024,837,"Parakeet, rose-ringed",Moose,501,673,F,M,393,758
+483,Devin,1BWoAr2kQVpSqJvYCjX5d4ekrxHkZuoaeU,95,183,M,2,0.933,0.5157236,480,Frilled dragon,Square-lipped rhinoceros,157,893,M,M,336,541
+484,Farlee,19Eq3ZUyviQBm5dK8CWUsnEgTppjdEZMK3,79,180,F,59,0.931,0.4654926,341,Small-clawed otter,"Dragonfly, russian",645,569,M,M,838,554
+485,Arri,17vWxSPZDiq5aaA23djAKmmSj3fg7Xcxjt,35,188,M,15,0.973,0.2950902,263,Australian brush turkey,Red-tailed wambenger,522,926,M,M,122,33
+486,Arv,1LZjqCWcm2X1Wiv8TiJyfB5A3TUTM4VQts,44,175,F,1,0.94,0.6541553,207,"Boa, malagasy ground",Yellow-billed stork,689,361,M,M,340,152
+487,Elane,13rTfiN8jYKkQeJGb1SgCJ9u6TruqJpCWS,72,190,F,1,0.656,0.3178167,239,Indian leopard,Klipspringer,857,689,F,F,336,157
+488,Borden,13vY5yat2YQ8Gun53vmmY5kHz56xzzRDkV,67,148,M,80,0.343,0.9099085,305,Mocking cliffchat,Burmese black mountain tortoise,169,366,F,M,411,887
+489,Giovanni,1A8PR4FqFgmqu8ratVowMQin9CHgbECRJv,19,188,F,84,0.173,0.5964213,217,"Goldeneye, common",Coqui partridge,956,12,F,M,950,390
+490,Izaak,1PVh1dnF7kkW9PrTGEN33Hed2GfJ9pKNyj,59,181,F,23,0.878,0.7070412,319,"Stork, saddle-billed",Yellow baboon,355,62,F,M,181,444
+491,Jerrilyn,1Pou6tpi6GDiD4jtU2Bb3bjm2H8Fe4ZtZ,67,132,M,3,0.811,0.7504106,971,"Jackal, asiatic","Magpie, australian",804,659,F,F,327,512
+492,Walker,1LdGRMJjvRGEBhMwZ23Cf4TqDXJfiVin6y,26,193,M,52,0.535,0.1358249,414,Mule deer,"Seal, southern elephant",969,303,F,M,615,193
+493,Benjie,1QC1sv9hJJhwsQt8haEtNvP6nivtXpFnVb,87,107,F,86,0.593,0.6833843,748,Kori bustard,"Cobra, cape",575,317,F,M,130,276
+494,Shanan,14a7CHnDTJQaT97y2q66HTBbEBKigBL3ZA,29,111,F,61,0.266,0.3249777,724,Cobra (unidentified),"Genet, small-spotted",988,439,M,M,819,868
+495,Stevy,1KESPfz1V43qEeUC8KAniVnMyZxKt7Zfz7,50,123,F,65,0.246,0.1546555,55,Greater sage grouse,Jabiru stork,828,625,M,M,950,412
+496,Danyette,188Ac3VsfdwwCDWieGjrrj5Eo3aBeJ9mea,55,143,M,5,0.302,0.6860531,488,Common zebra,Orca,732,395,M,F,259,930
+497,Fabio,1HeT45vRzFx9j2reh1gtW2kNDyWeywSVrQ,29,153,M,35,0.306,0.4103731,164,Yellow-crowned night heron,"Moccasin, water",794,305,F,M,459,915
+498,Reuven,18BcwyrdV9Zh4FZRuoyPHSjiHSxyoXecVk,95,182,M,62,0.588,0.9363288,93,Mouflon,Yellow-necked spurfowl,600,439,M,M,779,167
+499,Aluino,13LGukCV7U2B1GKxYdQJz1NGioVGHNqSzB,78,148,F,23,0.493,0.3124373,531,Barasingha deer,Purple grenadier,328,869,F,M,404,842
+500,Michail,1A3QhuUc2CiBemy54cTQu1FQgLVTbiWw91,50,109,M,99,0.433,0.3893677,189,"Fox, bat-eared",Australian pelican,553,114,M,M,585,419
+501,Jaymee,17vErwBWyV4p1c4qCyGe8sDm2UHiLTwQEt,7,183,M,34,0.234,0.4259748,606,"Pintail, white-cheeked",Crested screamer,162,576,F,F,867,464
+502,Corrine,1EBt7fKttRRmjagfqW3f1gmomm6eDJiGbF,85,161,M,40,0.874,0.2440868,150,Superb starling,"Godwit, hudsonian",359,86,M,F,288,317
+503,Zaria,1Q3v6RFEFjuaLQhQTqgSwQVGT4Ari2hyKX,67,109,M,72,0.49,0.5416773,120,"Cat, native",Blue peacock,151,695,M,F,602,65
+504,Sheridan,166iqpSwhxWGbkkMXYgG7ax5yc8QJ81LqC,52,134,M,67,0.443,0.9742261,733,Worm snake (unidentified),"Hawk, red-tailed",267,486,M,M,45,338
+505,Lothario,16kS18K6HJayzqgzT9rct3zQnew1iZedrV,89,175,F,96,0.151,0.3475728,262,"Phalarope, northern",Mule deer,516,175,F,M,234,622
+506,Osborn,1MbJaNQNxPnM6yzePuUog1dMVbqZ5utj1D,42,132,M,18,0.766,0.9902351,252,Silver gull,Eurasian badger,606,285,F,M,762,77
+507,Giustina,172GsyW41ybUSKMb8VgqmkvTpB7bN3h6UB,8,110,F,91,0.286,0.5895667,290,"Hornbill, red-billed",House crow,148,398,M,F,298,836
+508,Loralie,1BtmhjZbYUearA9fE5q4rzcx3ARY2Z99S9,68,167,M,62,0.317,0.9603048,595,"Mongoose, banded","Bear, american black",249,185,F,F,364,834
+509,Jsandye,1GSrfQ36SJeA4UEWx7DnqEvmUUavkDBgJp,70,153,M,67,0.156,0.6387168,237,Raccoon dog,Cape wild cat,80,1,M,F,701,212
+510,Beaufort,1Ete6douCvfAfoKAf1VmTzeq6vvgBchNuH,51,197,M,79,0.743,0.4611788,426,Cape wild cat,Hottentot teal,769,80,F,M,298,37
+511,Tibold,1LAD7Q2EjMQAjVBf89zboHJRUqS7dKqaKm,64,118,M,67,0.643,0.2935077,845,African bush squirrel,Dromedary camel,944,463,F,M,953,805
+512,Mendy,1DTLhNQr9NrHbr8z9N8K7JgaTWpC1vdFU4,39,112,M,5,0.123,0.0240084,383,Sable antelope,Spotted deer,623,846,F,M,818,430
+513,Sabine,1C9RXbUCZ4mPwcMsNq52TGHFnEgTZscvfU,56,151,M,23,0.756,0.0160578,745,California sea lion,"Crane, sarus",792,904,F,F,483,694
+514,Wynny,1A3SfPp3G36hjKUdve9sQgMik3ZnKhahHS,16,198,F,2,0.849,0.1782084,336,American crow,Scaly-breasted lorikeet,305,304,M,F,223,7
+515,Kristo,1CJCuhUtnYbf5hbD32fUmqcVgoumbNNxDE,74,156,M,58,0.403,0.334773,397,Goliath heron,Seven-banded armadillo,190,46,M,M,120,938
+516,Yard,1Bx5iuVhJqkf3RRYDYAYhWhcTM4SJy7Jqv,54,197,F,13,0.669,0.2431427,54,"Genet, common",African porcupine,283,87,F,M,125,261
+517,Jarid,1CW2EDxPHpBnqHjXH5RVppbRzwA9grczrr,54,196,M,6,0.46,0.4950309,107,Rhesus monkey,Swainson's francolin,764,852,F,M,637,487
+518,Beulah,1HDvzt6UU7XU7s3AyqCojWjtYe2HjocPJb,77,123,M,57,0.967,0.2729974,23,"Heron, black-crowned night","Kingfisher, malachite",184,454,F,F,447,282
+519,Corena,13HmgkyFFCXEuTTbRFDqNCVjVNDs1aRya7,86,137,F,97,0.631,0.260326,763,"Zebra, common","Boar, wild",482,995,M,F,632,344
+520,Alwin,1pLNDDrrQMTmHiSKvX4ZTjy9Fik7rrHAE,88,158,M,73,0.642,0.7204863,909,Mississippi alligator,Stanley crane,4,509,M,M,951,364
+521,Germain,13Z7ETugd77rv3TPZi5MpiLyb4cNaPFtrD,35,117,M,21,0.414,0.8612298,216,Cape starling,Paca,156,190,M,F,5,313
+522,Neville,1APed1ta3YFKKWkSpdX6xGSXFeNwij5YZC,24,115,F,55,0.781,0.3153611,177,Field flicker,Black-faced kangaroo,572,301,M,M,47,204
+523,Gallard,12EXtU858b1GECpJ3gY4mNPo9e2b4Gka7R,38,134,M,60,0.63,0.6142861,420,Openbill stork,Galapagos tortoise,714,444,F,M,469,2
+524,Niel,17aYGbsQa5WuvAZ8ZekinHFx6zpsX6xaBi,48,128,F,57,0.801,0.2595248,921,Canada goose,Groundhog,575,625,M,M,416,779
+525,Clareta,17wGYUVZDMtm48QGopKzxyG2quokBE6Sfo,91,122,M,42,0.441,0.9363489,272,"Roller, lilac-breasted","Snake, eastern indigo",593,512,M,F,113,805
+526,Natty,13p2FrnsNMBcXPRvUYVjsLJhsT2KeR6yD5,88,108,F,21,0.108,0.0124683,91,"Hyena, striped",Beisa oryx,411,535,F,F,37,522
+527,Schuyler,1ApsNjYaeNTYwGXbxQAU5L3EANdgzLuBvY,45,157,F,64,0.57,0.5114699,629,"Peccary, collared",Grison,269,940,M,M,404,493
+528,Luciano,1JbzKcH6btXAFbMTYXRZKGm3owrrxQMzHz,91,134,M,17,0.414,0.1603602,936,"Gull, lava",Sacred ibis,631,215,F,M,729,354
+529,Birgit,1GK4n1FeGeUm7N82RVTw1mBYmGZS4qepwa,75,164,F,13,0.186,0.0980505,372,Lappet-faced vulture,"Jackal, golden",88,286,F,F,449,561
+530,Gabriel,1C4ow4CB7pCmPt9s8AkayZPgqaqBQ7werZ,28,182,F,48,0.806,0.4871386,223,"Ferret, black-footed",Helmeted guinea fowl,605,124,F,M,887,941
+531,Clemmy,1Ed8NSq1JWibm1oc3MXUvSf8xQ8BCuy1rF,37,180,F,43,0.191,0.2731383,711,"Capuchin, brown",Greater rhea,978,427,F,M,586,491
+532,Carlyle,19MQmsUSn8odd3YwcE5t8Lz5LspW4tDMUL,51,189,M,32,0.778,0.913376,436,"Cockatoo, roseate",Secretary bird,914,354,M,M,576,675
+533,Sanderson,14VoFwMF3JawTkc1txMLRHK3fjgvMrXbHJ,24,136,F,8,0.976,0.7330407,592,Red squirrel,Red-breasted cockatoo,853,639,F,M,580,427
+534,Dwain,1DcRCMBSeqJ7PBZ8h7rMoysjt8WDNz9AdR,95,155,M,72,0.489,0.611818,805,Common shelduck,Emu,188,17,F,M,168,996
+535,Aguistin,176o7qVYs825WJ8uzmFs3gLDZh9X7TU876,67,124,F,41,0.796,0.5749869,223,Giant anteater,Magnificent frigate bird,95,606,M,M,19,226
+536,Giuditta,1CFKjJ2NoZWLpTCCB88CiJL4PXEQU3koK5,3,108,F,1,0.957,0.2384672,692,Numbat,"Langur, hanuman",64,889,M,F,558,302
+537,Willabella,1G7z1nY6Yu3NuCC9zumo3pAfkxnMXmv9o7,51,148,F,21,0.46,0.2557226,940,Glossy starling (unidentified),Sambar,570,368,F,F,647,239
+538,Renaldo,18mwdTcgdkU4Ybx7Tk659m4LsXvfhXZuGy,61,138,F,21,0.182,0.5382333,182,"Flamingo, chilean",King vulture,269,213,F,M,364,453
+539,Flint,1Fh71nfwjgQiMw4nPzi6B8EtqEP8NPYGTz,78,114,F,74,0.38,0.9862136,39,"Macaque, japanese",Radiated tortoise,341,80,F,M,538,587
+540,Sky,1JUz9uuwaRRtAUzkSjoxySgY16Qj5MJHRR,2,108,F,44,0.362,0.3396996,160,"Duiker, gray",Polar bear,546,369,F,M,861,46
+541,Mateo,12hZ694iuFRc2UDXfyccvnKKKQ6ywxU1hT,79,120,M,19,0.102,0.9702961,889,"Stork, white-necked","Bear, sloth",924,965,F,M,302,226
+542,Pamelina,1Pj1KE2sGcEW9Rr1s2enRQzfbFEE6WgWV4,93,195,F,21,0.371,0.8475171,351,Black-collared barbet,Rhesus monkey,723,598,F,F,79,813
+543,Lynnelle,1CSjpiyAmWuK7STsXQAsxKqvmQdmKXcPcD,78,199,M,96,0.42,0.7672148,428,"Duck, blue","Robin, kalahari scrub",883,309,F,F,666,69
+544,Alfie,16k1c4Pd2F2Gr11uQsPhFSjvXZApp43oqZ,31,154,F,55,0.62,0.0854282,1,"Beaver, american","Otter, small-clawed",158,160,F,M,269,89
+545,Hew,1LYS4zpqEkA6Rri5XHEAv5vFySA2soHCXo,68,183,M,70,0.269,0.2677026,784,Crimson-breasted shrike,"Dove, little brown",540,719,M,M,701,208
+546,Kizzee,19XEqUPSeA7ywBEauBDjVBF6vDSdU41DwR,86,179,F,25,0.79,0.682652,760,"Moorhen, purple",Silver gull,368,47,F,F,593,588
+547,Hoebart,1H2nFGxXk6YrGdxNXDQLnjChyp7QcBGkcj,1,128,M,95,0.407,0.6756375,766,Common shelduck,Square-lipped rhinoceros,763,403,F,M,239,169
+548,Weider,1DCyPRPBwDyMVPMHTif62Gx58Da8hro8gu,44,135,M,61,0.466,0.892215,994,"Rat, desert kangaroo",Giant armadillo,470,890,F,M,699,811
+549,Dillon,1H9ctiY9p3sqHvirsyRzghZU2v8u4TCWbp,50,142,F,97,0.12,0.6281586,16,Western spotted skunk,"Turtle, long-necked",178,426,F,M,184,62
+550,Bryon,1PkGVjrff4hg8CHFGRbyCTknmAbaBigiBg,71,148,M,13,0.276,0.2819961,985,"Wolf, common",Impala,633,936,M,M,804,725
+551,Davida,1MNo3ecnAEzjHGL7ofLm7tszfjxsS6breU,17,152,F,56,0.82,0.3463658,47,"Lynx, african","Kangaroo, western grey",33,519,F,F,756,936
+552,Elana,1GyHcr1uPUhBe43Fs4eGKMkncEP3JVQJrb,41,131,M,43,0.462,0.6649897,257,"Armadillo, giant","Chickadee, black-capped",284,223,M,F,876,733
+553,Brynn,1M5DytuKktTpeqL7ZPnSvenpsCBoeT1oMR,44,184,F,24,0.791,0.6060715,461,Black-eyed bulbul,"Hornbill, red-billed",843,480,F,F,90,286
+554,Desiri,14dSDrVtnK6vRWJ7aQLM9iLNDYd3TGEovj,73,139,F,38,0.196,0.9734943,443,Egyptian goose,"Iguana, land",325,197,F,F,644,112
+555,Othilia,1MJ988JBxcjC5YhVxBdPSHw5yau1vPuBQN,86,151,M,4,0.393,0.7565169,476,Water monitor,Field flicker,744,931,M,F,52,169
+556,Hillard,13tja2Nrhm7LvSE8yAu8EpWNzDqGWkQUfo,54,132,F,39,0.683,0.3378984,423,Malay squirrel (unidentified),Eastern white pelican,353,869,M,M,896,483
+557,Kelley,1DkRAqZ5hjbjxHbNKdDNe3wxk6YzdkHsfg,19,197,F,41,0.367,0.5852439,519,Little brown dove,Sloth bear,74,731,M,M,924,347
+558,Faith,1FjcdtWFGqDFqWdApdTbv9L2c8TEgKfT1p,31,139,F,10,0.585,0.2657687,543,Blue-footed booby,Eurasian hoopoe,296,447,M,F,761,25
+559,Arch,12cR3gMuCiJXAB9UuRxiQvyzs7jP1MLnv9,63,111,F,28,0.236,0.2074523,231,Common turkey,European badger,80,659,M,M,595,151
+560,Crissy,1GG4NyDPgAdJN81PLN5VRGtobV6mGQaqyd,2,122,F,92,0.119,0.3817652,834,Magistrate black colobus,Javanese cormorant,152,558,F,F,788,257
+561,Yorke,1C2k3H6t3dDLbU5K6rK94AGV4cCNyFkWjB,27,137,F,9,0.392,0.7681018,220,Giant heron,"Squirrel, antelope ground",937,704,F,M,616,145
+562,Ivor,1EzoTAj6AX28orfCJtEToyY6CW3TyHMWdA,100,173,M,64,0.373,0.5783503,307,"Rattlesnake, horned","Ass, asiatic wild",392,726,M,M,759,810
+563,Corilla,1CTR6BgJ368NygUjWnnXS1emh4gZXSpdE9,52,185,M,5,0.809,0.9469121,101,"Chipmunk, least",Silver-backed jackal,744,597,F,F,658,26
+564,Regan,1BCRRmkZyM5dMUCPD56b3vFkEEueU8xD7A,97,173,M,32,0.171,0.9908087,13,"Heron, grey",Slender loris,250,503,M,F,352,433
+565,Barnebas,1L9YanwAmY9Dj47aNTk8uFXX1ts8SagV6z,99,140,F,3,0.41,0.583373,925,"Tamandua, southern","Wallaby, agile",305,813,M,M,897,342
+566,Lanae,13YhMv7iF73RANmYT5ADGhMpsnJ3roWo3h,83,119,M,35,0.96,0.4556915,22,Black-crowned crane,"Hornbill, leadbeateri's ground",708,739,M,F,332,926
+567,Lilias,1FshJpTR4LGSqrPHnmt3emWUDwCyqWfpWQ,27,128,M,36,0.107,0.9960833,344,Southern screamer,"Duck, comb",310,44,F,F,731,502
+568,Dawna,15EshEAK5ZbNT1snRwAhekJxfzkZfhGgBC,36,199,M,48,0.139,0.9098322,169,Long-billed corella,"Squirrel, smith's bush",667,496,M,F,980,949
+569,Shellysheldon,1NMTRAr8MiyGKVVgNNNFY8uWBrsQuFVZpX,65,122,F,49,0.471,0.0958495,958,"Cockatoo, red-breasted",Galapagos mockingbird,716,924,F,M,729,279
+570,Phip,16iSRFCZTMvUF2pEYSWCPZZN2M7F69TcM,41,171,F,82,0.99,0.2926952,462,Black-tailed tree creeper,"Skunk, striped",90,474,F,M,84,716
+571,Walden,19RkiAKPHUYWjoKTyhBVD4fQheTg3J7XiU,93,141,F,42,0.247,0.3144018,119,"Bandicoot, southern brown",Golden eagle,787,708,M,M,424,200
+572,Boonie,18nCfYUkY88DWbGQ6fAT67tJaG2H9gZEPn,87,108,F,14,0.725,0.8348022,225,"Grouse, sage",African ground squirrel (unidentified),424,772,M,M,332,288
+573,Goddart,1t94uCbTXSXxpeSWzd7X8ock6TCL5B6uM,89,194,M,8,0.766,0.4139938,990,"Gull, lava","Sloth, two-toed",151,386,M,M,468,444
+574,Daniele,18oi1mgtHhJY7jXw9wsqoCKsA8cHnZfyw,13,183,F,92,0.176,0.7921019,576,"Kudu, greater",Violet-crested turaco,706,734,M,F,336,452
+575,Giorgia,1J9trDqgf5t84HGhq75aixM85Yeq2yZzhH,72,110,F,71,0.351,0.1403273,328,"Lorikeet, scaly-breasted","Penguin, fairy",63,838,F,F,366,368
+576,Bay,18UZKhxeiaPviHFyrHyK75KAs31egJc7QT,90,124,M,78,0.76,0.0833652,717,Red-tailed wambenger,"Egret, snowy",738,868,F,M,725,172
+577,Gisella,1JG3PwF1U952MYxJxXgiMtCaPJ2UWHbw6K,77,147,M,86,0.487,0.9572184,787,"Cat, african wild","Mongoose, small indian",758,185,F,F,282,747
+578,Harley,19mkv4yXTYQZ59Nwi9gEiEdtuXhF7RgCVQ,28,174,M,29,0.158,0.7212756,805,"Lechwe, kafue flats",Blue-tongued skink,191,13,M,M,582,264
+579,Adorne,19seA1d7LuYE1dcdENYkw4GP5tofgdWdzW,64,155,F,83,0.371,0.0036976,432,Yak,"Stork, yellow-billed",211,988,M,F,720,167
+580,Ariela,1B93sEmmDFS6yuBPd5DrtPYBpkpnoSgbk8,78,112,F,96,0.551,0.1227159,356,Silver-backed fox,"Monkey, rhesus",915,318,M,F,27,673
+581,Ninette,1GGdx2HkBAS6zqvJT19KeXYnHFVhiv2351,68,148,M,6,0.857,0.6089712,33,"Boa, columbian rainbow",Black bear,830,459,M,F,810,185
+582,Lars,13fF2SVMp6VyFmViLDULnaqtT2bHMSStHs,85,195,M,7,0.613,0.6410764,308,Bahama pintail,"Squirrel, pine",564,970,F,M,211,965
+583,Ingmar,1MzF6AuggzJJbd9pe6d9nVem65FpmQWMVX,7,187,M,100,0.252,0.266549,253,Red meerkat,"Dove, white-winged",465,959,M,M,54,988
+584,Lindy,1GNKf2xeb2v2ntxWVT5HeGuEg6UF4vHWAa,59,170,F,32,0.991,0.1863528,583,Rhesus monkey,"Pademelon, red-legged",412,934,M,M,615,816
+585,Amy,13bxyQZQ3p9Z2oL8KWqGhn1V7roipaSDq7,12,182,F,86,0.991,0.3087041,889,"Peacock, indian",Lava gull,621,829,F,F,519,696
+586,Ferguson,1EjHi9b8TVTGZcNHmVgE34KBUYpPE4n3AV,6,200,M,73,0.49,0.8403836,963,Python (unidentified),"Partridge, coqui",184,58,F,M,132,596
+587,Conney,15QoZUPuGToJw9HRXUc1Hnma91ewkM8n15,42,101,F,7,0.128,0.1750458,360,"Monkey, vervet","Cat, jungle",796,995,M,M,668,32
+588,Lazar,16ReMa8sAAPJWcv4Ai9sta8nwzGpjtFyfU,40,199,M,72,0.29,0.629661,484,Mexican boa,"Stork, white",324,253,M,M,795,251
+589,Lishe,13LtVbcZWSPWkaQTCu43aXeAhbtPBh9VKC,74,165,M,24,0.185,0.9672728,479,"Gull, silver",Malachite kingfisher,594,687,F,F,264,402
+590,Allie,154v9iJZWbuJWF2G44WxaWrWj8N76DRDoo,67,117,F,80,0.396,0.6560553,211,Bengal vulture,South American sea lion,973,125,M,F,584,637
+591,Mohammed,1A4MKNAEu8CQtyxhwpY8MSWnDHaVy13P39,63,115,F,5,0.709,0.3355765,156,Malagasy ground boa,"Sheathbill, snowy",519,727,M,M,37,367
+592,Ivan,17JfC3n9Dk5rLhHEKiuUy9oPHw2FfHriX5,64,102,F,27,0.921,0.1998203,974,"Lion, asian",Eastern boa constrictor,368,814,M,M,83,897
+593,Tabbitha,13LasCgKW1aXnBm4fvqje6eVaYEtZo2VZK,2,185,M,60,0.331,0.2090962,231,"Snake, buttermilk",Columbian rainbow boa,179,517,M,F,670,862
+594,Elliott,1BzMxyw2VcWyiLtbpfrQdxM557fL75WxEZ,80,119,F,39,0.789,0.3000513,700,African lion,"Bird, pied butcher",751,608,M,M,46,795
+595,Marshall,1E4ehTxtqmJC26w2FsktfYPjAzYU2SjdAf,41,113,M,51,0.432,0.994842,22,"Waterbuck, defassa",Western pygmy possum,794,223,F,M,423,476
+596,Benoit,1GEwXW8uusvbhMUxjzeg898CxCZU6t9jyf,5,200,M,86,0.896,0.1853022,840,Red-billed hornbill,Western bearded dragon,308,327,M,M,74,425
+597,Horst,1MycMR8rQPc4SZFRW3iEJCLRcCdwC3Wv4H,60,141,F,43,0.378,0.0111946,832,Frog (unidentified),"Skink, african",666,861,F,M,931,989
+598,Merrili,19SyNuYe2YiCWxmGcPGDo4DhDVrnwhBz82,69,186,M,97,0.212,0.6167977,940,"Woodpecker, downy",Yellow baboon,536,751,M,F,567,279
+599,Siffre,1HvLidzgsKSkvqPL4GBwhE1HUAms8YkQWH,37,156,F,65,0.767,0.3669535,843,"Wolf, mexican",Ferruginous hawk,194,721,F,M,537,655
+600,Pennie,1PQKL8c7wzyuJJycoiwAuQCsHU6oJzGMWW,20,138,M,17,0.48,0.3752389,401,Lesser mouse lemur,"Hawk-eagle, crowned",765,608,F,M,12,529
+601,Rafi,18v2ahwtQ9Q2mHdYZPDoxYTruzAjLQQBRi,60,183,F,65,0.796,0.5954314,850,Javan gold-spotted mongoose,Pied butcher bird,151,244,F,M,963,240
+602,Brand,18eyB4fwa15qmrNB95HwfdfiXykg3BBA7G,82,175,F,25,0.974,0.4835653,203,"Dove, rock","Otter, oriental short-clawed",158,36,F,M,848,803
+603,Myriam,1AgLR7R6YeXUatVoMnZZ6Q322DMgjZex2F,4,199,F,10,0.754,0.7983867,979,Vine snake (unidentified),"Dik, kirk's dik",625,378,F,F,98,557
+604,Stacey,1JkjkUfh1uxHrLTwf2eLBCTauDduF4BoU8,88,111,M,53,0.187,0.4018886,401,"Mongoose, eastern dwarf",Buttermilk snake,32,838,F,F,394,630
+605,Gene,1DtwGbcpHjdSC6ib78kMDk74RuiaH59Fp9,90,189,M,50,0.931,0.0200168,5,"Lechwe, kafue flats",Hottentot teal,844,859,M,M,224,911
+606,Carlyle,1KvYkmsvdsCjtBmnb21xVBtc6cYRhEevKN,55,171,M,98,0.413,0.6709559,638,Black and white colobus,Crab-eating fox,843,419,F,M,126,770
+607,Ade,1Hd8iXhQqwxZucqZfxYzsVpdnJJ9wnN2Be,75,153,M,46,0.816,0.378967,689,Killer whale,"Wallaby, bennett's",318,343,F,M,654,629
+608,Molli,1JD2o1wfMeDYTN76vJatdgk7V87GZNg4hb,44,125,F,82,0.67,0.6461252,95,"Possum, common brushtail",Little blue penguin,354,104,M,F,98,946
+609,Bethina,1K3tvyRZdrxVZQyQ1HwpSomUAtqcFgnD6T,56,157,F,84,0.78,0.7187942,151,Egyptian goose,"Pheasant, ring-necked",770,947,M,F,758,253
+610,Ricky,1DmWKKZkEcc1d4gpfC2NVdFsXTSthvdKNN,70,179,F,26,0.257,0.0767527,738,"Goldeneye, barrows",Dassie,879,76,F,F,794,488
+611,Aleta,165e6o21SfRc6qzuXJLuF84iEJsD7FPRpo,31,107,M,14,0.842,0.4901909,237,"Godwit, hudsonian",Magnificent frigate bird,347,311,M,F,29,989
+612,Raphael,1GqyUvVnXfhABGHkj1rP8TeWMo6txDoCmE,100,122,F,27,0.81,0.5647655,818,Magellanic penguin,"Dunnart, fat-tailed",833,393,F,M,551,418
+613,Jed,1CfFKfaZcn4whNEvhQwAyHQGrVLNhQFXd1,57,143,M,5,0.337,0.6319478,767,"Badger, honey","Macaque, pig-tailed",628,482,M,M,734,811
+614,Boote,19uDbxpHkZgNbp9H7Yi41xriaLm77aK7gh,51,122,F,73,0.6,0.8461846,868,Australian magpie,"Rhea, gray",624,757,M,M,438,803
+615,Rhianon,12szht8eLwubimDyvy84HGCqkx54Nt46tm,49,152,F,41,0.532,0.4897502,938,Agile wallaby,"Cat, european wild",612,819,M,F,190,789
+616,Yulma,1JLZQqFVYwkWnWzT7ivrkYxTxfxro7S5XE,51,176,F,44,0.385,0.7967725,176,Golden eagle,"Lechwe, kafue flats",365,838,F,M,865,476
+617,Elmira,1GjPJWSsTyzK9vYLsxEEqZMstPJ3ESuiWa,57,117,M,70,0.713,0.8920506,4,"Tern, white-winged black",Russian dragonfly,593,824,F,F,688,297
+618,Ede,14mkfTDXdeMPumPn81gVAChW8CNKnGF7Rc,30,188,F,9,0.459,0.5428921,549,"Vulture, white-headed",Stone sheep,850,480,M,F,455,909
+619,Corette,14tqSCMumuVJPXwLfybeSc7GF88KgWH6Jh,24,122,M,87,0.326,0.6477734,769,Indian star tortoise,"Otter, african clawless",467,767,F,F,349,756
+620,Reggie,1ASaeBPKUysSYh7yxuRKQjmUswxGTRjEiw,74,120,F,84,0.313,0.1318164,504,"Marshbird, brown and yellow",Lizard (unidentified),614,747,M,F,491,47
+621,Audie,1NaTm8r9pVRfakpD4Z1EZsntbYPWHxDbnQ,28,175,M,65,0.706,0.8381364,911,African clawless otter,Tammar wallaby,879,677,F,F,139,531
+622,Martie,13xTBvcKEbgbHvZaZ1q38FphEvSwwjey7c,4,186,M,13,0.107,0.1375717,84,"Dragon, frilled",White-cheeked pintail,221,683,F,M,846,619
+623,Rolph,19Hf5FXvLyrRY28oVLvieVizi1F8gHABS1,23,197,M,75,0.761,0.9237182,116,Great cormorant,Steenbuck,412,937,M,M,50,475
+624,Christel,1651F3y2KsmDNMdQ5TSCfPvTBQjUvr2cfG,71,168,M,55,0.123,0.1126322,160,Blackish oystercatcher,"Cat, jungle",783,611,M,F,482,64
+625,Dallis,1CrNqZi8qYgiCWhQpQ7pApt5K7Fx7yvkdb,5,143,M,61,0.442,0.7156693,780,Giraffe,Dingo,288,351,M,M,486,748
+626,Thorsten,17cAKdm2nyLZx7V3yTCoq35s7CTiXyH45J,80,160,F,82,0.932,0.2718234,987,"Stork, white-necked",Woolly-necked stork,669,566,M,M,765,109
+627,Mayer,1H3tNZmXnkdt1MmW5ZruxogLF775vQfkRW,45,147,M,69,0.712,0.0269715,720,"Peccary, white-lipped",Toddy cat,952,132,M,M,610,541
+628,Giffy,1N9Rz9iGunNjhsseWTqastGhER5wVtP1p9,20,191,F,35,0.696,0.4618429,789,Silver-backed jackal,Lappet-faced vulture,304,30,F,M,731,502
+629,Nyssa,14Jgvs5SNyEo72GqtGkj63KTfr1HEkmRDK,32,124,F,31,0.229,0.7399705,832,Northern phalarope,Common rhea,88,253,M,F,928,674
+630,Krishna,1LmEyQSYQ3AQ8YWBLv5ow2gWcbKvuTTLkH,21,123,F,41,0.703,0.779518,331,Yellow-throated sandgrouse,Agouti,60,615,M,M,625,867
+631,Kitti,1EKU7EsxGPsUnHNFhvEjWuxDhqhHYsNu1x,51,113,M,51,0.229,0.7635769,758,"Tortoise, burmese black mountain",Wild water buffalo,638,34,F,F,487,111
+632,Tate,19zerbUhBgc4BXGvo5RYtEpxT7Luq3jXjw,82,112,F,40,0.796,0.0110099,886,"Penguin, little blue",Frilled lizard,477,573,F,M,895,238
+633,Addison,1MkwtKuyYFsTC3tCaDFde8fbxibQLw4SGn,23,172,M,82,0.804,0.5718723,718,"Macaque, pig-tailed",Hanuman langur,728,763,M,M,720,759
+634,Cheri,1PU6jFbsv29YHqQBLUcDfwaruKt1kndE6H,65,167,F,97,0.596,0.1076481,269,"Phascogale, red-tailed","Baboon, gelada",616,237,M,F,177,233
+635,Claiborn,1MY8upYXsRcjpMwvNNYsEGQNH7CqZxe1t4,23,160,M,49,0.765,0.7297658,411,"Gecko, barking",African wild cat,405,452,F,M,597,483
+636,Rose,1BsQYg6W7CyUSn6bMH6bQMqTiSGJ7XsjPV,33,102,M,79,0.308,0.3767129,110,"Lizard, desert spiny",Cape white-eye,652,95,M,F,399,460
+637,Nicolette,12hYQf1ccQphMHkh79FZfLp2Cn91Qc4gkM,72,128,M,69,0.966,0.5311468,249,Tiger cat,"Eagle, tawny",986,209,F,F,59,90
+638,Aguistin,17u6SYegVfUZ5zNfxFoVpSwk8yryhjhCge,64,113,F,45,0.764,0.7877451,559,"Flamingo, greater","Cockatoo, red-tailed",846,145,M,M,596,163
+639,Keven,1s1AK2AAnLRXSCk1LfJcUDo2eGSdNEFXA,89,185,M,57,0.307,0.5693479,662,Common wombat,Eurasian red squirrel,707,555,M,M,786,957
+640,Midge,1PCq2fR7HTS9MdRgRq887JtNtb8jiwLDoA,11,191,F,11,0.837,0.9710159,194,"Cockatoo, red-tailed",Black curlew,606,325,M,F,501,56
+641,Jasmina,1FxzTiN9sERSk5RYJn6PnQ3rHSDEsDKD5t,43,143,F,12,0.729,0.1711346,930,Peregrine falcon,"Trumpeter, dark-winged",163,386,F,F,522,899
+642,Derry,1QKYzpm69MrMnaZQM7xvcLL7EcFqXPSybn,9,120,M,29,0.609,0.0994002,652,Osprey,Egyptian goose,353,278,F,M,783,742
+643,Aldous,1JrjZUqodkD2ToHSYvFTRK4o8JfBQV7Akr,94,118,M,82,0.53,0.170408,364,Black-tailed prairie dog,"Eagle, bald",707,603,M,M,140,369
+644,Nick,1MJ6Ef5b9sD5pyTKupVbGsa4YSjPkzgUCW,64,150,F,86,0.609,0.4346374,327,"Sparrow, rufous-collared",Striated heron,595,908,F,M,85,737
+645,Cozmo,1MRKjrvcc5bSm8to6ykpbnLQHdJteK1VTs,97,149,F,88,0.995,0.5866924,750,Black-necked stork,Southern sea lion,31,116,M,M,615,461
+646,Vasilis,1LwyDtNv7FwVrKBmhrbud9jaTesXXVYRUJ,20,118,M,78,0.874,0.4153452,466,Greater sage grouse,White rhinoceros,15,583,M,M,78,311
+647,Karina,1AvZLG26VthK3poWr4KrZAek1QZ4wtcrdU,69,168,M,79,0.683,0.6059071,891,"Butterfly, canadian tiger swallowtail",Ostrich,440,205,F,F,574,341
+648,Mabel,14jZZutNgYoptwJiY95E9f8ZvW59j9wkaq,29,123,F,46,0.619,0.6991363,963,Cobra (unidentified),"Weaver, chestnut",529,395,M,F,314,966
+649,Mischa,1QGHbNPJ9GU7eNpWqQDYRv4ujcY5G5Q8Nc,83,197,F,30,0.325,0.3180848,63,Black-tailed prairie dog,Black kite,533,928,F,M,657,788
+650,Polly,154PB7Ga1GDArfaTfjbQYgdTC9GTtXn6an,1,166,M,47,0.681,0.5851499,774,"Waxbill, violet-eared",Gray rhea,695,796,F,F,75,217
+651,Krysta,125N2tPHtqmZeV1aG4Y4a4tTL6asc7j6TZ,25,142,F,78,0.977,0.7050877,56,"Pademelon, red-legged","Wallaby, euro",427,947,F,F,805,697
+652,Joy,1E4WRff4tdDfxgaLQPpan2WDZhWjGNAmrT,37,107,M,22,0.484,0.0369679,910,"Sparrow, house","Roller, lilac-breasted",759,154,F,F,155,307
+653,Xenia,1HNLZSKfZX56LmVYMYq4wyAGvNkunZb41B,53,133,F,7,0.977,0.5838752,59,"Gecko, ring-tailed","Shrike, southern white-crowned",772,547,M,F,396,920
+654,Lynnell,12yZc5Qsv8rNobtsn5dadRkuwh9QwtagPD,57,175,M,77,0.297,0.7988944,803,Blackbuck,"Waxbill, blue",876,684,M,F,527,467
+655,Janel,1KXCgW2Ni7jPLu76qKeYhAdRWeYCfWhowM,32,152,F,64,0.86,0.6211199,847,White-bellied sea eagle,Arctic ground squirrel,681,240,F,F,468,942
+656,Gerald,1BiXPpXzhc2ur6ronQushkqvc2pTHTyy5y,14,181,M,34,0.603,0.9346646,192,Giant anteater,"Kangaroo, western grey",638,373,M,M,173,895
+657,Ingra,1M6usn7hU1ZW9C6GkADymbMHgTnjubwuTe,8,155,M,34,0.444,0.6156458,158,"Squirrel, smith's bush",Feral rock pigeon,756,328,F,M,59,295
+658,Nalani,16gMEniWhBjHZuBpWzsuYUbUtjSpadkgPP,69,198,F,17,0.486,0.5077603,673,Agile wallaby,Pine snake (unidentified),432,70,F,F,821,997
+659,Michelle,14YFfMmQks5Cgt2bPERkJbFS5Lvt5awEBq,75,176,F,69,0.129,0.594922,872,Little grebe,Australian pelican,659,279,M,F,146,670
+660,Hamil,1g2c7HA7m89uqY2swf6Z3VsCquJQck2pr,31,117,M,48,0.633,0.5286098,731,Red-billed tropic bird,"Stork, woolly-necked",491,677,F,M,376,195
+661,Sax,1FBHKTeQWS7gLeB2JHzqqaZiyUpooeKY94,56,136,M,50,0.996,0.3754798,337,"Eagle, pallas's fish",Grey phalarope,55,959,F,M,157,219
+662,Kerri,12DVMfHJ2vGFj9tzRvbEJDQeNCfMDmY6jt,32,140,M,64,0.255,0.2401128,224,American buffalo,American bighorn sheep,465,9,M,F,389,233
+663,Rozelle,1PqBBxpntetxZpSwXwvdV7MPyen1YwjRpF,99,195,M,75,0.359,0.8082928,314,"Capuchin, white-fronted","Porcupine, indian",603,594,M,F,811,596
+664,Tailor,1EvK7n3icUEf6SbQsq4hZMwmAGhrtK2Nrz,22,177,M,46,0.28,0.1815527,448,"Nuthatch, red-breasted",Long-tailed spotted cat,250,443,F,M,828,253
+665,Allie,1BT52hWSbA4GLx1QnDoU1hwtdJw48NSZy6,98,124,M,74,0.382,0.5962211,58,Pygmy possum,Nelson ground squirrel,810,452,F,F,546,210
+666,Marty,17hEzCrP8bNACoHFvgc9ebZnsVCSP1idVM,25,153,F,71,0.341,0.5239156,638,Giant girdled lizard,Javanese cormorant,12,455,F,M,240,880
+667,Averil,1A5AnKie7JjXzLx8Ssb2EyxtciveLNKoEP,86,181,F,4,0.139,0.3238307,644,"Gonolek, burchell's",Turtle (unidentified),431,748,M,M,151,589
+668,Merwin,13K8veSj4UqvAof74EMzXoL9Kz5XSyf5Lr,93,169,F,52,0.879,0.400363,931,"Baboon, gelada",Dusky gull,300,650,F,M,127,961
+669,Jinny,1KcnRqpY3ire8eyZUkPanR17bDwVzFTAbq,53,141,F,27,0.218,0.3884014,171,Western patch-nosed snake,"Dragon, netted rock",917,568,M,F,395,359
+670,Guenna,1EB2zhN2FT53jkt5nU4LuTmfdF6xWv8yz6,65,129,M,55,0.371,0.7481478,232,"Weaver, chestnut",Snowy owl,714,690,F,F,880,825
+671,Brenden,18GtQyQC9ssFnxK42DwBoM4i6kKisYnxy,7,154,M,70,0.351,0.6986805,844,Malleefowl,Indian mynah,80,316,F,M,679,881
+672,Ammamaria,12qFQNXkUJQKBcTwNHGd1BGhMieYCxkgk7,2,103,M,60,0.149,0.3784369,500,"Falcon, peregrine","Barbet, crested",281,901,F,F,492,332
+673,Ara,1C96Xhqx9vE8EJJiptUfX2nqZ7rve2DGWB,8,166,M,30,0.553,0.3246477,992,"Lion, mountain",Fork-tailed drongo,521,955,M,M,228,529
+674,Susie,1PHPGuY3vcHEFfmNgZQDAj2aeyYKufd6MR,42,199,F,46,0.766,0.101484,941,"Ox, musk","Kangaroo, brush-tailed rat",485,380,F,F,429,640
+675,Lorry,1QFHqmTkAUoCdVSBGTr1zHtCeTdGcAAS36,26,157,M,94,0.581,0.2631791,540,Black-tailed tree creeper,Leopard,1,534,M,M,47,182
+676,Francklyn,14P16a7LxA787YTjus1vutmfDM9h8HBx1s,32,142,F,46,0.955,0.2046224,266,Canadian river otter,Blue shark,721,394,M,M,964,726
+677,Justis,1BQTEuvBWffexeRRMJwNaLCJQtHjnLy626,15,198,M,4,0.612,0.8242106,832,"Jackal, asiatic",White-browed sparrow weaver,485,491,M,M,151,819
+678,Phillipp,186mQQNkkFXJKvWGcXJ1UcPUmuyLBNAHou,22,151,F,37,0.474,0.2355465,691,White-rumped vulture,African wild cat,453,994,F,M,434,217
+679,Kirbie,184TTm1aAMK41eMPgUGmGxFA8YzM5S6crY,50,107,F,93,0.686,0.5621116,985,Bushpig,"Goose, spur-winged",566,844,M,F,822,941
+680,Georgie,13tXj28qxTzSELnmmvqFBDcokeBd9JVTYR,46,146,M,57,0.441,0.560782,504,"Tortoise, desert",Crowned hawk-eagle,182,385,F,F,240,762
+681,Natalee,1Ggrd1SRXJJ6DUs67wAGadvLH8pBq1vyDn,50,124,M,97,0.357,0.020687,973,"Lemur, sportive",Flightless cormorant,665,774,M,F,784,369
+682,Gaylene,1KVCDd4oc38dLud3Qxw8f97iX4R7uMbrxg,97,177,M,96,0.734,0.6315203,82,"Rhinoceros, white","Owl, burrowing",896,16,M,F,342,410
+683,Stacee,144Hm9sJku7oherP3khWR66vdfMoiUu6cm,48,112,M,82,0.159,0.0157948,519,Savanna fox,"Puffin, horned",734,663,F,M,530,210
+684,Mort,14qtCznbgs7DXDND56fzhy6mn3dhUZyxnN,55,170,M,9,0.51,0.5084121,991,African ground squirrel (unidentified),Yellow-billed hornbill,172,593,M,M,632,38
+685,Beatriz,1AXTuekzXRu39cN1g2n1A1a6o13iKTXnTu,90,185,M,38,0.662,0.4768588,917,Crown of thorns starfish,"Spurfowl, yellow-necked",365,367,M,F,303,80
+686,Celka,15MPeWNzgSAmRA3ftD4WU37CNGGeDm4Kd6,1,106,F,2,0.704,0.5549095,911,"Stork, painted","Porcupine, african",493,31,F,F,641,406
+687,Darbie,11smhk35JGjzrqEbX9xzSPYfGPcG8m2UN,21,119,M,29,0.475,0.1265237,50,Ornate rock dragon,"Leopard, indian",497,970,F,F,435,223
+688,Eadmund,1JdHffWjTPVau5rkEFvJ6baDCMEcRXVDPC,2,198,F,50,0.593,0.8841044,276,"Wagtail, african pied","Kangaroo, western grey",470,365,M,M,768,749
+689,Hermon,1LwxsPj2DTNvYB5i4idhpzUmXF9wW5CAth,29,172,F,45,0.835,0.9958449,846,"Tern, arctic",Northern phalarope,857,958,F,M,287,757
+690,Delphine,1EyZbv2ZW1D6hnExzNBbwJ35pNEAmwTuHY,71,126,F,38,0.883,0.4418943,106,Western patch-nosed snake,"Cat, ringtail",341,749,F,F,250,494
+691,Tamas,1Kvyw8HPFdD6nwnBppFsJEfSkyr4mfzT19,87,145,M,22,0.927,0.8373991,699,"Monkey, vervet",White-rumped vulture,621,502,F,M,159,269
+692,Pooh,12omBxm7ECorEeM6QSk9qeeropBW7Q1D8Z,20,181,F,10,0.287,0.4725544,263,Japanese macaque,White-lipped peccary,756,359,M,F,547,384
+693,Lorain,19vxpj8j35BeQTYgrnTrZNh9DnhDEX9mk6,44,160,M,20,0.499,0.2413285,961,Slender loris,"Whale, baleen",938,462,F,F,792,471
+694,Emmerich,13CXAaRsbxjk9B3vqs7TrynCWb4ipXuKMq,98,146,F,9,0.423,0.7699834,755,"Whale, southern right","Spurfowl, yellow-necked",188,872,F,M,350,823
+695,Jermayne,1Ddg9WoX6i22gMrqYrqDo1Bezv95x8EGp8,1,136,M,60,0.356,0.0541574,494,"Plover, blacksmith",American buffalo,652,853,F,M,62,101
+696,Lyle,1AsK1tq6AmPLPKVvvvVnhASszciLNKZztH,53,126,F,100,0.622,0.5464556,415,"Bird, pied butcher","Stork, white-necked",243,160,M,M,106,654
+697,Agnese,1FVESvrba4EZXDmCzRboisg4BggJb3NMrH,3,135,F,30,0.999,0.9649577,180,Striped dolphin,Flying fox (unidentified),220,634,M,F,835,468
+698,Alexandra,1Pspsqsk7QDPtD4F2E8wF84iFR4nvfw8Pn,18,140,M,15,0.252,0.9253264,257,"Bulbul, black-fronted",Dama wallaby,438,769,F,F,164,746
+699,Dimitry,1G9qGLhY2F7ZncdQWPQ3kXLSRbjWpU1uFs,87,127,M,13,0.719,0.3800695,300,"Curlew, black","Kookaburra, laughing",637,97,F,M,369,683
+700,Ashia,19ZemUsbqiqfCs1EhxZAuWYtMwXoZGG7nE,69,121,F,33,0.838,0.5702214,873,Gray heron,Guanaco,471,731,F,F,244,608
+701,Kacey,123BW3ojS9qPdLEGwTGmrLH6QbjSLPee32,36,192,F,56,0.378,0.8786417,764,"Puma, south american","Possum, ring-tailed",261,106,F,F,797,891
+702,Dyana,1ET2WAD983tMru6FyeNbgF8Nwz8Ej3j3tT,71,118,F,26,0.879,0.9067589,599,"Bat, madagascar fruit","Mongoose, yellow",983,339,F,F,187,319
+703,Sheree,12ixDJr1oFPeVoAyn1DPzSiC51jBQsLimJ,74,129,M,29,0.912,0.6227888,164,Giant anteater,Nine-banded armadillo,780,642,F,F,850,344
+704,Hadley,1EE53vTbDwNeJRZ41dQvHkXLqhbznDJNiW,7,190,F,59,0.549,0.4706958,60,Yellow-billed hornbill,"Hawk-eagle, crowned",465,19,F,M,424,139
+705,Ronnie,1HeZms9FKUHCHoMoVvpgfbcpB3KAwiHDR2,73,143,F,34,0.368,0.666112,72,Southern hairy-nosed wombat,Blackbuck,125,339,M,M,133,181
+706,Titus,1BkQy5HeYmJtgXPnBjjUv3a8fW4tWvnmBD,98,148,F,85,0.43,0.3404505,923,"Penguin, galapagos",Campo flicker,272,329,M,M,376,342
+707,Carmelina,18Q5VyhA3hQsmTnTCcxe2ZBwCf5CWJEThe,48,190,M,48,0.325,0.3230264,228,Nubian bee-eater,Hanuman langur,603,903,F,F,80,356
+708,Randolph,1AuBMLaucRh2fkvz3y8cnkVxLUe6VxNxKj,3,145,F,47,0.566,0.8337941,675,"Monitor, water",Boat-billed heron,22,119,M,M,287,882
+709,Hilly,13ePcUetguczJNgzpAHwPaBxFaLYChZRTU,55,148,M,6,0.762,0.1606885,908,Scarlet macaw,Palm squirrel,524,991,F,M,838,382
+710,Jammie,19pNMCArxU6LMgeKCSDaAzqj7JZKCWTcrU,20,140,M,73,0.87,0.5159805,133,"Tinamou, elegant crested",Steenbok,283,412,F,F,379,813
+711,Kimbell,1Cc73x9VLWw3ppNcMU5AUCGXKuT2AJitxi,19,156,M,63,0.747,0.5625722,801,"Porcupine, prehensile-tailed","Ibis, puna",948,850,M,M,962,705
+712,Gilles,1DJmAiyfGEHFyRFydJD5uFeiKRqnF1D2mQ,82,141,F,37,0.384,0.1434202,664,Black-capped chickadee,"Hen, sage",514,58,M,M,791,113
+713,Arther,1LbTia4pxwfL6c7BNWZCx2wU1dfCfiQ4Ru,84,142,M,8,0.654,0.630809,599,"Jackal, golden","Seal, southern elephant",949,611,M,M,124,29
+714,Simmonds,1npu49G2ZdASUCDSq2KDVkLx3qcHcs28e,28,174,F,29,0.242,0.5687611,830,"Waxbill, blue","Squirrel, grey-footed",218,210,M,M,209,265
+715,Yettie,125A6SHhDXoDLU1DP4MQx1Pib9aWXA18Bg,1,151,M,34,0.936,0.5381698,527,Brazilian tapir,"Cobra, egyptian",189,700,F,F,209,300
+716,Therine,1YuS8hh7rphh5z3zxJMVwAystKCXyWxP1,84,132,F,57,0.784,0.4007701,896,Crowned eagle,"Boar, wild",329,37,M,F,436,141
+717,Barton,144icbuXe7JZhcwKrQfGbKzPL3WeZReZTv,4,108,F,16,0.293,0.6121246,479,"Flamingo, lesser",Asiatic wild ass,558,119,M,M,425,290
+718,Sallee,1NwoKjqvEJYFGE9JQXrFDAqRQMWvRUVpau,49,114,M,17,0.437,0.1694147,748,Lizard (unidentified),Horned puffin,998,874,M,F,608,591
+719,Reese,16Qkc4396sCDexAAXMiN96ZM81CcZ92eEw,95,172,F,97,0.791,0.7642444,266,"Dragon, netted rock","Gull, kelp",822,172,F,M,92,310
+720,Del,1HfRPuaAwN2QbxR9JhxxHZTZFEYJ8byWCt,60,175,M,64,0.499,0.0872315,912,Small-spotted genet,Yellow baboon,125,940,F,M,263,622
+721,Tye,17Kqh2YBMrnGrzpAaqmTHFBJrUXmCKKhdr,76,198,F,60,0.126,0.0457905,69,"Crocodile, nile",Asian elephant,827,486,M,M,587,760
+722,Decca,1GJWmis7CL5SXkCeGMRt5W8X36113SBHdP,100,130,F,55,0.277,0.5854624,983,"Pelican, great white","Weaver, red-billed buffalo",573,543,F,M,230,221
+723,Johannah,1AV27oQ4qHS9Wwv21W3Hxx3nu2pS34u7Te,48,163,F,49,0.646,0.4317015,829,Steenbok,"Kangaroo, brush-tailed rat",928,229,F,F,111,577
+724,Kalil,1FfobBbqt5AnFS26yeRLZjnGiyyUdwCEnE,36,150,M,82,0.214,0.1670318,703,Black-necked stork,Crested porcupine,294,939,F,M,132,586
+725,Egbert,1PDmvauR32MVVuM1b1af7KQ9ozdaQu9ARq,30,147,F,14,0.613,0.3466575,506,"Parakeet, rose-ringed","Badger, eurasian",143,240,M,M,365,385
+726,Duncan,1MnwwqFoe7HpfTgU5Lvo8gmWfstxe1WqSJ,43,119,F,60,0.713,0.1891429,829,Carmine bee-eater,"Seal, northern elephant",212,371,M,M,896,541
+727,Silvana,1NADm6x518rrx1yW9nmBygQyoTtmYAkwEj,55,149,F,15,0.348,0.5646121,978,Zorilla,Lesser mouse lemur,476,849,M,F,834,308
+728,Delphine,15EXJnGWetJZpH8xUQXWW432vcrKkzNStG,40,134,F,80,0.612,0.118723,889,"Dove, emerald-spotted wood",Pied avocet,180,777,M,F,835,552
+729,Claire,17JS6GGJXx7DoWrJ7RKe3L53cDNW4bCvWP,88,179,M,42,0.129,0.6946788,833,"Squirrel, european red",Greater rhea,845,574,M,M,469,222
+730,Odilia,1KTe7vBeLmPFuZNjxsGqDRs88HS7psXEiz,30,195,M,90,0.783,0.1860552,221,"Crane, wattled","Hartebeest, red",392,75,F,F,697,864
+731,Griselda,1CytsEbezsSK3daj6BA2gNja8DH2R2AWH,3,184,F,66,0.17,0.1773458,944,"Lemur, sportive",Goanna lizard,296,643,M,F,131,860
+732,Jacobo,1JtxAD7qc57fJMwk366nMrtan2kMTRAZSF,86,193,M,63,0.299,0.9345689,921,Burrowing owl,South African hedgehog,54,352,F,M,100,743
+733,Sergeant,1LpgPM9bLSmkrLgxcPHv4aDsM6hV331pw1,71,168,M,32,0.583,0.5013187,510,Long-billed corella,Buttermilk snake,882,379,M,M,417,516
+734,Conan,1MKd9wa1qZ5HiwbYe4BaJGk14mkjVqwjSG,48,126,M,86,0.575,0.0386337,774,Rhesus monkey,Caribou,712,7,F,M,922,924
+735,Odie,1LGVLjTwVtAVmZRS4eTdtguE27P83RUy6T,44,193,M,63,0.39,0.3461371,192,Red-tailed hawk,"Vulture, king",823,633,M,M,331,704
+736,Carlo,1Ex1vSHhwFukiYMh1DhjeWTTZdin8r3TG9,58,122,M,37,0.319,0.5507832,366,Ring-tailed coatimundi,Galapagos albatross,406,359,M,M,294,522
+737,Ketti,1EaLNZh3kxjC96xBBxPmVKzxfz5Djov8Yu,74,151,F,29,0.6,0.4751919,25,Marine iguana,Common goldeneye,163,72,F,F,73,380
+738,Spike,1EtaSGB2kaKiLDdMRpajk9tdyj3VFuw9Mb,90,153,M,81,0.286,0.6213548,783,"Hornbill, leadbeateri's ground",Black-tailed deer,249,27,M,M,92,237
+739,Sibel,1Pz7AYRE9q7EgBgGpEr518Q7sSf9e1YGeC,33,130,F,2,0.92,0.0323944,657,Horned puffin,"Falcon, peregrine",154,540,F,F,629,263
+740,Germain,1AApbjfekBXfiESCR7MXwyg9RQ8aonCByH,72,128,M,56,0.685,0.5103307,443,"Anteater, australian spiny",Gray heron,482,487,F,F,860,260
+741,Joanne,15AC5gCt5bnREEcLfUSvswjuZMLjoacwds,63,113,M,43,0.247,0.7102768,715,Dingo,"Waterbuck, common",360,40,M,F,217,472
+742,Viv,1PNJMC7ZhKJF2fmc4a1WkTe2Gdd87Jq1V6,35,174,M,33,0.879,0.7464711,311,Two-toed tree sloth,"Creeper, black-tailed tree",406,457,M,F,895,953
+743,Belva,1BxU4MvPtdXUQaH5JLJyYrC2EpL6fkab2P,51,131,F,59,0.713,0.1886261,420,White-faced tree rat,Bahama pintail,833,696,F,F,376,219
+744,Frederic,1An8D4DtGeHX2WLnUZ6ayzpfuYpRY3UETb,77,188,M,80,0.619,0.7892667,361,Margay,Chilean flamingo,987,847,M,M,600,834
+745,Gene,14G3T2FM9s7ayPP3N9jCWwBr75tLiFvVus,72,166,M,69,0.852,0.6963599,789,Red-tailed phascogale,Jaguar,139,31,F,F,789,711
+746,Arda,1Gibq9vCRomKpGy2uDX9TmPk8QvX46zNYz,29,123,F,96,0.627,0.3303058,358,"Turtle, eastern box","Skink, african",409,454,M,F,236,245
+747,Margaretha,1JqE8PqWtKUB4mMWCgDM9XNPtiwUiHoh3Y,29,148,M,63,0.25,0.5439655,79,Bald eagle,Bateleur eagle,937,452,M,F,868,997
+748,Giacobo,14u3ifi7MkGEKQyH3jjioP8bvvAuJ4WKvN,29,116,M,51,0.23,0.1741768,286,Jaguarundi,"Crane, black-crowned",354,205,M,M,363,553
+749,Morgen,1CvFpDRb4XMWLuZnpQX18xrMdxGnziMuzA,39,200,F,79,0.235,0.2574031,639,Koala,Ring-tailed lemur,603,863,F,F,625,63
+750,Kris,19dx3K473ptFJ4RXi3a5Vp88QRedLZ29yA,87,121,M,66,0.685,0.1387078,621,"Weaver, red-billed buffalo","Bird, pied butcher",160,378,F,F,215,171
+751,Earle,18SkUPJ3SvPD6GASZEB2GLqjDomrT9F4yj,80,175,M,16,0.515,0.4691008,446,"Cliffchat, mocking",Giant otter,377,532,M,M,970,290
+752,Mikol,1KZsY2hb72v37opX7D8AvUQJGvxwptGMin,13,122,F,61,0.275,0.8220509,39,Common shelduck,"Beaver, european",746,71,F,M,616,513
+753,Wilden,189q9Sb8qVLE6qAHvbuPAg7bY9kf1LqgRR,99,146,M,55,0.618,0.7822747,316,"Lemming, collared","Mongoose, banded",474,221,M,M,234,686
+754,Beauregard,1FYHADXjZDSvs72oQPjCMMzRAiofbD6uFV,93,149,F,79,0.604,0.9454371,912,"Boa, columbian rainbow",Scottish highland cow,301,399,F,M,827,272
+755,Nikolaus,1QFb2gPho4u4cN62p5LGL2EndKgVmyDQYt,100,146,M,43,0.617,0.1109853,319,"Jackal, indian",Scarlet macaw,94,464,M,M,195,763
+756,Tabb,121WvHLwNFdPCo5Mes8Sm6mSXcud3MPaY2,6,111,F,9,0.747,0.6922097,45,"Wallaby, whip-tailed","Ass, asiatic wild",476,946,M,M,238,604
+757,Douglas,1CpCSjPXgBSgw5uVa7AZuATWZtk5rDsaSg,58,197,M,61,0.907,0.2622899,858,Bushpig,"Peacock, indian",958,352,F,M,408,392
+758,Corrine,1AnuYU7xtfLYp8L4vWJ22eQ3JXWEjnJofv,32,183,F,46,0.969,0.1024012,730,Klipspringer,European wild cat,494,52,F,F,961,765
+759,Ilyse,14WH9Jdyvtv7XLFkhCu883Kw8MRc3vSDMe,92,130,M,95,0.716,0.537512,252,"Boa, mexican",Anaconda (unidentified),99,830,M,F,83,423
+760,Hermie,1HorEmmCnWk4DaSxncW7nnAH5kzmSW1UPg,68,106,M,35,0.751,0.8881936,952,Fringe-eared oryx,"Dove, ring",423,767,F,M,877,416
+761,Dina,1F9Gfq1r5BMWruH1qyb9BJdBMsRapy8kkT,34,130,M,67,0.343,0.3861742,436,"Gonolek, burchell's","Eagle, white-bellied sea",173,209,M,F,276,280
+762,De witt,1GXfJ3NFxNjcEX39cdAZJ5ZLpDHaddSVTP,89,148,F,49,0.877,0.0092151,352,Steenbok,Prairie falcon,530,453,F,M,408,198
+763,Mariana,14sYqS9ZEq7wz61x2CbcTkr3cv2LUgkdcd,17,133,M,67,0.146,0.1375317,846,"Moorhen, purple","Squirrel, arctic ground",937,307,M,F,597,391
+764,Ephrayim,16jgkSkhAcDNZFwfK6qB3bvHxb5zoAigmN,67,160,M,49,0.847,0.988128,136,Tyrant flycatcher,Lesser mouse lemur,588,583,M,M,622,128
+765,Wendie,1Lk3BDchZxWVkqj9UUcUosbDsaBMdrqFeV,91,186,F,57,0.964,0.4191365,703,"Godwit, hudsonian","Partridge, coqui",84,766,F,F,844,349
+766,Gregoor,14oB45sxBxojXJvuCz7op6H1x8mRnqxASB,59,117,M,25,0.972,0.1679836,245,Snake-necked turtle,Musk ox,255,624,M,M,958,33
+767,Chad,1DraFcaVXF8fthMiTiQ3zqYeqev6Wbu5Pj,97,197,M,81,0.547,0.7524326,977,"Screamer, crested",Hoffman's sloth,988,553,M,M,528,881
+768,Justine,16ZJ2cn2DxR63jzH1wRJLsocUL3HLnEVa7,100,108,M,54,0.681,0.5060225,857,Greater adjutant stork,"Fox, asian red",858,651,M,F,800,880
+769,Vinnie,1sn8aZXmhk2QCr92NdjSQ1Lge1k4LBR7f,99,154,M,28,0.792,0.0271355,301,Canada goose,Southern ground hornbill,110,837,F,F,839,756
+770,Leonore,1C57nPdAePiKw2VnQ8bwYGK5pr5P8EVUy2,56,116,F,64,0.369,0.8222602,261,Manatee,Sarus crane,192,683,F,F,290,58
+771,Malcolm,1B73tLuTGn1y8hFgDXSy5i1p7CpAHzUeKb,14,139,F,81,0.856,0.6547121,367,"Bird, black-throated butcher",Crab-eating raccoon,744,380,M,M,364,923
+772,Madonna,1NoWGsYNAWJZ8acqybtjxCdEKgx6F8L64,84,138,F,25,0.311,0.566975,403,Javanese cormorant,"Otter, brazilian",35,963,F,F,115,85
+773,Cody,1F6w5oGmLJShqJVTyKBEYSmq1gAygcdmBb,68,176,F,27,0.218,0.9561711,285,Feral rock pigeon,"Vulture, turkey",264,372,F,M,199,999
+774,Lay,1LrqbrvuwNPgSPNQ3rJG48FT1LTtPbWLKS,80,106,M,46,0.122,0.5223441,916,Yellow-rumped siskin,Savanna fox,536,506,F,M,456,781
+775,Astrix,16QeukJQ3jRcNqj69xcQVQTHTn5EfSvdN4,59,159,M,45,0.477,0.0254244,63,Platypus,"Tinamou, elegant crested",699,471,F,F,131,669
+776,Chaddy,1AtNpVvVMZ4BtLyfB9Jh54nqA3yTFMPnhr,70,158,M,92,0.662,0.5299863,654,"Dove, emerald-spotted wood",Jungle kangaroo,235,48,M,M,234,551
+777,Gunner,1GXMjjgS3K9gkt3uwQ8xoa5sPcbvMXsqN2,7,141,F,43,0.198,0.8608948,531,Asian false vampire bat,"Phalarope, red-necked",200,957,F,M,796,271
+778,Pauline,1A4pU3KHQwS4a6wN1kAAy9amtteGFdWy5m,21,150,M,26,0.871,0.1393154,143,Crown of thorns starfish,"Tapir, brazilian",991,839,M,F,398,421
+779,Cordelie,1FyQokbMpDpzQyoZg44EzQRhZfsH6iFHpN,93,169,M,64,0.456,0.8746066,963,Civet (unidentified),Netted rock dragon,469,819,M,F,85,447
+780,Clarence,1N1nvdXh986cNd93LzinfSwPfbfuQjm6yi,33,167,M,84,0.651,0.220291,939,"Peacock, indian",Tasmanian devil,255,504,M,M,768,987
+781,Kandace,1HjNBkWK1UR7YJqe6VTvWpf4YuA6y3tMje,38,161,F,86,0.863,0.8034739,354,Darwin ground finch (unidentified),"Lemming, collared",48,205,F,F,953,162
+782,Claudina,13XJ3EDaQCDcK476eBrsgDgeTbKmCh7NZK,90,187,M,73,0.565,0.5743485,681,Western lowland gorilla,"Tarantula, salmon pink bird eater",492,701,M,F,33,82
+783,Benetta,1N7mDyzv1swP3qL5kRsvewnfUBC4pqtFtf,35,135,F,80,0.279,0.237996,541,"Lizard, giant girdled",Frilled lizard,141,981,F,F,117,835
+784,Saidee,1KdHP7C32e2iHqh8Bc2azdVDfqmTWfqqk9,24,123,F,38,0.347,0.6060141,960,"Roller, lilac-breasted",Golden-mantled ground squirrel,743,485,F,F,8,382
+785,Courtney,1GiWxE2YZMDyLHws4bA4BYUXuJa82sqUxU,93,106,F,78,0.671,0.6281356,893,Southern tamandua,"Penguin, little blue",653,56,M,M,557,189
+786,Gay,1142X2bdo9cv9R4Brv1gc1QfssSsNhQjpP,91,151,F,91,0.732,0.4356371,273,"Echidna, short-beaked","Tortoise, indian star",460,302,F,M,320,200
+787,Garrik,1AhQPsXgukqMLuNrWRW92MYnMnJbmoGYRU,39,199,F,16,0.639,0.4151237,145,American crow,Carpet snake,49,190,M,M,798,541
+788,Colver,1DK1nAFkySzv71PKw3ZRnD43L9qtyDVCWj,64,111,M,98,0.183,0.1533941,78,Madagascar hawk owl,Gulls (unidentified),949,463,M,M,44,481
+789,Shelbi,1NJzby4f7K6FAvegBP1mj14uABEqMhbuFD,9,183,F,17,0.771,0.9460932,283,"Baboon, olive","Macaw, blue and yellow",86,214,M,F,974,768
+790,Monah,1KszNRzy2Qp2wKbfp3hTfYjVhiPz2XRASK,21,122,M,80,0.426,0.2898786,931,"Coatimundi, ring-tailed",Malleefowl,294,507,F,F,560,922
+791,Mar,1NQ66Uf73fw98Ts9CtTizGXyJkhebhNYpw,64,194,F,36,0.788,0.7756159,580,Timber wolf,Bald eagle,794,79,F,M,333,957
+792,Cherilyn,14RNuYLrHhDkUXYu2TzDxL1HojkjBDjuQq,17,179,M,81,0.968,0.5154822,69,"Peacock, blue","Parakeet, rose-ringed",851,27,M,F,423,833
+793,Danika,1AuCph6x2mdBMxS7yC2khj6fxhN9jCjsNA,70,109,M,77,0.378,0.9991085,70,"Lemur, grey mouse",Black-tailed deer,908,980,M,F,925,482
+794,Cris,1PCo2ksb9tCZynoVbWf5L6J4xnxp72kFLA,37,197,M,29,0.166,0.0294004,840,Black-footed ferret,Raccoon dog,884,705,M,F,825,970
+795,Stacy,1Cn4AYve6xDmvbHzZUawMmhnz5kmhZHwx1,63,114,F,4,0.703,0.9877789,555,Mallard,Flightless cormorant,286,602,F,M,22,594
+796,Foster,14zKpHnvEyRhd6oxjwZH2qAAuksYqVWgsp,56,195,F,24,0.477,0.6049706,390,"Openbill, asian",Black-backed jackal,707,775,F,M,323,245
+797,Glenn,1MYRLezDUcggwzXcQ5aHTPwMCgLn8gPR1Y,8,106,M,4,0.609,0.9000467,334,Greater blue-eared starling,"Tortoise, asian foreset",315,987,F,M,314,270
+798,Ashley,18d7gEhi6jjnBb83n5mVokQyQeZpGQ99u8,66,182,M,56,0.509,0.8558852,327,"Elephant, african",Mountain duck,378,924,M,M,126,510
+799,Giorgi,1Pb7kBbsDsG8Phehw99wpfYRwoqYimPGpM,95,149,F,51,0.607,0.8713843,971,Chital,"Waxbill, blue",3,679,F,M,444,937
+800,Conant,129gFKvxEkmdsgD6hnne43Wa6EL8XUEB4Y,26,121,M,49,0.619,0.8469172,209,Scaly-breasted lorikeet,"Mynah, indian",955,169,M,M,848,50
+801,Ronnica,1FgqLvqDNsym3tGLoc4AzQ8AGVdjT1FADT,12,138,F,86,0.964,0.3334558,102,Asian lion,"Stilt, black-winged",13,881,F,F,983,994
+802,Jakie,1MUMvsjpu9sjpvtfKEDzKre96u24Hym3mx,25,116,F,79,0.511,0.0454575,796,Common goldeneye,"Dragon, ornate rock",483,764,M,M,517,475
+803,Belita,1P8qd31HS1rqKty1oT9kKvmLEsViViAGxp,79,137,F,60,0.396,0.6920449,913,"Jacana, african",Cape raven,887,750,F,F,213,348
+804,Moises,14go4sJY9BM5QzHpUpQZfNYBDyScxnbjVD,53,115,M,28,0.58,0.3102926,147,"Snake, racer",Little heron,827,832,M,M,379,974
+805,Isaac,19Zn9sCpXbGhNsAkwoGm8EuFx3ktfX6USG,35,160,M,33,0.816,0.6794893,296,Asian elephant,"Finch, common melba",884,537,F,M,289,782
+806,Bellina,1Q3vXvv6FbewMCNAQxh28tbNKb9P8jWiUP,91,135,M,80,0.611,0.8832246,147,"Antelope, four-horned","Squirrel, thirteen-lined",243,38,M,F,490,277
+807,Hoyt,17NWd6rSwDFCn7WzmU6P6ddhBxaZdUScZF,67,123,F,62,0.415,0.3442624,750,Pine snake (unidentified),Meerkat,881,807,F,M,119,750
+808,Mel,1876j7GdHcMY2VqB3NH7Kt6QfJXL7Xbtmg,76,146,F,96,0.862,0.6363606,628,White-faced tree rat,Turtle (unidentified),590,63,M,M,733,315
+809,Rodina,1JNQ87A8Br7zXK2G1CTepaqpsY3Cz5T9wR,88,121,F,49,0.509,0.1257337,985,"Cardinal, red-capped","Jackal, indian",916,300,F,F,424,846
+810,Raul,1E4LnZ2WxeJXchY8LEjdr5xCU43W6PioWq,95,152,F,85,0.268,0.7741447,749,American racer,"Hartebeest, coke's",799,161,M,M,327,163
+811,Irwin,14sXfz4v33Q1vWr9qqbV15yqw8JkS9PNVU,76,155,M,76,0.521,0.1121621,194,Native cat,Pied avocet,3,518,M,M,715,131
+812,Bordy,19ETjHBtYdoccjdZrTXrduDpXacNKMvQ4R,85,151,M,55,0.134,0.0983626,277,Common duiker,Paddy heron (unidentified),158,599,M,M,801,167
+813,Wilhelmina,1PGMqwucDyAvLa5v4GhJhr3GDJthuS1vYm,25,137,F,28,0.442,0.9176544,344,Greater roadrunner,Hoffman's sloth,143,730,M,F,463,118
+814,Mic,1eHEAL5dZtxcx2HSjSTM69atiiad87Usm,25,136,M,55,0.732,0.290195,538,"Phascogale, brush-tailed","Otter, cape clawless",234,168,F,M,185,135
+815,Victoir,1QJpigrreuzpCSwXHorGpkeDGEugJTVG8J,67,187,F,46,0.967,0.3359426,594,Eleven-banded armadillo (unidentified),"Colobus, black and white",74,65,M,M,160,990
+816,Jodie,1QJmeUb6G39bUByvd9cBsdsWPDKZnoo1d4,30,133,M,74,0.594,0.9646388,47,"Possum, western pygmy","Hoopoe, eurasian",710,904,F,F,838,494
+817,Anthe,1NmBsxrLNffijZ3mbFskaENmK1iM3c6My5,53,127,M,38,0.143,0.7079169,210,"Opossum, american virginia",Indian red admiral,374,323,F,F,505,745
+818,Dehlia,16wjDpwgwkzjWRMwc9Z2dNZTYCnUzsny4A,38,132,M,16,0.236,0.1522911,110,African red-eyed bulbul,Bare-faced go away bird,748,457,F,F,193,469
+819,Brittaney,18Wxgc1kBtUnfqJY1C7mf5x5FShx253oyX,49,118,F,44,0.482,0.1393237,919,"Jackrabbit, white-tailed",Crown of thorns starfish,238,989,M,F,303,54
+820,Deanne,1rrS2PpmG1z65fJ1kDHZFRqjVahRo2uT8,56,180,F,29,0.954,0.1904667,19,Harbor seal,"Possum, golden brush-tailed",884,349,F,F,389,46
+821,Xever,1ATyQbbwvLgHXMBjS3noC7kBAfGYtVy2c8,71,112,M,10,0.364,0.9536234,957,"Badger, honey",Tree porcupine,169,662,M,M,831,702
+822,Tonnie,1GnSAGUrgESWYuZLC15VDN7FeQsc3Dd3fu,37,156,M,34,0.379,0.0564266,964,"Genet, small-spotted",Grant's gazelle,492,441,F,M,705,647
+823,Mikey,1HYs56VXPdo4gJxuL7nkk9VjrrC7hvhox,53,154,M,49,0.839,0.8490124,19,African red-eyed bulbul,African fish eagle,444,645,M,M,793,315
+824,Diana,1UsLPTLJYpxyhxFXMWa6hrLjNCDE4nWrd,71,152,M,33,0.271,0.50429,566,Gelada baboon,Mountain goat,138,118,M,F,280,21
+825,Blayne,1C92giBcpcSwqmi6Yd5UF35moKVFXM61ZM,96,123,M,26,0.63,0.2575319,353,Dusky gull,Guanaco,489,204,F,M,691,749
+826,Marley,17oCkeB5kQhtMqo4miHjWSjLJV5DBqCfZd,85,112,F,35,0.181,0.7106297,336,Javan gold-spotted mongoose,"Snake, carpet",710,206,M,F,313,36
+827,Mireille,1Dpx2Ap5wr1fUmJWyUZkte128G2YtrTnKq,87,183,M,33,0.514,0.1141811,683,"Chipmunk, least",Red-necked wallaby,388,44,F,F,731,992
+828,Dallas,17Xiq7rDLiiW24iyu9moM6h1MGhujZV3fC,13,185,M,24,0.791,0.4783423,56,Chimpanzee,Numbat,665,992,F,F,193,856
+829,Benjy,1KdcKpmRNgzLePv3r7tfXUH5F9D7Xjg9k2,78,125,M,45,0.653,0.8138643,242,Jaguarundi,"Snake, tiger",351,417,M,M,567,941
+830,Kerrie,1BqfkQ2SfNeYkWNoSVzxCumEVY6sTeHFuF,36,112,M,7,0.618,0.2688193,92,"Goose, knob-nosed",Bare-faced go away bird,925,568,M,F,553,262
+831,Abrahan,1J3mMEJkNserQD1Z1iwbYHZ4TEZpFfHvze,40,196,F,14,0.166,0.4986346,316,"Grenadier, common",Griffon vulture,429,955,M,M,19,542
+832,Cchaddie,13QiSdiwdd8gfk1a98bP6VTJNoKX7gHaaC,5,164,F,57,0.393,0.4567318,15,Woolly-necked stork,"Heron, striated",480,808,M,M,164,273
+833,Valdemar,1Gu5T6mFutFtkFDoqVvvNcdzCP7mnr5Qcg,19,145,F,20,0.888,0.241405,425,"Cat, cape wild",Nine-banded armadillo,730,132,M,M,816,32
+834,Hubie,1jbPtaKUbjAj9EZvUSX5kPRhhi6iHb5qP,10,185,F,62,0.403,0.9141046,42,"Goose, cereopsis","Coatimundi, white-nosed",361,930,F,M,89,699
+835,Sheff,1Dui8pJAEi5we1LhRTmQ3ep2BH82cbYUSk,68,116,M,44,0.624,0.4870996,917,"Rattlesnake, dusky",Southern screamer,174,680,M,M,744,690
+836,Rosco,19zYvuN3zuBq4EDN5VrhczCtEBU83KQCom,96,145,F,89,0.134,0.5175213,374,"Whale, killer","Screamer, southern",954,721,F,M,870,252
+837,Miner,1J5DR1VqBmBjX6z6TXCoQtTiBfCAtUMupu,57,114,M,49,0.57,0.2976289,454,Yellow-rumped siskin,"Cormorant, javanese",149,23,M,M,969,760
+838,Arvie,1D8qWk8QCyky9vNeauRNYrkV1k28GP5yiU,77,150,F,51,0.626,0.3354506,262,Common boubou shrike,"Cat, ringtail",319,242,M,M,908,241
+839,Vonny,1DyX9oJNzccfHSianttBdNr857Uoe2AQgc,50,185,F,45,0.975,0.1924945,929,"Baboon, chacma",White-lipped peccary,116,87,M,F,109,224
+840,Carmel,1FYWm9YwTPgFGMmkZgNt3tbfFr9Np346ps,90,102,M,95,0.693,0.3082575,692,"Pelican, great white",Coqui partridge,178,396,M,F,294,537
+841,Gorden,1ABhSafgHauas9nicghGoWLMbtJABhz2k,79,164,M,80,0.317,0.1106094,649,"Caiman, spectacled",Common ringtail,265,900,M,M,224,80
+842,Phillie,1Fs19x3RCPvDrkjPKj4Q1bqjxgLxBAHCEw,87,190,M,16,0.194,0.1078616,176,"Otter, canadian river",Brush-tailed bettong,698,797,M,F,474,746
+843,Kile,1MZxk1YB2zFpdTjECEvuUsvHCGTwCebsQd,52,186,M,81,0.606,0.6363124,186,Arctic tern,Frog (unidentified),97,154,F,M,530,305
+844,Dania,15xpovARsc8UDM8ap53ALDnDBhQfCf5maB,17,119,M,99,0.505,0.4212086,288,"Capuchin, brown",Caracara (unidentified),824,532,M,F,310,287
+845,Marybelle,1BPEE43snCvtEGMkqnpyffdeQ7THtKVZ33,48,113,F,24,0.561,0.2564844,495,Cape wild cat,"Falcon, prairie",375,792,F,F,529,451
+846,Ralph,13dp4UJt7JWCbE3njjzjMaUKNefVpsKJy8,41,120,F,60,0.364,0.4056545,613,"Cobra, cape",Least chipmunk,958,222,M,M,282,323
+847,Maurice,1D2jmyz3BTJy62GTPZM4ar1wpTi3fV2ipE,30,190,M,14,0.596,0.5244023,719,White-nosed coatimundi,Wood pigeon,647,2,M,M,12,420
+848,Gauthier,1E1ae4BGaQk76JRdwjsULrWzNcVrSKZAnc,37,157,M,23,0.717,0.3176821,235,Woolly-necked stork,White-cheeked pintail,724,854,F,M,511,164
+849,Kit,185ZVRowPY2rHC3aHZqrRqFaY42f1DeD7S,7,162,F,61,0.241,0.1835085,822,Mandras tree shrew,"Vulture, white-headed",673,694,M,F,319,925
+850,Fayth,17WSZHzc5ruyKY7JEwWckVc9vdRaM7bVcv,25,189,M,34,0.851,0.4757276,440,Two-banded monitor,"Skua, great",22,349,F,F,28,738
+851,Shell,1AMEAtU7DzV16YJVAR1zeNhitxvR4BNUYN,1,200,F,5,0.345,0.7198508,261,"Siskin, pine",Flying fox (unidentified),635,75,F,M,519,204
+852,Bathsheba,153MjsxXC7m724ddt5b7oTeBtTnGz5odJD,87,135,F,85,0.167,0.9369901,146,Little grebe,"Plover, three-banded",611,698,M,F,792,737
+853,Shayne,1F2kUeC7gqj8BJ6jcKRdM12vamWzUVgS81,53,189,M,77,0.683,0.1150711,244,"Waterbuck, defassa",African snake (unidentified),511,702,M,M,461,909
+854,Kelsy,16hTqmqKvUf6GTEz5stvQv8KwwRcRsodg9,45,147,F,25,0.662,0.3852594,672,Butterfly (unidentified),Oriental short-clawed otter,391,929,F,F,133,427
+855,Debi,12jabCVT47nygjBNaD2W7RrNBMx6SSUR86,34,192,F,40,0.264,0.7676164,427,"Civet, small-toothed palm","Bettong, brush-tailed",107,723,F,F,648,136
+856,Zachary,15kLJVEQC5DcFA5nGLdYRq81ii8LoQKGfT,8,134,F,55,0.702,0.5846792,937,Azara's zorro,Indian peacock,488,746,M,M,128,241
+857,Sashenka,1BSTrE4CReTiPf2TBsmqqYZkeWX1L2L3Kc,58,162,F,13,0.113,0.3037771,681,Kalahari scrub robin,Crab (unidentified),950,338,M,F,761,337
+858,Teddy,13WLDU7Mgmijd2dJrKUJWQY5zEUMBtKzrQ,47,181,F,31,0.134,0.9164423,124,"Stork, openbill","Eagle, long-crested hawk",475,652,M,F,266,331
+859,Teodoor,1BY85AcJJwKDCo8FP4JW7HNgcV78baCqob,26,178,F,26,0.571,0.4144236,28,Red-breasted nuthatch,Laughing dove,319,526,M,M,163,180
+860,Livvyy,1KEAHUdGocNjB8s2ddVGAcsWRwsTuaUZmS,49,186,M,69,0.843,0.5887569,420,Fairy penguin,"Rattlesnake, eastern diamondback",279,748,M,F,140,686
+861,Lavinia,14y1noED3XgHvQxk6wtmVrUhATrG7qxcrh,30,106,M,51,0.734,0.9037303,5,"Vulture, bengal",Dama wallaby,174,349,M,F,37,588
+862,Garvin,171WKp23unk36gsQLe8Yw7cPKsCNYJvZRA,53,171,M,57,0.502,0.8485849,102,Roseat flamingo,Bleeding heart monkey,981,434,F,M,472,182
+863,Riva,1KTfrjNuTa3AiAyDz3Rsz4RaKUnqtJjQHm,53,162,M,90,0.591,0.0785033,820,"Gecko, barking",Painted stork,950,297,F,F,610,708
+864,Donaugh,1Neb2u8MfhKkyFiqmQAHWzSc2rvNLS1zYY,60,197,F,13,0.403,0.1082115,471,Greater sage grouse,Flightless cormorant,702,750,M,M,785,459
+865,Birgitta,1P1xMygttnMbRCsej8i9hELF2mY669Qs66,72,155,M,26,0.716,0.1299711,149,"Wambenger, red-tailed",Snowy sheathbill,815,385,F,F,489,645
+866,Mia,15Ntr4Fh8y9Fax3ZCBU4PyFVAoQdoxHJvD,15,172,F,20,0.181,0.1858467,913,Canadian tiger swallowtail butterfly,Emu,606,594,M,F,615,981
+867,Wilhelmine,129KwMs5BbcQ52kh4aTAZT6QH4dbhEVJiN,67,143,F,56,0.976,0.1205985,493,Serval,Cape raven,427,764,M,F,953,787
+868,Tedd,1FSrwSHwTAZ1c6wuwR3D7NS4MXot9KvNHg,5,164,F,79,0.234,0.4822629,361,Cormorant (unidentified),Comb duck,423,27,F,M,999,850
+869,Gloriana,1KWWonc8apPCdnyHoSwCtWfmo5NZ821Rik,49,198,M,98,0.489,0.6963589,12,"Lion, african","Baboon, chacma",44,695,M,F,509,448
+870,Addia,1MU7TeNsFnpsjYQ8LHY2Wgik5z2VsBUfL6,47,147,M,45,0.579,0.3254456,347,"Nutcracker, clark's",Roseat flamingo,747,884,F,F,330,627
+871,Heloise,1FMuAkauoaCvpu3iYeSbVCZz9ruFTY4bgK,3,160,M,25,0.32,0.3221522,998,"Shrike, common boubou",Nubian bee-eater,689,334,M,F,550,330
+872,Hamish,1GSXCt51ruLdxNoUsUYLXrCJw6omLpoExe,76,108,F,34,0.259,0.0874109,730,"Whale, long-finned pilot",South American meadowlark (unidentified),362,904,M,M,479,828
+873,Kissie,16HXzpGYXUajjvFcCovLisJp5qbDGpD2Uk,96,153,F,82,0.701,0.7481125,600,"Pelican, eastern white","Raccoon, common",597,876,M,F,25,720
+874,Corry,1JqGxU1w37RyzxbchGZYuQDd6bWJx9NAyR,50,131,M,55,0.845,0.1278851,396,"Constrictor, eastern boa",Dusky gull,547,895,M,F,299,242
+875,Emeline,1CU889q8FWdHcGEQujsZTRDVhpGKkmky5B,45,129,M,6,0.503,0.5849531,635,"Turaco, violet-crested","Fox, silver-backed",460,599,F,F,447,242
+876,Nancee,1Q9CY6ZYD71YicbpdULrMS4MZVcYbptdkv,14,115,M,6,0.539,0.5443485,147,Grey-footed squirrel,Great white pelican,238,408,M,F,771,737
+877,Olin,1Kcg3p1RinAavYZ5SrrTfx4fMnm4EyX9do,32,161,F,94,0.605,0.4859347,102,"Sunbird, lesser double-collared","Hornbill, yellow-billed",977,886,F,M,211,315
+878,Tilda,1KAwa9sk4CHPTEUkBEn1o6WnTsXAZrjUfE,5,197,F,68,0.239,0.2524765,584,Galapagos penguin,"Tinamou, elegant crested",31,416,M,F,882,593
+879,Paolo,18Sy531dqUeSSFw6n922VciLT55gHR19Cs,32,148,F,51,0.959,0.8075738,864,White stork,Egyptian cobra,558,525,F,M,670,575
+880,Lorrie,136aauMidVc83wdW4tUMpQDu8EsBRix4KY,38,139,F,80,0.427,0.4440252,685,"Sifaka, verreaux's","Cobra, cape",648,8,F,F,85,284
+881,Karlik,1NjZhMu2uvSJBcoZgF2H4sLaTGHgf76ec1,57,107,M,68,0.911,0.9958251,851,"Squirrel, pine","Lory, rainbow",368,393,M,M,961,416
+882,Belicia,1Fw4yffqkkxj1v6abvNjdAsYDa5jt3ECqm,81,120,F,41,0.506,0.6930037,447,"Deer, white-tailed",Blackish oystercatcher,74,989,F,F,387,89
+883,Lucius,196DDFGPDGWc1Q3dX7Svvw8DunM4jQE83e,31,131,M,54,0.203,0.8536041,120,Two-banded monitor,Bald eagle,743,110,M,M,120,683
+884,Kylila,1FJxsxkBkXh6tXKkZys8WrL7kUs1t7ic2P,33,191,M,33,0.21,0.0563613,307,Barasingha deer,"Eagle, tawny",590,711,F,F,525,500
+885,Nikkie,1DunvG6hNMbMmFHBpzFa51J3Uzccg2ffpg,79,117,M,35,0.686,0.6616156,507,Eurasian red squirrel,Nine-banded armadillo,440,911,M,F,702,957
+886,Anthony,1MPXAVuLthdnKMwfigXoMYZTmxK7UQzuAV,98,116,F,56,0.263,0.1362254,265,Trumpeter swan,Pale-throated three-toed sloth,25,230,F,M,792,863
+887,Bald,1qcDit9svpdWExvpzcBMLQFfKNJs39pBc,40,180,F,3,0.763,0.6360749,461,"Porcupine, north american",Egyptian vulture,127,957,M,M,71,444
+888,Gene,1GmwCQVXHpzFjvPn3G73GvXk6AYkm26wgV,98,124,F,2,0.901,0.9304163,620,American crow,"Turaco, violet-crested",428,323,F,F,774,816
+889,Emanuel,1BdarcQhgYgJ1DbJF1hqjvAYLjgSeX2QWQ,3,126,F,75,0.927,0.2633521,144,White-browed sparrow weaver,Malay squirrel (unidentified),649,924,F,M,400,653
+890,Rainer,1CUMQG22h6VHVQGk3d2q9J3hZhb23TWjhp,58,135,M,48,0.252,0.5310377,687,"Kangaroo, red",Frilled lizard,171,391,F,M,881,161
+891,Hali,1KUWCNZPNmV6PRbYX2PSmeYG47mtbtFQ7j,40,174,M,84,0.325,0.4380972,337,Red deer,"Squirrel, thirteen-lined",773,654,F,F,541,940
+892,Helene,13RoihHRpK9Wukc5M2ueAoUXRaNVoiEFYd,36,112,F,75,0.565,0.675168,712,"Starling, superb","Dove, white-winged",693,782,F,F,591,828
+893,Abdel,1H4WkSC4N9TcHXyDnv9YAuzJGZa4ycEKcs,37,181,F,40,0.148,0.800848,210,Green vine snake,Cougar,603,772,F,M,729,844
+894,Edmund,1CDx6yt2bWCSkWmmRNu5nYCp1MaEVEq4kC,73,172,F,92,0.344,0.4947719,516,Barking gecko,Green vine snake,935,577,F,M,343,300
+895,Ginnifer,1H5GV1dHEbBzCx5mkzHm88AmuTHvXgcbjd,3,144,F,49,0.718,0.309481,401,"Colobus, black and white",Dusky gull,365,497,M,F,731,739
+896,Lucky,17RRcuMmuSSdyS2W5fLA6myQeVJCJxvKfE,27,174,M,60,0.36,0.3591745,795,"Loris, slender",Richardson's ground squirrel,282,104,F,F,602,147
+897,Gale,1DVaD3YoNWKpNKcbwrfgiBY9yRFjz5vobn,95,142,F,44,0.369,0.6924193,605,"Peccary, white-lipped",Common waterbuck,520,871,F,F,830,412
+898,Keir,1E2EJogG5GiLiX7gKjF9T99uukfpmciUFV,76,152,M,13,0.71,0.5795799,279,"Macaw, blue and yellow",Lava gull,479,30,F,M,763,671
+899,Gardy,1NyGSF3W1huKgCjzFQhtCBBFMxXUuGbcFC,5,171,M,36,0.396,0.6395237,389,South American meadowlark (unidentified),Burchell's gonolek,454,826,M,M,919,280
+900,Anette,1BFUXAhkCcP4GEvsuyJonnGDyex4srMngU,69,124,F,54,0.149,0.0384414,864,"Stork, white","Civet, common palm",750,841,M,F,506,424
+901,Stephan,1CY3SYSCR81qAd5mcvWHvBUuR8y9UiCQcQ,19,193,F,35,0.17,0.6654214,269,Pied avocet,"Deer, red",576,906,M,M,245,652
+902,Randa,17DS7mDYr873LikL5yjmgThpCHovp5gDQA,4,189,F,23,0.43,0.4372654,99,"Goose, egyptian",African wild cat,500,751,M,F,48,674
+903,Dacia,1JYgaJ8cuQ3tZCKggGK3NvFa1X4YRnWqb3,28,142,F,66,0.386,0.1524062,650,"Rhea, common","Flamingo, chilean",520,546,F,F,256,400
+904,Rolfe,1JX2w2CCrzGahiQMT46TV9YQE9sFS5d2wh,32,149,F,83,0.879,0.753104,966,"Mongoose, small indian",Tree porcupine,667,607,F,M,489,957
+905,Micheline,1F9TvDw3SfkYti9JxkuWfnPZmik7iatqqi,17,110,F,76,0.451,0.1638435,592,"Quoll, spotted-tailed","Blackbird, red-winged",259,288,M,F,326,504
+906,Deane,1Bh61HkTyDb9fJQ445x4PkweJ4Q1RWPduK,90,153,M,4,0.688,0.1796167,100,"Jaeger, long-tailed",Galapagos dove,314,167,F,M,797,929
+907,Manon,13qRbgXzozGSFKsK5LQLBE8RkujawHB42D,98,144,M,28,0.339,0.9699961,884,Cape clawless otter,Gray duiker,979,869,M,F,805,814
+908,Emilie,18CSNCsaA7yBgcQaqPNbpGh4gHmMx7irsX,16,116,M,68,0.166,0.4205629,110,Royal tern,"Bustard, denham's",687,257,F,F,993,698
+909,Graig,1EfNCprYGtEfCfScnJcrdzFJ4uJ1u6nkqP,18,140,F,27,0.678,0.0017515,228,"Catfish, blue",Grey mouse lemur,766,101,M,M,425,560
+910,Christoph,1FRgDzH5daMp7EAjLeQPwcCHPGdhUYjxZz,43,179,M,77,0.471,0.4099889,853,Asiatic wild ass,Paradoxure,186,466,F,M,875,596
+911,Fons,1BQMMqhGTqyNYta4oZKhh2hCYHabhDiPwp,21,189,F,17,0.499,0.8234431,585,Carpet snake,African snake (unidentified),702,680,F,M,974,41
+912,Cahra,1NxkKpYyHS5QXRpqxgoqALVLPP2eU7gGBe,23,104,M,30,0.338,0.1835558,116,California sea lion,African wild cat,103,4,F,F,771,346
+913,Sawyere,14JhGU5WnHpUon4bQmo9s5PwY4ZwzsAp8Q,67,187,M,5,0.962,0.3698533,104,Yellow-headed caracara,Galapagos hawk,981,376,F,M,786,686
+914,Harry,1GAh84k6cQa8S5K93E6wdpRKPv78MifSad,29,187,M,14,0.492,0.7873019,976,Arctic tern,"Constrictor, eastern boa",946,636,M,M,634,381
+915,Zandra,12gTgsbtaboxoEhHr7gvrmsNKscc2dqFGt,26,136,F,53,0.257,0.5449708,757,"Snake, racer",North American porcupine,699,833,F,F,255,586
+916,Fiann,1Cd5qfjfRAHHHWuvmq4ntjqEiAesGzMhvB,43,122,M,22,0.226,0.1210494,296,Timber wolf,"Cobra, egyptian",67,198,M,F,67,124
+917,Colman,1F9gwCRSCLtF5LHWsN7tK7o9nAB6iJ1hZP,85,181,F,83,0.486,0.8739477,606,Swainson's francolin,Andean goose,721,181,F,M,580,881
+918,Filia,18aJCkytrUhFvox7AE3oQJoQr2KvpM3ywX,82,118,M,89,0.951,0.4956426,412,Red-breasted cockatoo,Red-headed woodpecker,769,72,M,F,675,992
+919,Hakim,1MF3GXGcmmRsxYCgXVh4pSYFBoeuaDQcUW,85,109,M,99,0.534,0.9825873,499,"Barbet, crested",Racer snake,258,900,F,M,310,851
+920,Rita,1JdQniGezH9Ww6KY4vCCZ39JtamfojKmFc,28,156,F,35,0.808,0.4711782,985,Turtle (unidentified),Hottentot teal,319,891,M,F,242,255
+921,Giraldo,1NKbNnevMPyXLB5pzdwupJ3cYdZ2yNgvP9,18,197,F,13,0.785,0.5264041,319,Oriental short-clawed otter,Barrows goldeneye,314,887,M,M,566,591
+922,Josselyn,12th6j9wNVX4hPcNrBKMLmwdZjKYtKGzFu,37,170,M,39,0.599,0.6814002,664,Greater roadrunner,"Weaver, sociable",668,482,F,F,685,678
+923,Jayson,1BLQWumGhej94keRjzMTvhhxynhCxxcFXc,23,129,F,19,0.619,0.1085667,930,Yellow-billed hornbill,Nubian bee-eater,542,129,F,M,162,554
+924,Ephrayim,1ACVboNAbSyczPVyhc4kjAMDR7sbTwShwm,68,145,F,40,0.193,0.4440672,15,Crab (unidentified),Great skua,440,526,M,M,631,853
+925,Devonna,19XwkTo1ZPciCVFtQHbbgLhkkzBXjzwLnc,2,155,M,56,0.992,0.645406,560,"Macaw, blue and gold",Oribi,692,579,F,F,881,999
+926,Margy,18hEHYBiz8RaYYQWyh1gsXADa4JHzVHU3u,67,114,M,4,0.402,0.7396014,663,African red-eyed bulbul,"Capuchin, weeper",691,29,F,F,658,26
+927,Germayne,1J76a7jYnhJ4hjn9xZj9XKMQwS7W9RZGka,70,137,F,66,0.953,0.5066045,321,"Deer, savannah","Hen, sage",352,389,F,M,889,381
+928,Tonya,1LHuyypiT362jf53tEt63vzNQGTuZakwQS,78,192,M,78,0.293,0.3790264,399,"Starfish, crown of thorns","Dove, ring",877,362,M,F,445,6
+929,Lew,1LzL8DATt2Z9n8LQbRn5pRkPsMkYLvVzcp,70,175,F,68,0.743,0.6152652,512,Leopard,"Macaque, japanese",488,262,M,M,370,268
+930,Marven,1LAMVLkvTuUJWxe3EqhFwwPrn8CPBHS2FM,92,114,M,41,0.979,0.8031203,802,Common zorro,White-winged dove,881,370,M,M,147,442
+931,Jade,1KKSV6gSPAJJEwysUE1rJiYnmuynz8iAst,96,135,F,25,0.272,0.9744613,400,"Vulture, turkey","Mongoose, small indian",370,922,F,F,808,718
+932,Delilah,1cF2ThxWUp2rrBfjhpdqvL3VYSNWxqAaP,36,137,M,61,0.394,0.2418879,241,"Snake, racer","Mockingbird, galapagos",689,945,F,F,469,101
+933,Patric,16XhuNRQ8adYmGzfvHXYQGPhH93NmYK2Dy,42,191,M,33,0.935,0.9830615,811,"Fox, bat-eared","Lizard, goanna",470,225,M,M,278,704
+934,Dorothea,1Mo48xiMPUSh8gX6jJvKPE6smnTk9UF1jz,66,139,F,90,0.936,0.1253597,145,Cape wild cat,"Pie, rufous tree",589,556,F,F,607,229
+935,Skipp,19NDVJLfAcVSrtGmfNdLd5MNXF1fkuDYZC,78,149,F,44,0.502,0.0621479,880,Euro wallaby,Greater sage grouse,806,425,M,M,123,444
+936,Arturo,1HQ8JEUeH3qN5Ao49Fw2jmZhuv7ZB4q896,82,140,M,56,0.425,0.5078857,669,Great white pelican,"Lark, horned",97,452,F,M,893,994
+937,Lian,1Jgi8rwb52j1yqAQKKKF3g45msuLhP7h1w,82,182,F,83,0.446,0.8202072,649,"Brocket, brown","Heron, striated",615,378,F,F,790,91
+938,Lawton,13RDmAmpQjrbpEoXiPHVj5T5DTY4oYsZAs,60,149,F,27,0.378,0.7750776,376,Black-tailed deer,African buffalo,820,850,M,M,197,409
+939,Willy,1Ljq962JMmfRWNgHnLaQVYPLRg3LTcZ6sL,64,141,M,84,0.17,0.7495562,677,"Lizard, blue-tongued","Armadillo, giant",344,735,M,F,732,888
+940,Chloris,1CEwx1UaXzXJyH7g5qA3bchdouT2cVzsu6,96,141,M,50,1.0,0.9352991,574,Wild water buffalo,Black-cheeked waxbill,566,67,M,F,151,371
+941,Klemens,1HcTQgeTRuWGvxvFBHG5ER2NGDiFy2U7n6,21,158,M,69,0.517,0.7575549,784,"Grouse, greater sage",Smith's bush squirrel,409,962,M,M,3,610
+942,Iseabal,12z6jcHbAiHm6YGrY2uFqHhTiEDJr7yuuY,72,189,M,18,0.109,0.249328,834,"Bird, secretary",Crab-eating raccoon,106,967,F,F,26,366
+943,Eddie,1Q6mfqn5Q6ZbYLsHcMjgsQnykzGzabwvYT,17,177,F,20,0.606,0.112713,955,Two-toed sloth,"Pademelon, red-legged",129,514,F,M,754,142
+944,Rina,1CuGM9dSKs2gj6DbgMRZ7oyeYXMZA8Q8tR,19,165,F,47,0.941,0.8937587,931,"Eagle, bald","Egret, great",149,559,M,F,722,353
+945,Murray,1QGZmD9FiUxDqahujK68eSpNfC7ypCojcL,89,140,F,12,0.544,0.7979585,519,Mouflon,Little cormorant,801,619,M,M,672,317
+946,Aldo,1Q8oxzGtnz8kXrKduvu9X42jysLYNzRejz,58,185,F,75,0.111,0.7002036,96,"Cobra, egyptian",Frilled dragon,471,851,F,M,357,437
+947,Orlando,1BzCP6ViqkfFRjN5pDiw5qrNjoihguL9te,49,103,F,4,0.796,0.365364,169,Black-footed ferret,Numbat,324,636,F,M,417,863
+948,Clara,1FjP4kPMDMQea5fpCT4bcDMXMxf3e3oft5,10,146,M,22,0.975,0.8208546,449,"Seal, harbor","Armadillo, nine-banded",374,69,M,F,836,848
+949,Otto,1GSCV3e7qZSa6uj9CY8mD4myiZgQNjXKoR,34,176,F,12,0.778,0.9701367,709,"Duck, white-faced whistling",Galah,392,160,M,M,304,987
+950,Shane,1PyTRHVFhY7ZGWLK9xqeHjZFKKosoiHM3S,97,139,M,74,0.613,0.3925743,501,Thomson's gazelle,African red-eyed bulbul,922,838,M,F,642,230
+951,Brier,144vAR8rbhsPdAfbU99svUgGgeVhJnNVcG,21,175,M,84,0.641,0.3760125,683,"Ibis, glossy","Duiker, common",216,960,M,F,833,689
+952,Harley,1AHNbDjTgpz2fp4MPP2GD6RYR8fdCXocTt,53,183,F,61,0.686,0.7572515,148,Tiger,"Lynx, african",972,604,M,F,298,67
+953,Clerkclaude,16YEzPJaoHqBjKizeS5PEGR7ooEchXosQH,87,175,M,4,0.408,0.8359884,439,Bonnet macaque,Indian mynah,218,25,F,M,685,395
+954,Egbert,1JNS9gFTjprN8HHGcrY4ckoTsjgXgoFYKr,10,199,M,95,0.655,0.3159837,985,"Elephant, african",Hoary marmot,849,651,F,M,895,24
+955,Delainey,1MSZn17VqCTvQpKqECyHzeMSDBYPVpsqzX,26,117,M,49,0.309,0.8775742,136,"Monitor, water",White-winged dove,590,931,M,M,90,928
+956,Zabrina,1GEc97XhnC4r9iqGUfmp9r2riwhCP5Mrum,43,106,F,58,0.76,0.5079639,44,"Pheasant, common",Mule deer,683,712,M,F,214,256
+957,Erie,13GFpRZysdMrd2aRtwBzqkQTikcHaevuEk,25,147,M,18,0.696,0.8494854,433,"Peacock, indian",Common rhea,876,18,M,M,152,142
+958,Anny,1M4FiTpWzxJDJLxQh8BS8YS2AKcKTDrSHR,25,169,F,51,0.971,0.6150696,929,Lesser masked weaver,"Crow, house",426,977,M,F,322,218
+959,Codie,17t8kt2gLwrMDqFS4LEF9qv7y8vQGNTZ1k,42,191,F,96,0.12,0.7956215,524,Paca,Asian elephant,952,733,M,M,250,764
+960,Reagan,1DptUZakCwRQfP5B7n2rvNu77S9JQQBar7,63,169,F,84,0.126,0.7191261,58,Cottonmouth,Gulls (unidentified),160,115,M,M,993,495
+961,Annmaria,1EQdqWzmPRZ6gkc3LqaU2tiAHvychuFa7i,93,107,F,64,0.916,0.742299,689,"Marshbird, brown and yellow","Bear, sloth",827,697,F,F,494,820
+962,Jelene,19V2pSKwz7SDPjHWkTgJGSb28XDKDcK2vz,66,103,M,2,0.98,0.5238267,663,"Tern, white-winged black",Tiger,712,637,M,F,311,312
+963,Bev,1Dn5zuSZ1EoyLZq4JRvX5TEr6jcv2eVXbY,67,152,M,100,0.441,0.9946374,213,"Crane, sarus",Common waterbuck,310,942,M,F,449,707
+964,Bert,1CHp8KDLYz1B4ug3u95iSLzMeL5ChJRgJ6,41,199,M,20,0.169,0.5432381,866,"Bandicoot, southern brown","Moccasin, water",66,704,M,M,492,50
+965,Arne,13i5WEJPdwVWvjs75u1zxHP1N8e66xvK5p,56,143,M,3,0.787,0.7504568,596,Javanese cormorant,"Coatimundi, white-nosed",753,143,F,M,3,650
+966,Eda,1JxBUutuy5rNqjSzjnoDy4AQpAFdu1Q6Pc,21,180,M,88,0.555,0.9784862,565,"Lorikeet, scaly-breasted",Red-tailed wambenger,881,68,M,F,585,271
+967,Val,1PsMumSk8ZaztrUTLNkDZknUpNPfMeTdBR,64,178,F,28,0.179,0.750547,96,Square-lipped rhinoceros,Richardson's ground squirrel,259,581,F,F,819,955
+968,Corbet,16XgRdn2g41qFYvRSr39L5MywndKagWjVL,76,116,M,12,0.699,0.2506897,359,"Seal, southern elephant","Monkey, red howler",397,52,M,M,294,180
+969,Edgardo,1K2EUc2ywGogfUDAa1XLXJ3iCj8acR2sed,16,164,M,74,0.728,0.9055047,458,"Screamer, crested","Turkey, wild",89,704,M,M,617,475
+970,Riannon,17y7jTC6UwhjFSmzPkebtkh29jbMiRKz4M,85,180,M,36,0.421,0.5536782,120,"Badger, european",Caracal,399,486,F,F,392,23
+971,Jack,1Fz3361FhbFJehRUFcaiVCp1QcQzSZSwAW,38,196,M,45,0.743,0.2752225,121,"Shark, blue",Common langur,585,213,M,M,529,629
+972,Ambrosi,1LABRrd2QLyo2vkPkuLcoFV78i2LN5C9JS,70,121,F,66,0.35,0.6782361,549,"Dove, rock","Phalarope, red-necked",500,256,M,M,437,884
+973,Iver,16waYoMMGgQckZnpxxQ6nTdT6zb4aLJbkn,7,150,F,20,0.784,0.34284,930,Platypus,"Crane, sarus",457,368,F,M,284,873
+974,Rolland,18DTVP1au4x612HhYDTGUqQK11xwnPiS5,97,193,M,83,0.284,0.1402639,387,"Goose, cape barren",Asian foreset tortoise,904,64,M,M,183,186
+975,Nadine,1FWHvsz9er2gcsjBCngv46ZucKPu4rYQFX,57,184,F,27,0.282,0.8138973,831,"Gazelle, grant's",Dingo,179,363,F,F,884,956
+976,Greg,1HqfdZmVdwfrsuEP4QCZrnPSBsXGbRQHWF,94,157,F,9,0.801,0.8809771,354,"Baboon, olive",Eagle owl (unidentified),423,527,F,M,343,226
+977,Edlin,1HKgqPgYjabG5pXmFWoJfnzrKh6BWBYyED,74,147,F,6,0.944,0.3602359,10,European spoonbill,"Kingfisher, malachite",142,619,F,M,276,965
+978,Kiley,1D5TZPVqSikZMxWjtDZVuWx8znCUdfxQFG,81,200,F,79,0.89,0.9589666,446,Fairy penguin,"Pintail, white-cheeked",552,57,F,F,243,88
+979,Fitz,1HjHWE5raSQNNYMHzCnYWkHi6eARUo7kgQ,9,176,F,52,0.344,0.1766967,111,"Monitor, two-banded",Malachite kingfisher,564,857,M,M,105,651
+980,Tome,18jJeFpgNEQj3udP9j9DKSgbqEU8r1uXST,28,140,M,81,0.825,0.0043691,81,Reindeer,"Capuchin, black-capped",562,452,F,M,66,686
+981,Mildrid,18Hm6UWuy16THya1kokECnNJBHwyoPysjz,80,186,F,100,0.694,0.9106314,29,Brush-tailed rat kangaroo,Waved albatross,98,160,M,F,672,477
+982,Sigfrid,1AiutQYQ2dgrvhmEZNk2F6Hzw7acGo3X26,39,148,M,37,0.893,0.483402,865,"Macaw, green-winged",Carmine bee-eater,403,5,F,M,150,891
+983,Ezri,12HJ5YyToN6JFemMt2i7bfLQHShRdLPzEZ,3,119,F,11,0.723,0.4909365,127,White-faced tree rat,"Peacock, blue",20,40,M,M,934,574
+984,Daffie,16WGDWCqumsdJ7ra3NG4BNoDbndXaLrJxo,40,115,M,8,0.321,0.1900278,748,Common zebra,Common raccoon,22,117,M,F,13,549
+985,De witt,1Jk4FPoGhb8bZdVLwY8KvZ6DbC82ciPMnz,75,149,M,100,0.933,0.5326695,899,White-throated kingfisher,Eastern boa constrictor,610,616,F,M,761,561
+986,Fairfax,19jD2UUi5VBNLwrQ7CZXZviuQU8rYmmnce,24,149,M,38,0.937,0.1735678,351,Tayra,"Otter, giant",850,29,M,M,376,932
+987,Barth,1MMNsTFJHGZzH32qpA6regXdFydpLv2gBU,82,101,M,82,0.617,0.3095352,542,"Cockatoo, red-breasted",Blue peacock,867,540,F,M,168,349
+988,Jean,1GZrLRqJaymqNGioeR7QJq3efybasNUnhA,62,183,F,98,0.66,0.5655228,605,"Heron, black-crowned night","Meerkat, red",105,647,M,F,9,555
+989,Arda,12QtEu6MCWtFFdiGEsEZ6b7G4Nn4DFevEr,87,180,M,38,0.847,0.7194029,170,Four-spotted skimmer,"Owl, australian masked",827,358,M,F,117,1
+990,Sophey,154Hxy2XH9LFw26Q4zadWgDLpMEUPWJ3kM,56,183,M,47,0.125,0.6575492,478,Red kangaroo,Black kite,139,587,F,F,179,950
+991,Vonnie,16GzWNRMajRfKqKnuuHegArVdNdPzdHgTv,42,148,M,83,0.998,0.6461736,953,"Kangaroo, eastern grey",Radiated tortoise,287,461,F,F,232,353
+992,Miran,14iemyvvp7K6VNsx5UKkAG9cWMoacYtsbi,45,133,M,28,0.887,0.6628731,618,Four-horned antelope,Two-toed tree sloth,158,527,M,F,485,63
+993,Merrilee,1M6cuz6oGnC92qAi1HUEmMVTgY44JuGpvK,52,173,F,89,0.295,0.1468907,143,"Starling, superb",Ovenbird,687,601,F,F,242,724
+994,Lian,1PZH7cuUUEgku2vyu3dT1fK9BQubpuHBT4,6,109,M,5,0.847,0.4433618,279,"Hornbill, southern ground",Western lowland gorilla,112,637,F,F,101,376
+995,Emerson,1MdVpZ7x5m2athbj3LBEZUz9MkqrrgguPh,57,184,M,65,0.867,0.7911669,133,American marten,"Bear, grizzly",562,18,F,M,718,405
+996,Antonella,1AQcfJVH8VKTayogQ7msX6cB5cSDd2qQsK,69,197,F,31,0.278,0.4867426,354,Common long-nosed armadillo,Magellanic penguin,312,340,F,F,119,55
+997,Elianora,1L4jXfkDKqccb8auGzWwmgi8jeJnEsBye5,37,189,F,12,0.564,0.9679261,469,"Capuchin, weeper","Viper, egyptian",433,796,F,F,384,425
+998,Doro,1NABU2VivPCcrkKs3EmAwGuDFEPuQvXpV4,65,154,F,48,0.556,0.9837448,882,Red-headed woodpecker,Two-banded monitor,798,912,M,F,183,885
+999,Andre,1PX4PAZz1R4Ut66MY2fAsVZAvs4qHjYWw6,1,168,M,88,0.222,0.3279236,915,"Bleu, red-cheeked cordon",Red-tailed phascogale,630,1000,F,M,586,287
+1000,Shelley,14jraj2EDGh2cU9jAvzTYFPVMhENnRmiTu,46,176,F,90,0.471,0.2171612,349,"Stork, european",Southern brown bandicoot,154,542,F,M,471,32
